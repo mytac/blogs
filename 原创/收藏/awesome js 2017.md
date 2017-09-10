@@ -2,6 +2,8 @@
 1. [Rythm.js  --  一个使您的页面跳舞的JavaScript库。](https://github.com/Okazari/Rythm.js)
 2. [anime -- JavaScript动画引擎](https://github.com/juliangarnier/anime)
     [Demo](https://okazari.github.io/Rythm.js/)
+3. [lookforward.js -- 在页面跳转时的一些特效](https://github.com/appleple/lookforward)
+    [Demo](https://appleple.github.io/lookforward/)
 ### 图像处理
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 ### 服务端相关
