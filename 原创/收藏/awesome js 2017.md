@@ -4,8 +4,10 @@
     [Demo](https://okazari.github.io/Rythm.js/)
 3. [lookforward.js -- 在页面跳转时的一些特效](https://github.com/appleple/lookforward)
     [Demo](https://appleple.github.io/lookforward/)
-### 图像处理
+### 图像影音相关
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
+2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
+3. [Youku-HTML5-Player  -- 告别flash和广告,Youku HTML5播放器扩展](https://github.com/esterTion/Youku-HTML5-Player)
 ### 服务端相关
 1. [r2 -- HTTP客户端](https://github.com/mikeal/r2)
 2. [fastify -- 快速和低开销的Web框架，用于Node.js](https://github.com/fastify/fastify)
@@ -17,12 +19,18 @@
 2. [easy-mock  --  一种持久的服务，可以快速生成模拟数据并提供可视化视图。](https://github.com/easy-mock/easy-mock)
 3. [create-react-app -- 创建没有构建配置的React应用程序。](https://github.com/facebookincubator/create-react-app)
 4. [drone -- 缺少Android开发人员的lib manager](https://github.com/cesarferreira/drone)
+### 代码分析工具
+1. [Iroh -- 动态分析工具，在runtime时拦截、分析和记录javaScript](https://github.com/maierfelix/Iroh)
+
+    [【Demo】](https://maierfelix.github.io/Iroh/examples/execution-path/)
+2. [type-profile -- 收集JavaScript代码的运行时类型信息。](https://github.com/fhinkel/type-profile)
 ### 文件处理
 1. [react-pdf -- 轻松地在您的React应用程序中显示PDF文件。](https://github.com/wojtekmaj/react-pdf)
 
     [Demo](http://projekty.wojtekmaj.pl/react-pdf/)
 ### 博客
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
+
 ### funny stuff
 1. [Storyboarder -- 快速地绘制一个故事，轻松绘制棒状图。](https://github.com/wonderunit/storyboarder)
 2. [D3 -- 使用SVG，Canvas和HTML将数据带入生活](https://github.com/d3/d3)
