@@ -4,6 +4,9 @@
     [Demo](https://okazari.github.io/Rythm.js/)
 3. [lookforward.js -- 在页面跳转时的一些特效](https://github.com/appleple/lookforward)
     [Demo](https://appleple.github.io/lookforward/)
+4. [better-scroll -- 一款重点解决移动端（未来可能会考虑 PC 端）各种滚动场景需求的插件。](https://github.com/ustbhuangyi/better-scroll)
+    
+    [【Demo】](https://ustbhuangyi.github.io/better-scroll/#/examples)
 ### 图像影音相关
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
@@ -12,6 +15,7 @@
 1. [r2 -- HTTP客户端](https://github.com/mikeal/r2)
 2. [fastify -- 快速和低开销的Web框架，用于Node.js](https://github.com/fastify/fastify)
 3. [axios  --  用于浏览器和node.js的基于Promise的HTTP客户端](https://github.com/mzabriskie/axios)
+4. [p-progress -- 用于在长时间运行异步操作时向用户报告进度](https://github.com/sindresorhus/p-progress)
 ### 项目开发工具
 1. [Lozad -- 高性能、轻的在纯JS中可配置的惰性加载器，不依赖于图像、框架或是其他](https://github.com/ApoorvSaxena/lozad.js)
 
@@ -19,6 +23,13 @@
 2. [easy-mock  --  一种持久的服务，可以快速生成模拟数据并提供可视化视图。](https://github.com/easy-mock/easy-mock)
 3. [create-react-app -- 创建没有构建配置的React应用程序。](https://github.com/facebookincubator/create-react-app)
 4. [drone -- 缺少Android开发人员的lib manager](https://github.com/cesarferreira/drone)
+5. [Nano ID -- 一个小巧，安全的URL友好的JavaScript字符串ID生成器。](https://github.com/ai/nanoid)
+    
+    [example]
+    ```js
+    var nanoid = require('nanoid')
+    model.id = nanoid() //=> "Uakgb_J5m9g~0JDMbcJqLJ"
+    ```
 ### 代码分析工具
 1. [Iroh -- 动态分析工具，在runtime时拦截、分析和记录javaScript](https://github.com/maierfelix/Iroh)
 
@@ -30,7 +41,11 @@
     [Demo](http://projekty.wojtekmaj.pl/react-pdf/)
 ### 博客
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
-
 ### funny stuff
 1. [Storyboarder -- 快速地绘制一个故事，轻松绘制棒状图。](https://github.com/wonderunit/storyboarder)
 2. [D3 -- 使用SVG，Canvas和HTML将数据带入生活](https://github.com/d3/d3)
+3. [react-powerplug -- 给你的dumb组件生命 ](https://github.com/renatorib/react-powerplug)
+4. [Boostnote -- 一个开源的多平台笔记应用程序](https://github.com/BoostIO/Boostnote)
+    [【官网】](https://boostnote.io/)
+
+
