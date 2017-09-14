@@ -5,6 +5,7 @@
 3. [lookforward.js -- 在页面跳转时的一些特效](https://github.com/appleple/lookforward)
     [Demo](https://appleple.github.io/lookforward/)
 4. [better-scroll -- 一款重点解决移动端（未来可能会考虑 PC 端）各种滚动场景需求的插件。](https://github.com/ustbhuangyi/better-scroll)
+5. [cssFilters -- 自定义和Instagram喜欢用React创建的CSS的照片过滤器](https://github.com/ghosh/cssFilters) [【官网】](http://www.cssfilters.co/)
     
     [【Demo】](https://ustbhuangyi.github.io/better-scroll/#/examples)
 ### 图像影音相关
@@ -34,7 +35,8 @@
 1. [Iroh -- 动态分析工具，在runtime时拦截、分析和记录javaScript](https://github.com/maierfelix/Iroh)
 
     [【Demo】](https://maierfelix.github.io/Iroh/examples/execution-path/)
-2. [type-profile -- 收集JavaScript代码的运行时类型信息。](https://github.com/fhinkel/type-profile)
+2. [babel-plugin-sitrep -- 使用简单的注释记录函数的所有作业和返回值](https://github.com/tkh44/babel-plugin-sitrep)
+3. [type-profile -- 收集JavaScript代码的运行时类型信息。](https://github.com/fhinkel/type-profile)
 ### 文件处理
 1. [react-pdf -- 轻松地在您的React应用程序中显示PDF文件。](https://github.com/wojtekmaj/react-pdf)
 
@@ -47,5 +49,5 @@
 3. [react-powerplug -- 给你的dumb组件生命 ](https://github.com/renatorib/react-powerplug)
 4. [Boostnote -- 一个开源的多平台笔记应用程序](https://github.com/BoostIO/Boostnote)
     [【官网】](https://boostnote.io/)
-
+5. [build-a-bot-with-zero-coding -- 使用Google表格创建没有后端服务器的Viber调查聊天机器人的示例](https://github.com/Viber/build-a-bot-with-zero-coding)
 
