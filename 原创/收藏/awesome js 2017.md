@@ -8,6 +8,8 @@
 5. [cssFilters -- 自定义和Instagram喜欢用React创建的CSS的照片过滤器](https://github.com/ghosh/cssFilters) [【官网】](http://www.cssfilters.co/)
     
     [【Demo】](https://ustbhuangyi.github.io/better-scroll/#/examples)
+### ui相关
+1. [fitty -- 自适应文字大小](https://github.com/rikschennink/fitty)
 ### 图像影音相关
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
@@ -43,6 +45,8 @@
     [Demo](http://projekty.wojtekmaj.pl/react-pdf/)
 ### 博客
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
+### 第三方扩展
+1. [wp-calypso -- 使用单页Web应用程序对WordPress仪表板进行了美丽的重新设计](https://github.com/Automattic/wp-calypso)
 ### funny stuff
 1. [Storyboarder -- 快速地绘制一个故事，轻松绘制棒状图。](https://github.com/wonderunit/storyboarder)
 2. [D3 -- 使用SVG，Canvas和HTML将数据带入生活](https://github.com/d3/d3)
