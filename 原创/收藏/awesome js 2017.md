@@ -8,6 +8,9 @@
 5. [cssFilters -- 自定义和Instagram喜欢用React创建的CSS的照片过滤器](https://github.com/ghosh/cssFilters) [【官网】](http://www.cssfilters.co/)
     
     [【Demo】](https://ustbhuangyi.github.io/better-scroll/#/examples)
+6. [Liike -- 一个小型的js补间库](https://github.com/LiikeJS/Liike)
+
+    [【Demo】](https://liike.js.org/)
 ### ui相关
 1. [fitty -- 自适应文字大小](https://github.com/rikschennink/fitty)
 ### 图像影音相关
@@ -33,18 +36,24 @@
     var nanoid = require('nanoid')
     model.id = nanoid() //=> "Uakgb_J5m9g~0JDMbcJqLJ"
     ```
+6. [anu -- 一个高性能、精巧的react扩展库](https://github.com/RubyLouvre/anu)
+7. [api-mocker -- 一个接口管理系统](https://github.com/DXY-F2E/api-mocker)
+
+    [【官网】](https://rubylouvre.github.io/anu/)
 ### 代码分析工具
 1. [Iroh -- 动态分析工具，在runtime时拦截、分析和记录javaScript](https://github.com/maierfelix/Iroh)
 
     [【Demo】](https://maierfelix.github.io/Iroh/examples/execution-path/)
 2. [babel-plugin-sitrep -- 使用简单的注释记录函数的所有作业和返回值](https://github.com/tkh44/babel-plugin-sitrep)
 3. [type-profile -- 收集JavaScript代码的运行时类型信息。](https://github.com/fhinkel/type-profile)
+4. [size-limit -- 一个防止js库膨胀的分析工具](https://github.com/ai/size-limit)
 ### 文件处理
 1. [react-pdf -- 轻松地在您的React应用程序中显示PDF文件。](https://github.com/wojtekmaj/react-pdf)
 
     [Demo](http://projekty.wojtekmaj.pl/react-pdf/)
 ### 博客
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
+2. [front-end-handbook-2017 -- 2017 年，如何学习前端工程，用什么工具来实践？](https://github.com/xitu/front-end-handbook-2017)
 ### 第三方扩展
 1. [wp-calypso -- 使用单页Web应用程序对WordPress仪表板进行了美丽的重新设计](https://github.com/Automattic/wp-calypso)
 ### funny stuff
