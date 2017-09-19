@@ -11,6 +11,9 @@
 6. [Liike -- 一个小型的js补间库](https://github.com/LiikeJS/Liike)
 
     [【Demo】](https://liike.js.org/)
+7. [amplify -- 一个允许内嵌图像缩放的小脚本](https://github.com/charlestati/amplify)
+    
+    [【Demo】](https://charlestati.github.io/amplify/)
 ### ui相关
 1. [fitty -- 自适应文字大小](https://github.com/rikschennink/fitty)
 ### 图像影音相关
@@ -51,11 +54,18 @@
 1. [react-pdf -- 轻松地在您的React应用程序中显示PDF文件。](https://github.com/wojtekmaj/react-pdf)
 
     [Demo](http://projekty.wojtekmaj.pl/react-pdf/)
+2. [jsPDF -- 在客户端生成pdf](https://github.com/MrRio/jsPDF)
+    
+    [【Demo】](http://rawgit.com/MrRio/jsPDF/master/)
 ### 博客
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
 2. [front-end-handbook-2017 -- 2017 年，如何学习前端工程，用什么工具来实践？](https://github.com/xitu/front-end-handbook-2017)
+3. [es6tutorial -- 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。](https://github.com/ruanyf/es6tutorial)
 ### 第三方扩展
 1. [wp-calypso -- 使用单页Web应用程序对WordPress仪表板进行了美丽的重新设计](https://github.com/Automattic/wp-calypso)
+2. [Rax -- 通用的React兼容渲染引擎](https://github.com/alibaba/rax)
+    
+    [【官网】](https://alibaba.github.io/rax/component/text)
 ### funny stuff
 1. [Storyboarder -- 快速地绘制一个故事，轻松绘制棒状图。](https://github.com/wonderunit/storyboarder)
 2. [D3 -- 使用SVG，Canvas和HTML将数据带入生活](https://github.com/d3/d3)
