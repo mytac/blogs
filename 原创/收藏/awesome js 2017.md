@@ -20,6 +20,7 @@
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
 3. [Youku-HTML5-Player  -- 告别flash和广告,Youku HTML5播放器扩展](https://github.com/esterTion/Youku-HTML5-Player)
+4. [style2paints -- 新一代线稿上色人工智能AI](https://github.com/lllyasviel/style2paints)
 ### 服务端相关
 1. [r2 -- HTTP客户端](https://github.com/mikeal/r2)
 2. [fastify -- 快速和低开销的Web框架，用于Node.js](https://github.com/fastify/fastify)
@@ -61,6 +62,7 @@
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
 2. [front-end-handbook-2017 -- 2017 年，如何学习前端工程，用什么工具来实践？](https://github.com/xitu/front-end-handbook-2017)
 3. [es6tutorial -- 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。](https://github.com/ruanyf/es6tutorial)
+4. [learnVue -- Vue.js源码剖析](https://github.com/answershuto/learnVue)
 ### 第三方扩展
 1. [wp-calypso -- 使用单页Web应用程序对WordPress仪表板进行了美丽的重新设计](https://github.com/Automattic/wp-calypso)
 2. [Rax -- 通用的React兼容渲染引擎](https://github.com/alibaba/rax)
@@ -73,4 +75,5 @@
 4. [Boostnote -- 一个开源的多平台笔记应用程序](https://github.com/BoostIO/Boostnote)
     [【官网】](https://boostnote.io/)
 5. [build-a-bot-with-zero-coding -- 使用Google表格创建没有后端服务器的Viber调查聊天机器人的示例](https://github.com/Viber/build-a-bot-with-zero-coding)
+6. [AR.js -- 有效的增强现实的网络 - 60fps在手机上！](https://github.com/jeromeetienne/AR.js)
 
