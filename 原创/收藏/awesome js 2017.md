@@ -16,11 +16,15 @@
     [【Demo】](https://charlestati.github.io/amplify/)
 ### ui相关
 1. [fitty -- 自适应文字大小](https://github.com/rikschennink/fitty)
+2. [vuetify -- Vue.js的material组件框架2](https://github.com/vuetifyjs/vuetify)
+    
+    [【官网】](https://vuetifyjs.com/)
 ### 图像影音相关
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
 3. [Youku-HTML5-Player  -- 告别flash和广告,Youku HTML5播放器扩展](https://github.com/esterTion/Youku-HTML5-Player)
 4. [style2paints -- 新一代线稿上色人工智能AI](https://github.com/lllyasviel/style2paints)
+5. [winamp2-js -- 在HTML5和Javascript中重新实现Winamp 2.9](https://github.com/captbaritone/winamp2-js)
 ### 服务端相关
 1. [r2 -- HTTP客户端](https://github.com/mikeal/r2)
 2. [fastify -- 快速和低开销的Web框架，用于Node.js](https://github.com/fastify/fastify)
@@ -51,6 +55,7 @@
 2. [babel-plugin-sitrep -- 使用简单的注释记录函数的所有作业和返回值](https://github.com/tkh44/babel-plugin-sitrep)
 3. [type-profile -- 收集JavaScript代码的运行时类型信息。](https://github.com/fhinkel/type-profile)
 4. [size-limit -- 一个防止js库膨胀的分析工具](https://github.com/ai/size-limit)
+5. [cqc -- 代码质量检查器](https://github.com/xcatliu/cqc)
 ### 文件处理
 1. [react-pdf -- 轻松地在您的React应用程序中显示PDF文件。](https://github.com/wojtekmaj/react-pdf)
 
