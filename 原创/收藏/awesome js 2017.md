@@ -30,6 +30,19 @@
 2. [fastify -- 快速和低开销的Web框架，用于Node.js](https://github.com/fastify/fastify)
 3. [axios  --  用于浏览器和node.js的基于Promise的HTTP客户端](https://github.com/mzabriskie/axios)
 4. [p-progress -- 用于在长时间运行异步操作时向用户报告进度](https://github.com/sindresorhus/p-progress)
+5. [nanoevents -- 简单且小巧的事件发射器](https://github.com/ai/nanoevents)
+```js
+import NanoEvents from 'nanoevents'
+const emitter = new NanoEvents()
+
+const unbind = emitter.on('tick', volume => {
+  summary += volume
+})
+
+function disable () {
+  unbind()
+}
+```
 ### 项目开发工具
 1. [Lozad -- 高性能、轻的在纯JS中可配置的惰性加载器，不依赖于图像、框架或是其他](https://github.com/ApoorvSaxena/lozad.js)
 
@@ -48,6 +61,7 @@
 7. [api-mocker -- 一个接口管理系统](https://github.com/DXY-F2E/api-mocker)
 
     [【官网】](https://rubylouvre.github.io/anu/)
+8. [gatsby -- 基于React的静态站点生成器](https://github.com/gatsbyjs/gatsby)
 ### 代码分析工具
 1. [Iroh -- 动态分析工具，在runtime时拦截、分析和记录javaScript](https://github.com/maierfelix/Iroh)
 
@@ -63,11 +77,16 @@
 2. [jsPDF -- 在客户端生成pdf](https://github.com/MrRio/jsPDF)
     
     [【Demo】](http://rawgit.com/MrRio/jsPDF/master/)
+### 数据图表相关
+1. [D3 -- 使用SVG，Canvas和HTML将数据带入生活](https://github.com/d3/d3)
+2. [ngraph.path -- 在图表中查找路径](https://github.com/anvaka/ngraph.path)
+3. [billboard.js -- 一个基于D3 v4 +的可重用的简单界面JavaScript图表库。](https://github.com/naver/billboard.js)
 ### 博客
 1. [clean-code-javascript -- 适用于JavaScript的干净代码概念](https://github.com/ryanmcdermott/clean-code-javascript)
 2. [front-end-handbook-2017 -- 2017 年，如何学习前端工程，用什么工具来实践？](https://github.com/xitu/front-end-handbook-2017)
 3. [es6tutorial -- 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。](https://github.com/ruanyf/es6tutorial)
 4. [learnVue -- Vue.js源码剖析](https://github.com/answershuto/learnVue)
+5. [tech-interview-handbook -- 面经](https://github.com/yangshun/tech-interview-handbook)
 ### 第三方扩展
 1. [wp-calypso -- 使用单页Web应用程序对WordPress仪表板进行了美丽的重新设计](https://github.com/Automattic/wp-calypso)
 2. [Rax -- 通用的React兼容渲染引擎](https://github.com/alibaba/rax)
@@ -75,10 +94,11 @@
     [【官网】](https://alibaba.github.io/rax/component/text)
 ### funny stuff
 1. [Storyboarder -- 快速地绘制一个故事，轻松绘制棒状图。](https://github.com/wonderunit/storyboarder)
-2. [D3 -- 使用SVG，Canvas和HTML将数据带入生活](https://github.com/d3/d3)
-3. [react-powerplug -- 给你的dumb组件生命 ](https://github.com/renatorib/react-powerplug)
-4. [Boostnote -- 一个开源的多平台笔记应用程序](https://github.com/BoostIO/Boostnote)
+2. [react-powerplug -- 给你的dumb组件生命 ](https://github.com/renatorib/react-powerplug)
+3. [Boostnote -- 一个开源的多平台笔记应用程序](https://github.com/BoostIO/Boostnote)
     [【官网】](https://boostnote.io/)
-5. [build-a-bot-with-zero-coding -- 使用Google表格创建没有后端服务器的Viber调查聊天机器人的示例](https://github.com/Viber/build-a-bot-with-zero-coding)
-6. [AR.js -- 有效的增强现实的网络 - 60fps在手机上！](https://github.com/jeromeetienne/AR.js)
-
+4. [build-a-bot-with-zero-coding -- 使用Google表格创建没有后端服务器的Viber调查聊天机器人的示例](https://github.com/Viber/build-a-bot-with-zero-coding)
+5. [AR.js -- 有效的增强现实的网络 - 60fps在手机上！](https://github.com/jeromeetienne/AR.js)
+6. [socket-io-game -- 一个多人在线游戏的例子](https://github.com/sgoedecke/socket-io-game)
+    
+    [【Demo】](http://socket-blocker.herokuapp.com/)
