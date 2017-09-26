@@ -19,6 +19,7 @@
 2. [vuetify -- Vue.js的material组件框架2](https://github.com/vuetifyjs/vuetify)
     
     [【官网】](https://vuetifyjs.com/)
+3. [bosket -- 前端框架的树视图实现库](https://github.com/elbywan/bosket)
 ### 图像影音相关
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
@@ -62,6 +63,7 @@ function disable () {
 
     [【官网】](https://rubylouvre.github.io/anu/)
 8. [gatsby -- 基于React的静态站点生成器](https://github.com/gatsbyjs/gatsby)
+9. [statty -- 一个微小而不引人注目的状态管理库，用于React和Preact应用](https://github.com/vesparny/statty)
 ### 代码分析工具
 1. [Iroh -- 动态分析工具，在runtime时拦截、分析和记录javaScript](https://github.com/maierfelix/Iroh)
 
@@ -102,3 +104,6 @@ function disable () {
 6. [socket-io-game -- 一个多人在线游戏的例子](https://github.com/sgoedecke/socket-io-game)
     
     [【Demo】](http://socket-blocker.herokuapp.com/)
+7. [guitar_bro -- 浏览器游戏，帮助您学习吉他](https://github.com/makaroni4/guitar_bro)
+    
+    [【Demo】](https://makaroni4.github.io/guitar_bro/)
