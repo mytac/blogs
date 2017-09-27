@@ -89,6 +89,7 @@ function disable () {
 3. [es6tutorial -- 一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新增的语法特性。](https://github.com/ruanyf/es6tutorial)
 4. [learnVue -- Vue.js源码剖析](https://github.com/answershuto/learnVue)
 5. [tech-interview-handbook -- 面经](https://github.com/yangshun/tech-interview-handbook)
+6. [iCSS -- 谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)
 ### 第三方扩展
 1. [wp-calypso -- 使用单页Web应用程序对WordPress仪表板进行了美丽的重新设计](https://github.com/Automattic/wp-calypso)
 2. [Rax -- 通用的React兼容渲染引擎](https://github.com/alibaba/rax)
@@ -107,3 +108,4 @@ function disable () {
 7. [guitar_bro -- 浏览器游戏，帮助您学习吉他](https://github.com/makaroni4/guitar_bro)
     
     [【Demo】](https://makaroni4.github.io/guitar_bro/)
+
