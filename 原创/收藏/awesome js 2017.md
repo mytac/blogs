@@ -20,6 +20,9 @@
     
     [【官网】](https://vuetifyjs.com/)
 3. [bosket -- 前端框架的树视图实现库](https://github.com/elbywan/bosket)
+4. [vant -- 来自YouZan的Vue.js 2.0 Mobile UI](https://github.com/youzan/vant)
+    
+    [【官网】](https://www.youzanyun.com/zanui/vue/component/loading)
 ### 图像影音相关
 1. [react-imgpro  --  用于React的图像处理组件](https://github.com/nitin42/react-imgpro)
 2. [geometry-processing-js -- 用于web上几何处理的快速通用框架。](https://github.com/GeometryCollective/geometry-processing-js)
