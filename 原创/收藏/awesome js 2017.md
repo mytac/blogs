@@ -78,6 +78,7 @@ function disable () {
 3. [type-profile -- 收集JavaScript代码的运行时类型信息。](https://github.com/fhinkel/type-profile)
 4. [size-limit -- 一个防止js库膨胀的分析工具](https://github.com/ai/size-limit)
 5. [cqc -- 代码质量检查器](https://github.com/xcatliu/cqc)
+6. [vue-test-utils -- 用于测试vue组件的程序](https://github.com/vuejs/vue-test-utils )
 ### 文件处理
 1. [react-pdf -- 轻松地在您的React应用程序中显示PDF文件。](https://github.com/wojtekmaj/react-pdf)
 
@@ -103,6 +104,8 @@ function disable () {
     
     [【官网】](https://alibaba.github.io/rax/component/text)
 3. [styled-system -- 把css封装在js中的react组件](https://github.com/jxnblk/styled-system)
+4. [wxapp-market -- 小程序营销组件](https://github.com/o2team/wxapp-market)
+5. [vue-a11y-calendar -- 无障碍、国际化的vue组件](https://github.com/IBM/vue-a11y-calendar)
 ### funny stuff
 1. [Storyboarder -- 快速地绘制一个故事，轻松绘制棒状图。](https://github.com/wonderunit/storyboarder)
 2. [react-powerplug -- 给你的dumb组件生命 ](https://github.com/renatorib/react-powerplug)
