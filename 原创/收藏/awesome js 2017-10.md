@@ -10,4 +10,5 @@
 2. [react-email-editor -- 可以拖拽的react组件](https://github.com/unroll-io/react-email-editor)
 ## 博客
 1. [core-js -- js标准库](https://github.com/zloirock/core-js)
+2. [从零开始构建 JavaScript 技术栈 - 中文版](https://github.com/pd4d10/js-stack-from-scratch)
 ## funny-stuff
