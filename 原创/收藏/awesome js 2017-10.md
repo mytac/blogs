@@ -12,3 +12,4 @@
 1. [core-js -- js标准库](https://github.com/zloirock/core-js)
 2. [从零开始构建 JavaScript 技术栈 - 中文版](https://github.com/pd4d10/js-stack-from-scratch)
 ## funny-stuff
+1. [Rocket.Chat -- 使用Meteor搭建的像Slack一样的在线聊天工具](https://github.com/RocketChat/Rocket.Chat)
