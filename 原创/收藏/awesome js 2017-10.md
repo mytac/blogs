@@ -5,11 +5,21 @@
 ## 代码分析工具
 1. [livepython -- 可视化的跟踪python代码](https://github.com/agermanidis/livepython)
 ![demo](https://camo.githubusercontent.com/263dfee8edae7df3cadf769435d39c878c1fc7d0/68747470733a2f2f692e696d6775722e636f6d2f54534e4a4a436d2e676966)
+## 开发时会用到的插件
+1. [prettier -- 一个固执的代码整理工具](https://github.com/prettier/prettier)
+    
+    [Demo](https://prettier.io/playground/)
 ## 框架相关
 1. [vuera -- vue和react的无缝集成](https://github.com/akxcv/vuera)
 2. [react-email-editor -- 可以拖拽的react组件](https://github.com/unroll-io/react-email-editor)
+## node相关
+1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
 ## 博客
 1. [core-js -- js标准库](https://github.com/zloirock/core-js)
 2. [从零开始构建 JavaScript 技术栈 - 中文版](https://github.com/pd4d10/js-stack-from-scratch)
+3. [awesome-react-native - React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全](https://github.com/wabg/awesome-react-native)
 ## funny-stuff
 1. [Rocket.Chat -- 使用Meteor搭建的像Slack一样的在线聊天工具](https://github.com/RocketChat/Rocket.Chat)
+2. [lottery.js -- 一个简单的抽奖应用程序](https://github.com/meetmore/lottery.js)
+    
+    [【DEMO】](https://meetmore.github.io/lottery.js/)
