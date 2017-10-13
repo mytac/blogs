@@ -23,3 +23,4 @@
 2. [lottery.js -- 一个简单的抽奖应用程序](https://github.com/meetmore/lottery.js)
     
     [【DEMO】](https://meetmore.github.io/lottery.js/)
+3. [React-2048-game -- 基于 react, redux 最佳实践构建的 2048 ](https://github.com/devrsi0n/React-2048-game)
