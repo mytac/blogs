@@ -446,7 +446,7 @@ fs.open(path, 'w', (err, fd) => {
 				console.log('file closed')
 		})
 	})
-}
+}  
 ```
 以上介绍的方法都是以异步的方式调用的，也分别都有对应的同步方法，拿```readFileSync```举例：
 ```js
