@@ -5,6 +5,12 @@
 ## 代码分析工具
 1. [livepython -- 可视化的跟踪python代码](https://github.com/agermanidis/livepython)
 ![demo](https://camo.githubusercontent.com/263dfee8edae7df3cadf769435d39c878c1fc7d0/68747470733a2f2f692e696d6775722e636f6d2f54534e4a4a436d2e676966)
+2. [webpackmonitor -- 通过开发过程监控Webpack优化指标的工具](https://github.com/webpackmonitor/webpackmonitor)
+3. [React-Sight -- 用于React的可视化工具，支持Fiber，Router（v4）和Redux](https://github.com/React-Sight/React-Sight)
+## 数据图表相关
+1. [maptalks.js -- 一个轻的JavaScript库来创建集成的2D / 3D地图。](https://github.com/maptalks/maptalks.js)
+
+    [【官网】](https://maptalks.org/)
 ## 开发时会用到的插件
 1. [prettier -- 一个固执的代码整理工具](https://github.com/prettier/prettier)
     
@@ -14,6 +20,8 @@
 2. [react-email-editor -- 可以拖拽的react组件](https://github.com/unroll-io/react-email-editor)
 ## node相关
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
+## 网络测试相关
+1. [speed-test -- 使用cli测试您的互联网连接速度和ping速度](https://github.com/sindresorhus/speed-test)
 ## 博客
 1. [core-js -- js标准库](https://github.com/zloirock/core-js)
 2. [从零开始构建 JavaScript 技术栈 - 中文版](https://github.com/pd4d10/js-stack-from-scratch)
@@ -24,3 +32,7 @@
     
     [【DEMO】](https://meetmore.github.io/lottery.js/)
 3. [React-2048-game -- 基于 react, redux 最佳实践构建的 2048 ](https://github.com/devrsi0n/React-2048-game)
+4. [ieaseMusic - 优雅的网易音乐桌面应用，Rock与NeteaseMusic](https://github.com/trazyn/ieaseMusic)
+5. [mini-tetris -- 512b的俄罗斯方块](https://github.com/veu/mini-tetris)
+    
+    [【Demo】](https://github.com/veu/mini-tetris)
