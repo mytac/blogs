@@ -20,6 +20,9 @@
 2. [react-email-editor -- 可以拖拽的react组件](https://github.com/unroll-io/react-email-editor)
 ## node相关
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
+2. [puppeteer -- 一个node库，提供了一组用来操纵Chrome的API](https://github.com/GoogleChrome/puppeteer)
+
+    [【DEMO】](https://try-puppeteer.appspot.com/)
 ## 网络测试相关
 1. [speed-test -- 使用cli测试您的互联网连接速度和ping速度](https://github.com/sindresorhus/speed-test)
 ## 博客
