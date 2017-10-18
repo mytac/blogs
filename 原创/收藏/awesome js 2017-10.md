@@ -14,8 +14,9 @@
 1. [maptalks.js -- 一个轻的JavaScript库来创建集成的2D / 3D地图。](https://github.com/maptalks/maptalks.js)
 
     [【官网】](https://maptalks.org/)
-## 开发时会用到的插件
+## 开发时会用到的
 1. [prettier -- 一个固执的代码整理工具](https://github.com/prettier/prettier)
+2. [deco-ide -- 一个React-Native IDE](https://github.com/decosoftware/deco-ide)
     
     [Demo](https://prettier.io/playground/)
 ## 框架相关
