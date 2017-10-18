@@ -17,7 +17,7 @@
     [Demo](https://prettier.io/playground/)
 ## 框架相关
 1. [vuera -- vue和react的无缝集成](https://github.com/akxcv/vuera)
-2. [react-email-editor -- 可以拖拽的react组件](https://github.com/unroll-io/react-email-editor)
+2. [react-email-editor -- 可以拖拽的react Email编辑器组件](https://github.com/unroll-io/react-email-editor)
 ## node相关
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
 2. [puppeteer -- 一个node库，提供了一组用来操纵Chrome的API](https://github.com/GoogleChrome/puppeteer)
