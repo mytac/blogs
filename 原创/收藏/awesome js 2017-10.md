@@ -1,5 +1,8 @@
 ## UI相关
 1. [weex-ui - weex的ui库](https://github.com/alibaba/weex-ui)
+2. [iview-admin - 基于iview的后台继承解决方案](https://github.com/iview/iview-admin)
+
+    [【详细介绍】](https://juejin.im/post/59e6a995518825619a01c433)
 ## 文件处理
 1. [url-to-pdf-api -- 把网页转成pdf](https://github.com/alvarcarto/url-to-pdf-api)
 ## 代码分析工具
