@@ -22,6 +22,8 @@
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
 2. [puppeteer -- 一个node库，提供了一组用来操纵Chrome的API](https://github.com/GoogleChrome/puppeteer)
 
+    [蚂蚁金服对puppeteer的一些介绍](https://juejin.im/post/59e5a86c51882578bf185dba#comment)
+
     [【DEMO】](https://try-puppeteer.appspot.com/)
 ## 网络测试相关
 1. [speed-test -- 使用cli测试您的互联网连接速度和ping速度](https://github.com/sindresorhus/speed-test)
