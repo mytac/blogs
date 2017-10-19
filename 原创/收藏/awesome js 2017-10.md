@@ -10,10 +10,15 @@
 ![demo](https://camo.githubusercontent.com/263dfee8edae7df3cadf769435d39c878c1fc7d0/68747470733a2f2f692e696d6775722e636f6d2f54534e4a4a436d2e676966)
 2. [webpackmonitor -- 通过开发过程监控Webpack优化指标的工具](https://github.com/webpackmonitor/webpackmonitor)
 3. [React-Sight -- 用于React的可视化工具，支持Fiber，Router（v4）和Redux](https://github.com/React-Sight/React-Sight)
+## 图像处理
+1. [image-trace-loader -- 加载图像并将跟踪的轮廓作为image / svg + xml URL编码数据](https://github.com/EmilTholin/image-trace-loader)
 ## 数据图表相关
 1. [maptalks.js -- 一个轻的JavaScript库来创建集成的2D / 3D地图。](https://github.com/maptalks/maptalks.js)
 
     [【官网】](https://maptalks.org/)
+2. [st.js -- 选择变换JSON中的JSON模板](https://github.com/SelectTransform/st.js)
+
+    [【官网】](https://selecttransform.github.io/site/)
 ## 开发时会用到的
 1. [prettier -- 一个固执的代码整理工具](https://github.com/prettier/prettier)
 2. [deco-ide -- 一个React-Native IDE](https://github.com/decosoftware/deco-ide)
@@ -45,3 +50,10 @@
 5. [mini-tetris -- 512b的俄罗斯方块](https://github.com/veu/mini-tetris)
     
     [【Demo】](https://github.com/veu/mini-tetris)
+6. [writing -- 一个轻量级的无干扰文本编辑器(Markdown and LaTeX supported)](https://github.com/josephernest/writing)
+    ![demo](https://camo.githubusercontent.com/9e7866d06cb357f771d05f90dd328664c6d1c653/687474703a2f2f692e696d6775722e636f6d2f633536684477692e676966)
+7. [slate -- 一个完全可定制的框架来构建丰富的文本编辑器。](https://github.com/ianstormtaylor/slate)
+    [【Demo】](http://slatejs.org/#/rich-text)
+8. [BOOLR -- 数字逻辑模拟器](https://github.com/GGBRW/BOOLR)
+    
+    [【官网】](http://boolr.me/)
