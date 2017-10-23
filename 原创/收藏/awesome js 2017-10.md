@@ -17,6 +17,9 @@
     [【官网】](https://ckeditor.com/ckeditor-5-builds/)
 ## 图像处理
 1. [image-trace-loader -- 加载图像并将跟踪的轮廓作为image / svg + xml URL编码数据](https://github.com/EmilTholin/image-trace-loader)
+2. [spirit -- 网络的动画工具](https://github.com/spirit/spirit)
+
+    [【官网】](https://spiritapp.io/)
 ## 数据图表相关
 1. [maptalks.js -- 一个轻的JavaScript库来创建集成的2D / 3D地图。](https://github.com/maptalks/maptalks.js)
 
@@ -32,6 +35,7 @@
 ## 框架相关
 1. [vuera -- vue和react的无缝集成](https://github.com/akxcv/vuera)
 2. [react-email-editor -- 可以拖拽的react Email编辑器组件](https://github.com/unroll-io/react-email-editor)
+3. [classwrap -- 0.3 KB JavaScript实用程序用于有条件地连接类名。](https://github.com/JorgeBucaran/classwrap)
 ## node相关
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
 2. [puppeteer -- 一个node库，提供了一组用来操纵Chrome的API](https://github.com/GoogleChrome/puppeteer)
@@ -45,6 +49,7 @@
 1. [core-js -- js标准库](https://github.com/zloirock/core-js)
 2. [从零开始构建 JavaScript 技术栈 - 中文版](https://github.com/pd4d10/js-stack-from-scratch)
 3. [awesome-react-native - React Native 学习资源精选仓库(汇聚知识，分享精华)汇集了各类react-native学习资料、工具、组件、开源App、资源下载、以及相关新闻等，只求精不求全](https://github.com/wabg/awesome-react-native)
+4. [engineer-manager -- 工程管理人员资源链接列表](https://github.com/ryanburgess/engineer-manager)
 ## funny-stuff
 1. [Rocket.Chat -- 使用Meteor搭建的像Slack一样的在线聊天工具](https://github.com/RocketChat/Rocket.Chat)
 2. [lottery.js -- 一个简单的抽奖应用程序](https://github.com/meetmore/lottery.js)
