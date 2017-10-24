@@ -65,3 +65,8 @@
 7. [BOOLR -- 数字逻辑模拟器](https://github.com/GGBRW/BOOLR)
     
     [【官网】](http://boolr.me/)
+8. [wedding -- 婚礼大屏互动，微信请柬一站式解决方案](https://github.com/iammapping/wedding)这个简直太浪漫太好玩了~~不知道到我结婚时node是不是都到20.0了啊哈哈
+    ![demo](https://camo.githubusercontent.com/d3ac6c40a11dbc6ef0c43d7eb007c85c05be3136/687474703a2f2f73656c662d73746f726167652e62302e7570616979756e2e636f6d2f323031372f31302f32322f3135303836363638343533323137373738342e706e67)
+9. [JSRobot --  通过JavaScript编码播放的平台游戏](https://github.com/reaalkhalil/JSRobot)
+    
+    [游戏链接](https://lab.reaal.me/jsrobot/)
