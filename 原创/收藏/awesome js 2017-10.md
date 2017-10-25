@@ -43,6 +43,9 @@
     [蚂蚁金服对puppeteer的一些介绍](https://juejin.im/post/59e5a86c51882578bf185dba)
 
     [【DEMO】](https://try-puppeteer.appspot.com/)
+3. [flyio -- 支持请求重定向的轻量级、跨平台Javascript http网络库](https://github.com/wendux/fly)
+    
+    [【官网】](https://wendux.github.io/dist/#/doc/flyio/readme)
 ## 网络测试相关
 1. [speed-test -- 使用cli测试您的互联网连接速度和ping速度](https://github.com/sindresorhus/speed-test)
 ## 博客
@@ -70,3 +73,5 @@
 9. [JSRobot --  通过JavaScript编码播放的平台游戏](https://github.com/reaalkhalil/JSRobot)
     
     [游戏链接](https://lab.reaal.me/jsrobot/)
+10. [NeteaseCloudMusic -- React Native 模仿网易云音乐手机客户端，兼容安卓和IOS两个平台。](https://github.com/yezihaohao/NeteaseCloudMusic)
+    ![demo](https://raw.githubusercontent.com/yezihaohao/yezihaohao.github.io/master/imgs/total.gif)
