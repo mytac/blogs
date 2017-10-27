@@ -3,6 +3,7 @@
 2. [iview-admin - 基于iview的后台继承解决方案](https://github.com/iview/iview-admin)
 
     [【详细介绍】](https://juejin.im/post/59e6a995518825619a01c433)
+3. [material-ui -- google material design的react component的解决方案](https://github.com/callemall/material-ui)
 ## 文件处理
 1. [url-to-pdf-api -- 把网页转成pdf](https://github.com/alvarcarto/url-to-pdf-api)
 ## 代码分析工具
@@ -36,6 +37,9 @@
 1. [vuera -- vue和react的无缝集成](https://github.com/akxcv/vuera)
 2. [react-email-editor -- 可以拖拽的react Email编辑器组件](https://github.com/unroll-io/react-email-editor)
 3. [classwrap -- 0.3 KB JavaScript实用程序用于有条件地连接类名。](https://github.com/JorgeBucaran/classwrap)
+4. [create-component-app -- 从终端生成不同类型的React组件的工具](https://github.com/CVarisco/create-component-app)
+    
+    ![demo](https://github.com/CVarisco/create-component-app/raw/master/docs/cca-no-templates.gif)
 ## node相关
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
 2. [puppeteer -- 一个node库，提供了一组用来操纵Chrome的API](https://github.com/GoogleChrome/puppeteer)
@@ -78,3 +82,11 @@
 11. [lyadmin -- 一套轻量级通用后台，采用ThinkPHP+Bootstrap3制作，内置系统设置、上传管理、权限管理、模块管理、插件管理等功能，独有的Builder页面自动生成技术节省50%开发成本，先进的模块化开发的支持让开发成本一降再降，致力于为个人和中小型企业打造全方位的PHP企业级开发解决方案。另外提供整套企业开发解决方案，集PC、手机、微信、App、小程序五端于一体，更有用户中心模块、门户模块、钱包支付中心模块、商城模块、OAuth2统一登陆、内部Git模块、Docker模块可供选择。](https://github.com/ijry/lyadmin)
 
     [【官网】](http://lyadmin.lingyun.net/)
+12. [strapi -- Node.js内容管理框架（无头CMS），无需任何努力即可构建强大的API。](https://github.com/strapi/strapi)
+13. [instagib.io -- 在线多人射击游戏](https://github.com/schibir/instagib.io)这个还挺有意思的
+
+    [官网](http://instagib.io)
+14. [cyborg-writer -- 具有嵌入式神经文本合成器的实验文本编辑器](https://github.com/tensorfire/cyborg-writer)
+    ![demo](https://camo.githubusercontent.com/d9b78e6580799b9461562fbce59d6d14a9a4aba8/687474703a2f2f672e7265636f726469742e636f2f6542756761366c6736742e676966)
+    
+    [官网](https://cyborg.tenso.rs/)
