@@ -24,6 +24,7 @@
 2. [spirit -- 网络的动画工具](https://github.com/spirit/spirit)
 
     [【官网】](https://spiritapp.io/)
+3. [svgr -- 将SVG转换为React组件](https://github.com/smooth-code/svgr)
 ## 数据图表相关
 1. [maptalks.js -- 一个轻的JavaScript库来创建集成的2D / 3D地图。](https://github.com/maptalks/maptalks.js)
 
