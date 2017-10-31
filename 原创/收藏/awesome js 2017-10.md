@@ -48,6 +48,9 @@
 4. [create-component-app -- 从终端生成不同类型的React组件的工具](https://github.com/CVarisco/create-component-app)
     
     ![demo](https://github.com/CVarisco/create-component-app/raw/master/docs/cca-no-templates.gif)
+5. [react-native-simple-radio-button -- React Native简单和方便的动画单选按钮组件](https://github.com/moschan/react-native-simple-radio-button)
+
+    ![demo](https://github.com/moschan/react-native-simple-radio-button/raw/master/doc/ver1.3_demo.gif)
 ## node相关
 1. [iconv-lite -- 用纯javaScript转换字符编码](https://github.com/ashtuchkin/iconv-lite)
 2. [puppeteer -- 一个node库，提供了一组用来操纵Chrome的API](https://github.com/GoogleChrome/puppeteer)
