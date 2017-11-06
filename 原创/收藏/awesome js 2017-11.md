@@ -2,6 +2,11 @@
 1. [charts -- 简单，响应迅速，具有零依赖关系的现代SVG图表](https://github.com/frappe/charts)
 
     [【官网】](https://frappe.github.io/charts/)
+2. [tikzcd-editor -- 用于创建可交换图的简单可视化编辑器。](https://github.com/yishn/tikzcd-editor)
+    
+    [【Demo】](http://tikzcd.yichuanshen.de/)
+    
+    ![example](https://github.com/yishn/tikzcd-editor/raw/master/screenshot.png)
 ## 影像处理
 1. [chimee -- 一个视频播放器旨在为浏览器带来美妙的体验](https://github.com/Chimeejs/chimee)
 
@@ -23,3 +28,6 @@
 1. [client -- 最小的聊天客户端库](https://github.com/minimalchat/client)
     
     [【官网】](https://minimal.chat)
+2. [js-code-to-svg-flowchart -- 一个将任何JavaScript代码转换成漂亮的SVG流程图的可视化库。学习其他的代码。设计你的代码。重构代码。文档代码。解释代码。](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
+    
+    ![demo](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart/raw/master/docs/live-editor/demo.gif)
