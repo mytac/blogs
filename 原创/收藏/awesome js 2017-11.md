@@ -7,6 +7,8 @@
     [【Demo】](http://tikzcd.yichuanshen.de/)
     
     ![example](https://github.com/yishn/tikzcd-editor/raw/master/screenshot.png)
+## UI相关
+1. [minui -- 基于规范的小程序 UI 组件库，支持自定义标签组件，轻量、易用、工具化](https://github.com/meili/minui)
 ## 影像处理
 1. [chimee -- 一个视频播放器旨在为浏览器带来美妙的体验](https://github.com/Chimeejs/chimee)
 
@@ -19,11 +21,19 @@
     [【Demo】](https://anvaka.github.io/fieldplay/#?dt=0.01&fo=0.998&dp=0.009&cm=1&cx=0.00004999999999988347&cy=0&w=8.5399&h=8.5399)
 ## React 相关
 1. [react-pwa -- 具有通用路由（服务器端渲染）与React＆Redux的渐进式Web应用程序，内置SEO，实现最大页面速度](https://github.com/Atyantik/react-pwa)
+2. [storybook -- React，React-Native，Vue UI组件的交互式开发和测试环境](https://github.com/storybooks/storybook)
+## 架构相关
+1. [yapi -- YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
+
+    [官网](https://yapi.ymfe.org)
+    
 ## Node相关
 1. [bottender -- 用你自己的方式快速、灵活的创建机器人](https://github.com/Yoctol/bottender)
 2. [server -- 简单而强大的Node.js服务器](https://github.com/franciscop/server)
 
     [【官网】](https://serverjs.io/)
+## 博客
+1. [FE-Interview -- 前端面试题大合集——小菜鸟前端面试大作战](https://github.com/huruji/FE-Interview)
 ## funny stuff
 1. [client -- 最小的聊天客户端库](https://github.com/minimalchat/client)
     
@@ -31,3 +41,6 @@
 2. [js-code-to-svg-flowchart -- 一个将任何JavaScript代码转换成漂亮的SVG流程图的可视化库。学习其他的代码。设计你的代码。重构代码。文档代码。解释代码。](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart)
     
     ![demo](https://github.com/Bogdan-Lyashenko/js-code-to-svg-flowchart/raw/master/docs/live-editor/demo.gif)
+3. [chalktalk -- 使用类似黑板的界面，演示者可以创建动画数字草图并与其进行交互，以便在现场演示或对话中展示想法和概念。](https://github.com/kenperlin/chalktalk)
+
+    ![demo](https://github.com/kenperlin/chalktalk/raw/master/readme_images/Pendulum.gif)
