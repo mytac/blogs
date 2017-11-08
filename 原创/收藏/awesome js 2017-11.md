@@ -22,6 +22,7 @@
 ## React 相关
 1. [react-pwa -- 具有通用路由（服务器端渲染）与React＆Redux的渐进式Web应用程序，内置SEO，实现最大页面速度](https://github.com/Atyantik/react-pwa)
 2. [storybook -- React，React-Native，Vue UI组件的交互式开发和测试环境](https://github.com/storybooks/storybook)
+3. [react-konva -- 使用React绘制复杂画布图形的JavaScript库](https://github.com/lavrton/react-konva)
 ## 架构相关
 1. [yapi -- YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
 
@@ -44,3 +45,9 @@
 3. [chalktalk -- 使用类似黑板的界面，演示者可以创建动画数字草图并与其进行交互，以便在现场演示或对话中展示想法和概念。](https://github.com/kenperlin/chalktalk)
 
     ![demo](https://github.com/kenperlin/chalktalk/raw/master/readme_images/Pendulum.gif)
+4. [nba-go -- 最好的NBA CLI。](https://github.com/xxhomey19/nba-go#check-schedule)这个究极酷，虽然看不了实况但可以随时追踪比分，很酷！！
+
+    ![demo](https://user-images.githubusercontent.com/12113222/32413795-0e7d75c2-c254-11e7-8a77-eeabed3c11f2.gif)
+5. [ Sudachi -- 日常个人计划的时间表编辑器。](https://github.com/kato1628/Sudachi) 这个目前只支持macOS
+    ![demo](https://cloud.githubusercontent.com/assets/1551828/26352500/0518ccd2-3ff7-11e7-8dc7-fbb6954cc5a6.gif)
+    [下载地址](http://sudachi.io/)
