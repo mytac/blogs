@@ -9,6 +9,9 @@
     ![example](https://github.com/yishn/tikzcd-editor/raw/master/screenshot.png)
 ## UI相关
 1. [minui -- 基于规范的小程序 UI 组件库，支持自定义标签组件，轻量、易用、工具化](https://github.com/meili/minui)
+2. [cube-ui -- 一个梦幻般的移动UI lib由Vue执行](https://github.com/didi/cube-ui)
+    
+    [示例](https://didi.github.io/cube-ui/#/zh-CN/example)
 ## 影像处理
 1. [chimee -- 一个视频播放器旨在为浏览器带来美妙的体验](https://github.com/Chimeejs/chimee)
 
