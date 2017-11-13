@@ -7,6 +7,10 @@
     [【Demo】](http://tikzcd.yichuanshen.de/)
     
     ![example](https://github.com/yishn/tikzcd-editor/raw/master/screenshot.png)
+3. [wasm-particles -- 这是一个视觉基准，每个粒子从WebAssembly更新，然后用WebGL绘制到屏幕上。](https://github.com/maierfelix/wasm-particles)
+    
+    [demo](https://maierfelix.github.io/wasm-particles/static/)
+4. [Wade -- 超级快的1kb搜索](https://github.com/kbrsh/wade)
 ## UI相关
 1. [minui -- 基于规范的小程序 UI 组件库，支持自定义标签组件，轻量、易用、工具化](https://github.com/meili/minui)
 2. [cube-ui -- 一个梦幻般的移动UI lib由Vue执行](https://github.com/didi/cube-ui)
@@ -37,6 +41,7 @@
 2. [server -- 简单而强大的Node.js服务器](https://github.com/franciscop/server)
 
     [【官网】](https://serverjs.io/)
+3. [remoteStorage.js -- 将用户数据本地存储在浏览器中，以及连接到远程存储服务器并跨设备和应用程序同步数据。](https://github.com/remotestorage/remotestorage.js)
 ## 博客
 1. [FE-Interview -- 前端面试题大合集——小菜鸟前端面试大作战](https://github.com/huruji/FE-Interview)
 ## funny stuff
