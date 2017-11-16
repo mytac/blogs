@@ -35,6 +35,8 @@
 
     [官网](https://yapi.ymfe.org)
 2. [json-server -- 在30秒内得到一个完整的虚拟REST API](https://github.com/typicode/json-server)
+3. [Front-End-Checklist -- 现代网站和一丝不苟的开发人员的完美的前端清单](https://github.com/thedaviddias/Front-End-Checklist#javascript)
+    用这个清单来检查你的项目吧~
 ## Vue相关
 1. [tiny-vue -- 缩小版的vue](https://github.com/lihongxun945/tiny-vue)这是作者用来学习vue1.0.28源码，写出来的精简版，同时也包含他在创作过程中的博客。
 ## Node相关
@@ -45,6 +47,8 @@
 3. [remoteStorage.js -- 将用户数据本地存储在浏览器中，以及连接到远程存储服务器并跨设备和应用程序同步数据。](https://github.com/remotestorage/remotestorage.js)
 ## 博客
 1. [FE-Interview -- 前端面试题大合集——小菜鸟前端面试大作战](https://github.com/huruji/FE-Interview)
+## 第三方api
+1. [instagram-proxy-api -- CORS兼容的API来访问Instagram的公共数据](https://github.com/whizzzkid/instagram-proxy-api)
 ## funny stuff
 1. [client -- 最小的聊天客户端库](https://github.com/minimalchat/client)
     
