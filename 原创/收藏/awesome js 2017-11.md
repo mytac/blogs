@@ -20,6 +20,9 @@
 2. [cube-ui -- 一个梦幻般的移动UI lib由Vue执行](https://github.com/didi/cube-ui)
     
     [示例](https://didi.github.io/cube-ui/#/zh-CN/example)
+3. [scrollama -- 用IntersectionObserver滚动查询](https://github.com/russellgoldenberg/scrollama)
+    
+    ![demo](https://camo.githubusercontent.com/aa9e9b52e8110a75664433dd6361bc47fccdef19/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4665617266756c486f744172616269616e6f7279782d73697a655f726573747269637465642e676966)
 ## 影像处理
 1. [chimee -- 一个视频播放器旨在为浏览器带来美妙的体验](https://github.com/Chimeejs/chimee)
 
