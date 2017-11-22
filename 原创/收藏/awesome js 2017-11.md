@@ -37,6 +37,9 @@
 1. [react-pwa -- 具有通用路由（服务器端渲染）与React＆Redux的渐进式Web应用程序，内置SEO，实现最大页面速度](https://github.com/Atyantik/react-pwa)
 2. [storybook -- React，React-Native，Vue UI组件的交互式开发和测试环境](https://github.com/storybooks/storybook)
 3. [react-konva -- 使用React绘制复杂画布图形的JavaScript库](https://github.com/lavrton/react-konva)
+4. [react-chartkick -- 用一行React创建漂亮的图表](https://github.com/ankane/react-chartkick)再也不用配各种插件啦！
+    
+    [demos](https://ankane.github.io/chartkick.js/examples/)
 ## 架构相关
 1. [yapi -- YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
 
@@ -45,6 +48,7 @@
 3. [Front-End-Checklist -- 现代网站和一丝不苟的开发人员的完美的前端清单](https://github.com/thedaviddias/Front-End-Checklist#javascript)
     用这个清单来检查你的项目吧~
 4. [razzle -- 无需配置即可创建服务器渲染的通用JavaScript应用程序](https://github.com/jaredpalmer/razzle)神器！不用解释！
+5. [purgecss -- 删除未使用的CSS](https://github.com/FullHuman/purgecss)在gulp、webpack中都可配置！
 ## Vue相关
 1. [tiny-vue -- 缩小版的vue](https://github.com/lihongxun945/tiny-vue)这是作者用来学习vue1.0.28源码，写出来的精简版，同时也包含他在创作过程中的博客。
 ## Node相关
