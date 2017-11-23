@@ -15,6 +15,9 @@
 6. [luxon -- 在JS中使用日期和时间的库](https://github.com/moment/luxon)
     
     [官网](https://moment.github.io/luxon/)
+7. [date-fns -- 现代JavaScript日期实用程序库](https://github.com/date-fns/date-fns)
+8. [g2 -- 支付宝推出的简易图表生成工具G2](https://github.com/antvis/g2)
+    [demo](https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html)
 ## UI相关
 1. [minui -- 基于规范的小程序 UI 组件库，支持自定义标签组件，轻量、易用、工具化](https://github.com/meili/minui)
 2. [cube-ui -- 一个梦幻般的移动UI lib由Vue执行](https://github.com/didi/cube-ui)
@@ -77,3 +80,4 @@
 5. [ Sudachi -- 日常个人计划的时间表编辑器。](https://github.com/kato1628/Sudachi) 这个目前只支持macOS
     ![demo](https://cloud.githubusercontent.com/assets/1551828/26352500/0518ccd2-3ff7-11e7-8dc7-fbb6954cc5a6.gif)
     [下载地址](http://sudachi.io/)
+6. [cs-playground-react -- 用JavaScript实现常用排序算法和数据结构的交互式概述](https://github.com/no-stack-dub-sack/cs-playground-react)这个超赞的，作者把原理和算法的代码都放到了项目中，点击[演示地址进行操作](http://cs-playground-react.surge.sh/)
