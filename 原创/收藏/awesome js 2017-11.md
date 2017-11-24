@@ -62,6 +62,7 @@
 3. [remoteStorage.js -- 将用户数据本地存储在浏览器中，以及连接到远程存储服务器并跨设备和应用程序同步数据。](https://github.com/remotestorage/remotestorage.js)
 ## 博客
 1. [FE-Interview -- 前端面试题大合集——小菜鸟前端面试大作战](https://github.com/huruji/FE-Interview)
+2. [git-tips -- Git的奇技淫巧(中文)](https://github.com/521xueweihan/git-tips)
 ## 第三方api
 1. [instagram-proxy-api -- CORS兼容的API来访问Instagram的公共数据](https://github.com/whizzzkid/instagram-proxy-api)
 ## funny stuff
