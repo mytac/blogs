@@ -18,6 +18,9 @@
 7. [date-fns -- 现代JavaScript日期实用程序库](https://github.com/date-fns/date-fns)
 8. [g2 -- 支付宝推出的简易图表生成工具G2](https://github.com/antvis/g2)
     [demo](https://antv.alipay.com/zh-cn/g2/3.x/demo/index.html)
+9. [imaskjs -- vanilla js 输入掩码](https://github.com/uNmAnNeR/imaskjs)
+
+    [示例](https://unmanner.github.io/imaskjs/)
 ## UI相关
 1. [minui -- 基于规范的小程序 UI 组件库，支持自定义标签组件，轻量、易用、工具化](https://github.com/meili/minui)
 2. [cube-ui -- 一个梦幻般的移动UI lib由Vue执行](https://github.com/didi/cube-ui)
@@ -36,6 +39,9 @@
 3. [fieldplay -- 矢量字段浏览器。用WebGL制作，爱与激情。](https://github.com/anvaka/fieldplay)这个超酷
     
     [【Demo】](https://anvaka.github.io/fieldplay/#?dt=0.01&fo=0.998&dp=0.009&cm=1&cx=0.00004999999999988347&cy=0&w=8.5399&h=8.5399)
+4. [UPNG.js -- 快速和先进的PNG（APNG）解码器和编码器](https://github.com/photopea/UPNG.js)
+    
+    [示例](https://blog.photopea.com/png-minifier-inside-photopea.html#examples)
 ## React 相关
 1. [react-pwa -- 具有通用路由（服务器端渲染）与React＆Redux的渐进式Web应用程序，内置SEO，实现最大页面速度](https://github.com/Atyantik/react-pwa)
 2. [storybook -- React，React-Native，Vue UI组件的交互式开发和测试环境](https://github.com/storybooks/storybook)
@@ -43,6 +49,12 @@
 4. [react-chartkick -- 用一行React创建漂亮的图表](https://github.com/ankane/react-chartkick)再也不用配各种插件啦！
     
     [demos](https://ankane.github.io/chartkick.js/examples/)
+5. [react-select -- 使用React JS构建的Select控件](https://github.com/JedWatson/react-select)
+    
+    [示例](http://jedwatson.github.io/react-select/)
+6. [react-swipeable-views -- 可滑动视图的React组件。](https://github.com/oliviertassinari/react-swipeable-views)
+    
+    [示例](https://react-swipeable-views.com/demos/demos/)
 ## 架构相关
 1. [yapi -- YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
 
