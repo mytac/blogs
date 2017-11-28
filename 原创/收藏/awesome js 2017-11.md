@@ -42,6 +42,9 @@
 4. [UPNG.js -- 快速和先进的PNG（APNG）解码器和编码器](https://github.com/photopea/UPNG.js)
     
     [示例](https://blog.photopea.com/png-minifier-inside-photopea.html#examples)
+5. [animateplus -- 是一个专注于性能和创作灵活性的JavaScript动画库。它的目标是提供稳定的60 FPS，重量小于2 KB（缩小和压缩），使其特别适合移动设备。](https://github.com/bendc/animateplus)
+    
+   [官方demo](http://animateplus.com/examples/getting-started/)
 ## React 相关
 1. [react-pwa -- 具有通用路由（服务器端渲染）与React＆Redux的渐进式Web应用程序，内置SEO，实现最大页面速度](https://github.com/Atyantik/react-pwa)
 2. [storybook -- React，React-Native，Vue UI组件的交互式开发和测试环境](https://github.com/storybooks/storybook)
@@ -75,6 +78,7 @@
 ## 博客
 1. [FE-Interview -- 前端面试题大合集——小菜鸟前端面试大作战](https://github.com/huruji/FE-Interview)
 2. [git-tips -- Git的奇技淫巧(中文)](https://github.com/521xueweihan/git-tips)
+3. [Functional-Light-JS -- 轻量函数式js编程](https://github.com/getify/Functional-Light-JS)
 ## 第三方api
 1. [instagram-proxy-api -- CORS兼容的API来访问Instagram的公共数据](https://github.com/whizzzkid/instagram-proxy-api)
 ## funny stuff
