@@ -58,6 +58,48 @@
 6. [react-swipeable-views -- 可滑动视图的React组件。](https://github.com/oliviertassinari/react-swipeable-views)
     
     [示例](https://react-swipeable-views.com/demos/demos/)
+7. [ReactPrimer -- React组件原型工具，生成关联的类组件代码。](https://github.com/ReactPrimer/ReactPrimer)
+    我觉得这是个神器，react党一定要下一个玩玩
+    ![demo](https://github.com/ReactPrimer/ReactPrimer/raw/master/assets/demo/demo_15mb.gif)
+8. [react-aux -- 一个用于渲染多个元素的自我消除组件](https://github.com/gajus/react-aux)
+
+    react v16之前，从一个组件中返回多个元素以将它们包装在一个辅助元素中
+    ```jsx
+    const Root = () => {
+      return <div>
+        <p>Hello, World!</p>
+        <p>I am a demo for react-aux.</p>
+      </div>;
+    };
+    ```
+    产生如下的dom
+    ```html
+    <div>
+      <p>Hello, World!</p>
+      <p>I am a demo for react-aux.</p>
+    </div>
+    ```
+    使用react-aux
+    
+    ```jsx
+    const Aux = (props) => {
+      return props.children;
+    };
+    
+    const Root = () => {
+      return <Aux>
+        <p>Hello, World!</p>
+        <p>I am a demo for react-aux.</p>
+      </Aux>;
+    };
+    ```
+    
+    后者生成没有包装节点的段落元素：
+    
+    ```html
+    <p>Hello, World!</p>
+    <p>I am a demo for react-aux.</p>
+    ```
 ## 架构相关
 1. [yapi -- YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台](https://github.com/YMFE/yapi)
 
@@ -75,6 +117,7 @@
 
     [【官网】](https://serverjs.io/)
 3. [remoteStorage.js -- 将用户数据本地存储在浏览器中，以及连接到远程存储服务器并跨设备和应用程序同步数据。](https://github.com/remotestorage/remotestorage.js)
+4. [emittery -- 简单和现代的异步事件发射器](https://github.com/sindresorhus/emittery)
 ## 博客
 1. [FE-Interview -- 前端面试题大合集——小菜鸟前端面试大作战](https://github.com/huruji/FE-Interview)
 2. [git-tips -- Git的奇技淫巧(中文)](https://github.com/521xueweihan/git-tips)
