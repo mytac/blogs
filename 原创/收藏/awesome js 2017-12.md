@@ -13,6 +13,7 @@
 ## Vue相关
 1. [vue-content-placeholders -- 用于渲染虚假（渐进）内容的可组合组件，例如vue中的Facebook](https://github.com/michalsnik/vue-content-placeholders)
    ![demo](https://camo.githubusercontent.com/c1aad1a0b2ff76b16bade98b3a30afe708920078/68747470733a2f2f692e696d6775722e636f6d2f4a516c466a73532e676966)
+2. [vue-global-events -- 将全局事件注册为组件](https://github.com/shentao/vue-global-events)
 
 ## RN相关
 1. [react-native-typography -- React Native 中像素完美，像原生一样的印刷风格](https://github.com/hectahertz/react-native-typography)
