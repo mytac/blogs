@@ -1,5 +1,6 @@
 ## 数据图表相关
 1. [superstruct -- 一个简单和可组合的方式来验证Javascript中的数据](https://github.com/ianstormtaylor/superstruct)
+2. [lowdb -- lowdb是一个由Lodash支持的小型本地JSON数据库（支持Node，Electron和浏览器）](https://github.com/typicode/lowdb)
 
 ## UI相关
 1. [muuri -- 响应式，可排序，可过滤和可拖动的网格布局](https://github.com/haltu/muuri)muuri最大的特点是可拖动，优秀的示例请查看
@@ -22,7 +23,11 @@
     
 ## 博客
 1. [grow-to-express -- 渐进式Express学习课程，从零开始实现一个Express](https://github.com/sunkuo/grow-to-express)   
-## 第三方相关
+## 小程序相关
 1. [wepy -- 小程序组件化开发框架](https://github.com/Tencent/wepy)
     
     [官网](https://tencent.github.io/wepy/)
+## funny stuff
+1. [learn-anything -- 搜索互动地图学习任何东西](https://github.com/learn-anything/learn-anything)
+    [官网](https://learn-anything.xyz/)最大的特点是帮你建立每个知识点的相互关联，查看下图
+    ![demo](https://s1.ax1x.com/2017/12/11/HlpLR.gif)
