@@ -6,6 +6,7 @@
 17.11.30 | [ ] | [koa实战](http://book.apebook.org/minghe/koa-action/start/debug.html)
 17.12.7 | [ ] | [Koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 17.12.8 | [ ] | [N-blog](https://github.com/nswbmw/N-blog)
+17.12.8 | [ ] | [JavaScript Promise迷你书](http://liubin.org/promises-book/)
 
 ## 实物书单
 
