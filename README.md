@@ -7,6 +7,7 @@
 17.12.7 | [ ] | [Koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 17.12.8 | [ ] | [N-blog](https://github.com/nswbmw/N-blog)
 17.12.8 | [ ] | [JavaScript Promise迷你书](http://liubin.org/promises-book/)
+17.12.12 | [ ] | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 
 ## 实物书单
 
