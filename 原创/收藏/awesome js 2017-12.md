@@ -22,7 +22,8 @@
     ![DEMO](https://github.com/hectahertz/react-native-typography/raw/master/images/san-francisco-weights.png)
     
 ## 博客
-1. [grow-to-express -- 渐进式Express学习课程，从零开始实现一个Express](https://github.com/sunkuo/grow-to-express)   
+1. [grow-to-express -- 渐进式Express学习课程，从零开始实现一个Express](https://github.com/sunkuo/grow-to-express)
+2. [30-seconds-of-code -- 精心收集的有用的JavaScript代码片段，你可以在30秒或更少的时间内理解。](https://github.com/Chalarangelo/30-seconds-of-code)   
 ## 小程序相关
 1. [wepy -- 小程序组件化开发框架](https://github.com/Tencent/wepy)
     
