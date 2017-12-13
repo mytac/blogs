@@ -2,6 +2,10 @@
 1. [superstruct -- 一个简单和可组合的方式来验证Javascript中的数据](https://github.com/ianstormtaylor/superstruct)
 2. [lowdb -- lowdb是一个由Lodash支持的小型本地JSON数据库（支持Node，Electron和浏览器）](https://github.com/typicode/lowdb)
 
+## 动画相关
+1. [popmotion -- JavaScript动作引擎。创建独特的动画和补间，物理和输入跟踪交互。](https://github.com/Popmotion/popmotion)
+    
+    [查看官网](https://popmotion.io/)
 ## UI相关
 1. [muuri -- 响应式，可排序，可过滤和可拖动的网格布局](https://github.com/haltu/muuri)muuri最大的特点是可拖动，优秀的示例请查看
     [官网](https://haltu.github.io/muuri/)
