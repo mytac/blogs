@@ -8,6 +8,7 @@
 17.12.8 | [ ] | [N-blog](https://github.com/nswbmw/N-blog)
 17.12.8 | [ ] | [JavaScript Promise迷你书](http://liubin.org/promises-book/)
 17.12.12 | [ ] | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+17.12.14 | [ ] | [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)
 
 ## 实物书单
 
