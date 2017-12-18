@@ -14,6 +14,7 @@
 1. [react-show -- React的无依赖显示/隐藏组件。](https://github.com/react-tools/react-show)    
     
     [demo](https://codesandbox.io/s/2v66j7pm8y)
+2. [react-perf-devtool -- Chrome扩展程序，用于检查React组件的性能](https://github.com/nitin42/react-perf-devtool)
     
 ## Vue相关
 1. [vue-content-placeholders -- 用于渲染虚假（渐进）内容的可组合组件，例如vue中的Facebook](https://github.com/michalsnik/vue-content-placeholders)
