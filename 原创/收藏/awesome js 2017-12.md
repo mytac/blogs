@@ -1,6 +1,11 @@
 ## 数据图表相关
 1. [superstruct -- 一个简单和可组合的方式来验证Javascript中的数据](https://github.com/ianstormtaylor/superstruct)
 2. [lowdb -- lowdb是一个由Lodash支持的小型本地JSON数据库（支持Node，Electron和浏览器）](https://github.com/typicode/lowdb)
+3. [inmap -- inMap 是一款基于百度地图的大数据可视化库，专注于大数据方向的散点、热力图、网格、聚合等方式；让大数据可视化变得简单易用。](https://github.com/TalkingData/inmap)
+    
+    [官网](http://inmap.talkingdata.com/#/docs/guide/introduce)
+    
+    [蜂窝聚合的demo](http://inmap.talkingdata.com/#/docs/guide/HoneycombOverlay)
 
 ## 动画相关
 1. [popmotion -- JavaScript动作引擎。创建独特的动画和补间，物理和输入跟踪交互。](https://github.com/Popmotion/popmotion)
@@ -15,16 +20,25 @@
     
     [demo](https://codesandbox.io/s/2v66j7pm8y)
 2. [react-perf-devtool -- Chrome扩展程序，用于检查React组件的性能](https://github.com/nitin42/react-perf-devtool)
+3. [react-sketchapp -- 渲染React组件到Sketch](https://github.com/airbnb/react-sketchapp)
     
 ## Vue相关
 1. [vue-content-placeholders -- 用于渲染虚假（渐进）内容的可组合组件，例如vue中的Facebook](https://github.com/michalsnik/vue-content-placeholders)
    ![demo](https://camo.githubusercontent.com/c1aad1a0b2ff76b16bade98b3a30afe708920078/68747470733a2f2f692e696d6775722e636f6d2f4a516c466a73532e676966)
 2. [vue-global-events -- 将全局事件注册为组件](https://github.com/shentao/vue-global-events)
+3. [bootstrap-vue -- 快速将Bootstrap 4组件与Vue.js集成的组件库](https://github.com/bootstrap-vue/bootstrap-vue)
+    
+    [官网](https://bootstrap-vue.js.org/)
 
 ## RN相关
 1. [react-native-typography -- React Native 中像素完美，像原生一样的印刷风格](https://github.com/hectahertz/react-native-typography)
 
     ![DEMO](https://github.com/hectahertz/react-native-typography/raw/master/images/san-francisco-weights.png)
+## electron相关
+1. [PicGo -- 一个简单而美丽的工具，用electron-vue构建的图片上传工具](https://github.com/Molunerfinn/PicGo)
+    
+    ![demo](https://ws1.sinaimg.cn/large/8700af19ly1fma907llb5j20m30ed46a)
+    
 ## 架构
 1. [parcel -- 快速，零配置的Web应用程序打包器](https://github.com/parcel-bundler/parcel)
 2. [microbundle -- 用于小型模块的零配置打包程序。](https://github.com/developit/microbundle)
