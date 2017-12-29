@@ -10,6 +10,8 @@
 17.12.12 | [ ] | [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
 17.12.14 | [ ] | [谈谈一些有趣的 CSS 话题](https://github.com/chokcoco/iCSS)
 17.12.15 | [  ] |写一个[parcel](https://github.com/parcel-bundler/parcel)与[microbundle](https://github.com/developit/microbundle)的对比文章
+17.12.29 | [  ] |[传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
+17.12.29 | [  ] |[给所有开发者的React Native详细入门指南](https://juejin.im/post/5898388b128fe1006cb943e3#heading-9)
 
 ## 实物书单
 
