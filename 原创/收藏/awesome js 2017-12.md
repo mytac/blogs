@@ -6,7 +6,10 @@
     [官网](http://inmap.talkingdata.com/#/docs/guide/introduce)
     
     [蜂窝聚合的demo](http://inmap.talkingdata.com/#/docs/guide/HoneycombOverlay)
+## 文件处理
+1. [uppy -- 下一个用于Web浏览器的开源文件上传器](https://github.com/transloadit/uppy)
 
+    ![demo](https://github.com/transloadit/uppy/raw/master/uppy-screenshot.jpg)
 ## 动画相关
 1. [popmotion -- JavaScript动作引擎。创建独特的动画和补间，物理和输入跟踪交互。](https://github.com/Popmotion/popmotion)
     
@@ -65,3 +68,5 @@
 1. [learn-anything -- 搜索互动地图学习任何东西](https://github.com/learn-anything/learn-anything)
     [官网](https://learn-anything.xyz/)最大的特点是帮你建立每个知识点的相互关联，查看下图
     ![demo](https://s1.ax1x.com/2017/12/11/HlpLR.gif)
+2. [array-explorer -- 帮助在任何时候最好的数组方法](https://github.com/sdras/array-explorer)
+    [官方示例](https://sdras.github.io/array-explorer/)
