@@ -1,0 +1,183 @@
+## 属性描述符
+### Object.getOwnPropertyDescriptor
+es5之前，js语言本身并没有提供可以直接检测属性特性的方法，但从es5开始，所有的属性都有了属性描述符。我们来定义一个对象，来看一下他有哪些属性。
+```js
+const obj={a:1,b:2}
+console.log(Object.getOwnPropertyDescriptor(obj,'a'))
+// value: 1, writable: true, enumerable: true, configurable: true}
+```
+像你看到的那样，他不仅仅有一个有一个为1的值，还有三个特性：writable、enumerable、configurable。我们可以使用`Object.defineProperty`设置这几个特性。
+### Object.defineProperty
+#### writable
+当我们把writable属性置为false时，
+```js
+const obj={a:1}
+Object.defineProperty(obj,'a',{
+	value:1,
+	configurable:true,
+	writable:false,
+	enumerable:true
+})
+obj.a=6
+console.log(obj.a) //1 对于属性值的修改静默失败了；在严格模式下会报错
+```
+#### configurable
+注意，把configurable修改为false为单向操作，不能再次调用```Object.defineProperty```来修改这个属性的配置。我们只能把true改为false，不能从false变为true。
+```js
+const obj={a:1}
+Object.defineProperty(obj,'a',{
+	value:1,
+	configurable:false,
+	writable:true,
+	enumerable:true
+})
+
+Object.defineProperty(obj,'a',{
+	value:1,
+	configurable:true,
+	writable:true,
+	enumerable:true
+})
+
+// 报错
+Uncaught TypeError: Cannot redefine property: a
+    at Function.defineProperty (<anonymous>)
+    at index.js:11
+```
+
+例外，在configurable为false并且writable为true的情况下，再次把writable修改为false是可行的。但是把writable的false变为true会报错。
+```js
+const obj={a:1}
+Object.defineProperty(obj,'a',{
+	value:1,
+	configurable:false,
+	writable:true,
+	enumerable:true
+})
+Object.defineProperty(obj,'a',{
+	value:1,
+	configurable:false,
+	writable:true,
+	enumerable:true
+})
+
+obj.a=6
+console.log(obj.a) //1
+```
+不仅仅是无法修改，configurable为false时还会禁止删除属性。
+```js
+Object.defineProperty(obj,'a',{
+	value:1,
+	configurable:false,
+	writable:true,
+	enumerable:true
+})
+delete a
+console.log(obj) // {a:1}
+```
+delete删除语句静默失败了，因为是不可配置的。
+#### Enumerable
+这个描述符控制的是属性是否出现在对象的属性枚举中，如下面的例子，把enumerable设置为false，这个属性就不会出现在枚举中。调用`Object.keys()`和`for...in...`都不会检测到a属性。如果你不希望某个属性出现在枚举中，可以把`enumerable`置为false。
+```js
+const obj={a:1,b:2}
+Object.defineProperty(obj,'a',{
+	configurable:false,
+	writable:true,
+	enumerable:false
+})
+for(key in obj){
+	console.log(key) //b
+}
+console.log(Object.keys(obj)) // ["b"]
+```
+## 不变性
+    有时候你会希望属性或对象是不可改变的。
+### 1.对象常量
+大家都知道`const`是无法定义一个对象常量的，但我们可以设置```writeable:false```和`configurable:false`就可以创建一个真正的常量属性。
+```js
+const obj={a:1}
+obj.a=2
+console.log(obj.a)//2
+
+Object.defineProperty(obj,"a",{
+	value:1,
+	writable:false,
+	configurable:false
+})
+obj.a=3 // 这里静默失败，不会报错
+console.log(obj.a) // 1
+```
+### 2.禁止扩展
+```js
+const obj={a:2}
+Object.preventExtensions(obj)
+obj.b=1 // 这里静默失败，不会报错
+console.log(obj)// {a:2}
+```
+### 3.密封
+如果我们想要整个对象都无法扩展，并且把所有的现有属性标记为configuarble:false，即所有不能添加新属性，也不能重新配置，并且无法删除属性，这时可以使用```Object.seal()```
+```js
+const obj={a:1}
+Object.seal(obj)
+delete obj.a // 静默失败了，并不会删除a属性
+obj.b=2 // 同样静默失败
+console.log(obj) // {a:1}
+```
+### 4.冻结
+```js
+const obj={a:1}
+Object.freeze(obj)
+obj.a=2
+obj.b=3
+console.log(obj) // {a:1}
+```
+## getter和setter
+在es5中可以使用`getter`和`setter`部分改写改写默认操作，但是只能应用在单个属性上，无法在整个对象上使用。`getter`是隐藏函数会在获取属性值时调用，`setter`同样是隐藏函数，会在设置属性值时调用。
+```js
+const obj={
+	get a(){
+		return 1
+	}
+}
+
+Object.defineProperty(obj,'b',{
+	// 给b设置一个getter
+	get(){
+		return this.a*2
+	}, // 注意逗号
+	// 确保b会出现在对象的属性列表中
+	enumerable:true 
+})
+
+console.log(obj)// {a:1,b:2}
+```
+如上，不论是使用对象文字语法的```get a(){}```还是使用```Object.defineProperty```显式定义，两者都会在对象中创建一个不包含值的属性。对于这个的访问会自动调用一个隐藏函数，其返回值回座位属性访问的返回值。
+```js
+const obj={
+	get a(){return 1} //只定义了getter
+}
+obj.a=2 // 对a进行设置时，set操作会忽略赋值操作，set操作是没有意义的
+console.log(obj.a)// 1
+```
+为了让属性更合理，应当设置setter，setter会覆盖单个属性的复制操作。一般来说，getter和setter是成对出现的。
+```js
+const obj={
+	get a(){
+		return this._a
+	},
+	set a(val){
+		this._a=val*2
+	}
+}
+console.log(obj.a) //undefined
+obj.a=1
+console.log(obj.a)// 2
+```
+## 存在性
+检测属性是否在对象上：
+1. hasOwnProperty 这个大家都知道，但他检测的只是对象上的属性，不会检查原型链上的。但也可以通过一种更强硬的方法来判断`Object.prototype.hasOwnProperty.call(obj,'a')`
+2. 使用```in```就可以检测到原型链上的属性了。
+```js
+const obj={a:1}
+console.log('a' in obj)// true
+```
