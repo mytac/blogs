@@ -39,6 +39,8 @@
 1. [react-native-typography -- React Native 中像素完美，像原生一样的印刷风格](https://github.com/hectahertz/react-native-typography)
 
     ![DEMO](https://github.com/hectahertz/react-native-typography/raw/master/images/san-francisco-weights.png)
+2. [AC-QRCode-RN -- React Native高度可定制的二维码扫描组件](https://github.com/MarnoDev/AC-QRCode-RN)
+    ![demo](https://github.com/MarnoDev/AC-QRCode-RN/raw/master/screenshots/twitter.png)
 ## electron相关
 1. [PicGo -- 一个简单而美丽的工具，用electron-vue构建的图片上传工具](https://github.com/Molunerfinn/PicGo)
     
