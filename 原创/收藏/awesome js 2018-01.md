@@ -11,6 +11,15 @@
     
 ## react相关
 1. [react-sortable-hoc -- 触摸有好、可排序的列表](https://github.com/clauderic/react-sortable-hoc)
+2. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
+
+## node相关
+1. [polka -- 基于express的微型Web服务器](https://github.com/lukeed/polka)简单程序上比express快30%；支持中间件：包括express中间件；和express几乎相同的api和路由模式；
 
 ## funny-stuff
 1. [PlanMaster -- 威信小程序套餐助手：手机套餐对比选购小程序](https://github.com/PrototypeFunction/PlanMaster)
+2. [jspaint -- windows经典的画图工具](https://github.com/1j01/jspaint)
+
+![demo](https://github.com/1j01/jspaint/blob/gh-pages/images/readme/main-screenshot.png)
+
+[demo地址](http://jspaint.ml/#local:199164e0.a711e)
