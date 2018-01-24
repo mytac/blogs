@@ -23,3 +23,4 @@
 ![demo](https://github.com/1j01/jspaint/blob/gh-pages/images/readme/main-screenshot.png)
 
 [demo地址](http://jspaint.ml/#local:199164e0.a711e)
+3. [ilsap -- Intellij许可证服务器活动代理](https://github.com/rodrigogs/ilsap)这个我自己还没有测试，使用jet brains家的产品就fork一下把~~
