@@ -16,6 +16,9 @@
 ## node相关
 1. [polka -- 基于express的微型Web服务器](https://github.com/lukeed/polka)简单程序上比express快30%；支持中间件：包括express中间件；和express几乎相同的api和路由模式；
 
+## 博客
+1. [project-guidelines -- JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md#consistent-dev-environments)
+
 ## funny-stuff
 1. [PlanMaster -- 威信小程序套餐助手：手机套餐对比选购小程序](https://github.com/PrototypeFunction/PlanMaster)
 2. [jspaint -- windows经典的画图工具](https://github.com/1j01/jspaint)
