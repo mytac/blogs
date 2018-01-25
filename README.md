@@ -12,6 +12,7 @@
 17.12.15 | [  ] |写一个[parcel](https://github.com/parcel-bundler/parcel)与[microbundle](https://github.com/developit/microbundle)的对比文章
 17.12.29 | [  ] |[传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
 17.12.29 | [  ] |[给所有开发者的React Native详细入门指南](https://juejin.im/post/5898388b128fe1006cb943e3#heading-9)
+18.1.25 | [  ] |[project-guidelines -- JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md#consistent-dev-environments)
 
 ## 实物书单
 
