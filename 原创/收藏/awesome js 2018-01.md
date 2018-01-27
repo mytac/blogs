@@ -5,6 +5,21 @@
 1. [jarvis -- 一个非常智能的基于浏览器的Webpack仪表板](https://github.com/zouhir/jarvis)它的主要特点是可以查看在12种不同的网络制式中你的项目的表现情况。
     ![demo](https://github.com/zouhir/jarvis/raw/master/.github/screenshot.png?raw=true)
 
+## 网络通信
+1.[greenlet -- 移动一个异步函数到自己的线程。](https://github.com/developit/greenlet)他的原理是接受一个异步函数，生成一个在Web Worker中运行的副本。
+
+示例：
+```js
+import greenlet from 'greenlet'
+
+let get = greenlet(async url => {
+	let res = await fetch(url)
+	return await res.json()
+})
+
+console.log(await get('/foo'))
+```
+
 ## 编辑器
 1. [tui.editor -- Markdown所见即所得的编辑器。图表和UML在markdown语法。](https://github.com/nhnent/tui.editor)
     ![demo](https://user-images.githubusercontent.com/1215767/34353629-95b58da0-ea6c-11e7-859b-df5e990dd157.png)
@@ -15,6 +30,11 @@
 
 ## node相关
 1. [polka -- 基于express的微型Web服务器](https://github.com/lukeed/polka)简单程序上比express快30%；支持中间件：包括express中间件；和express几乎相同的api和路由模式；
+
+## PWA
+1. [lavas -- 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题 ](https://github.com/lavas-project/lavas)
+
+[官网示例，建议在手机浏览器打开](https://lavas-project.github.io/lavas-demo/appshell/#/)
 
 ## 博客
 1. [project-guidelines -- JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md#consistent-dev-environments)
