@@ -30,14 +30,20 @@ console.log(await get('/foo'))
 
 ## node相关
 1. [polka -- 基于express的微型Web服务器](https://github.com/lukeed/polka)简单程序上比express快30%；支持中间件：包括express中间件；和express几乎相同的api和路由模式；
+2. [safe-start-koa2 -- 简單直接的 Koa2 的脚手架](https://github.com/chungchi300/safe-start-koa2)
 
 ## PWA
 1. [lavas -- 基于 Vue 的 PWA 解决方案，帮助开发者快速搭建 PWA 应用，解决接入 PWA 的各种问题 ](https://github.com/lavas-project/lavas)
 
 [官网示例，建议在手机浏览器打开](https://lavas-project.github.io/lavas-demo/appshell/#/)
 
-## 博客
+## 博客/文档
 1. [project-guidelines -- JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md#consistent-dev-environments)
+2. [outline -- 为成长中的团队开放源代码wiki和知识库](https://github.com/outline/outline)比较适合创业团队来看的
+
+    [文档](https://www.getoutline.com/developers)
+3. [standard -- JavaScript风格指南，配有linter＆自动代码修复器](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)
+4. [webpack-demos -- Webpack的简单演示的集合](https://github.com/ruanyf/webpack-demos)
 
 ## funny-stuff
 1. [PlanMaster -- 威信小程序套餐助手：手机套餐对比选购小程序](https://github.com/PrototypeFunction/PlanMaster)
