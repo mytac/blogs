@@ -13,6 +13,8 @@
 17.12.29 | [  ] |[传统 Ajax 已死，Fetch 永生](https://segmentfault.com/a/1190000003810652)
 17.12.29 | [  ] |[给所有开发者的React Native详细入门指南](https://juejin.im/post/5898388b128fe1006cb943e3#heading-9)
 18.1.25 | [  ] |[project-guidelines -- JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md#consistent-dev-environments)
+18.1.29 | [  ] |[standard -- JavaScript风格指南，配有linter＆自动代码修复器](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)
+
 
 ## 实物书单
 
