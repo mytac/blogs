@@ -19,6 +19,7 @@ let get = greenlet(async url => {
 
 console.log(await get('/foo'))
 ```
+2. [sockette -- 最可爱的小WebSocket包装！](https://github.com/lukeed/sockette)Sockette是一个很小的（319字节）WebSocket封装，如果连接丢失，它将自动重新连接！
 
 ## 编辑器
 1. [tui.editor -- Markdown所见即所得的编辑器。图表和UML在markdown语法。](https://github.com/nhnent/tui.editor)
