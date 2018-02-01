@@ -50,7 +50,7 @@ console.log(await get('/foo'))
 1. [PlanMaster -- 威信小程序套餐助手：手机套餐对比选购小程序](https://github.com/PrototypeFunction/PlanMaster)
 2. [jspaint -- windows经典的画图工具](https://github.com/1j01/jspaint)
 
-![demo](https://github.com/1j01/jspaint/blob/gh-pages/images/readme/main-screenshot.png)
+![demo](https://github.com/1j01/jspaint/blob/gh-pages/images/readme/main-screenshot.png?raw=true)
 
 [demo地址](http://jspaint.ml/#local:199164e0.a711e)
 3. [ilsap -- Intellij许可证服务器活动代理](https://github.com/rodrigogs/ilsap)这个我自己还没有测试，使用jet brains家的产品就fork一下把~~
