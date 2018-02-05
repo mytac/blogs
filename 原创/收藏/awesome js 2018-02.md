@@ -2,12 +2,27 @@
 1. [ice -- （邀请公测）赋能企业中后台建设 - 海量可复用物料，通过 GUI 工具极速构建中后台应用 ](https://github.com/alibaba/ice)
     
     [官网](https://alibaba.github.io/ice/#/block)
-## 网络聊天室
-1. [lounge -- 现代自主网络IRC客户端](https://github.com/thelounge/lounge)具有推送通知、链接预览、信息标记；始终连接；跨平台；响应式；优秀的同步体验。
-
-## 框架
-1. [viron -- 基于自动化设计的管理控制台](https://github.com/cam-inc/viron)你所做的只是创建一个API服务器和一个OAS2.0 json文件。然后viron管理工具已准备好使用。你不需要编写前端代码！
+    
+2. [viron -- 基于自动化设计的管理控制台](https://github.com/cam-inc/viron)你所做的只是创建一个API服务器和一个OAS2.0 json文件。然后viron管理工具已准备好使用。你不需要编写前端代码！
     
     [demo](https://cam-inc.github.io/viron/latest/#/)
     
     [官网](https://cam-inc.github.io/viron-doc/)
+## 网络聊天室
+1. [lounge -- 现代自主网络IRC客户端](https://github.com/thelounge/lounge)具有推送通知、链接预览、信息标记；始终连接；跨平台；响应式；优秀的同步体验。
+
+## RN相关
+1. [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe)简单的走马灯？？？感觉应该是这个术语
+
+    ![demo](https://github.com/kkemple/react-native-sideswipe/raw/master/example-assets/sideswipe-example.gif)
+
+## 博客/文档
+1. [awesome-cheatsheets -- 流行的编程语言和框架的备忘录。你应该知道什么组织在一个单一的文件](https://github.com/LeCoupa/awesome-cheatsheets#frontend)
+看了下，是作者个人记录的各种命令行和某些框架的配置命令，命令行还比较实用，配置啥的其实看官方文档可以查到，作者也不会一直追踪最新版的框架。
+
+2.[first-contributions -- 一个让初学者贡献开源的项目](https://github.com/Roshanjossey/first-contributions)可以说是一个详细的贡献开源的教程
+
+## funny stuff
+1. [carbon -- 创建和分享源代码的美丽图像](https://github.com/dawnlabs/carbon)就是将自己的代码，生成图像，拥有很多高亮，还挺有意思的。
+
+    ![demo](https://user-images.githubusercontent.com/10369094/30791512-cb001438-a167-11e7-952b-f0f0e5c4499e.png)

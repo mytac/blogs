@@ -14,6 +14,7 @@
 17.12.29 | [  ] |[给所有开发者的React Native详细入门指南](https://juejin.im/post/5898388b128fe1006cb943e3#heading-9)
 18.1.25 | [  ] |[project-guidelines -- JavaScript工程项目的一系列最佳实践策略](https://github.com/wearehive/project-guidelines/blob/master/README-zh.md#consistent-dev-environments)
 18.1.29 | [  ] |[standard -- JavaScript风格指南，配有linter＆自动代码修复器](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)
+18.2.5 | [  ] |[first-contributions -- 一个让初学者贡献开源的项目](https://github.com/Roshanjossey/first-contributions)可以说是一个详细的贡献开源的教程
 
 
 ## 实物书单
