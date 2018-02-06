@@ -26,3 +26,9 @@
 1. [carbon -- 创建和分享源代码的美丽图像](https://github.com/dawnlabs/carbon)就是将自己的代码，生成图像，拥有很多高亮，还挺有意思的。
 
     ![demo](https://user-images.githubusercontent.com/10369094/30791512-cb001438-a167-11e7-952b-f0f0e5c4499e.png)
+2. [tetris -- 流行的游戏俄罗斯方块的克隆。](https://github.com/nullobject/tetris)其实就是个小游戏，感兴趣的可以看看源代码
+    
+    [游戏地址](https://tetris.joshbassett.info/)
+3. [OpenSC2K -- 由Maxis公司开发的SimCity 2000开源软件](https://github.com/rage8885/OpenSC2K)使用HTML5 Canvas API和SQLite编写的使用JavaScript编写的模拟城市 2000的开放源代码重建，并且构建在Electron上。
+4. [baidu-pet-chain-buyer -- 百度莱茨狗抢购插件](https://github.com/playwithblockchain/baidu-pet-chain-buyer)
+    [Chrome商店地址：](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%8E%B1%E8%8C%A8%E7%8B%97/fgpcgbppajchcfdnphppkhkfhbpnmoji)
