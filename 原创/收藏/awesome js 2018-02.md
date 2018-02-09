@@ -32,3 +32,7 @@
 3. [OpenSC2K -- 由Maxis公司开发的SimCity 2000开源软件](https://github.com/rage8885/OpenSC2K)使用HTML5 Canvas API和SQLite编写的使用JavaScript编写的模拟城市 2000的开放源代码重建，并且构建在Electron上。
 4. [baidu-pet-chain-buyer -- 百度莱茨狗抢购插件](https://github.com/playwithblockchain/baidu-pet-chain-buyer)
     [Chrome商店地址：](https://chrome.google.com/webstore/detail/%E7%99%BE%E5%BA%A6%E8%8E%B1%E8%8C%A8%E7%8B%97/fgpcgbppajchcfdnphppkhkfhbpnmoji)
+5. [kap -- 使用网络技术构建的开源屏幕录像机](https://github.com/wulkano/kap)
+6. [oji -- 文本表情符号生成器](https://github.com/xxczaki/oji)
+
+    ![demo](https://camo.githubusercontent.com/ddbd1e46c050d2227df947c1ba41a405f0f17958/68747470733a2f2f692e696d6775722e636f6d2f6d6646314169792e676966)
