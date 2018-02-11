@@ -3,3 +3,8 @@
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
+
+## markdown
+1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
+
+    [官网示例](http://dump.jamesknelson.com/mdxc-playground.html)

@@ -15,6 +15,14 @@
 1. [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe)简单的走马灯？？？感觉应该是这个术语
 
     ![demo](https://github.com/kkemple/react-native-sideswipe/raw/master/example-assets/sideswipe-example.gif)
+    
+## react相关
+1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
+
+    [官网示例](http://dump.jamesknelson.com/mdxc-playground.html)
+
+## 数据库相关
+1. [node-mongodb-native -- Mongo DB本机NodeJS驱动程序](https://github.com/mongodb/node-mongodb-native)
 
 ## 博客/文档
 1. [awesome-cheatsheets -- 流行的编程语言和框架的备忘录。你应该知道什么组织在一个单一的文件](https://github.com/LeCoupa/awesome-cheatsheets#frontend)
