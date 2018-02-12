@@ -29,6 +29,7 @@
 看了下，是作者个人记录的各种命令行和某些框架的配置命令，命令行还比较实用，配置啥的其实看官方文档可以查到，作者也不会一直追踪最新版的框架。
 
 2.[first-contributions -- 一个让初学者贡献开源的项目](https://github.com/Roshanjossey/first-contributions)可以说是一个详细的贡献开源的教程
+3.[front-end-interview-handbook -- 几乎完整的答案，您可以用来面试潜在的候选人，测试自己或完全忽略“前端工作面试问题”](https://github.com/yangshun/front-end-interview-handbook)
 
 ## funny stuff
 1. [carbon -- 创建和分享源代码的美丽图像](https://github.com/dawnlabs/carbon)就是将自己的代码，生成图像，拥有很多高亮，还挺有意思的。
