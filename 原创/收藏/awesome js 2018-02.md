@@ -12,7 +12,7 @@
 1. [lounge -- 现代自主网络IRC客户端](https://github.com/thelounge/lounge)具有推送通知、链接预览、信息标记；始终连接；跨平台；响应式；优秀的同步体验。
 
 ## RN相关
-1. [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe)简单的走马灯？？？感觉应该是这个术语
+1. [react-native-sideswipe](https://github.com/kkemple/react-native-sideswipe)简单的走马灯？？？
 
     ![demo](https://github.com/kkemple/react-native-sideswipe/raw/master/example-assets/sideswipe-example.gif)
     
@@ -20,6 +20,11 @@
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
 
     [官网示例](http://dump.jamesknelson.com/mdxc-playground.html)
+
+## 图表相关
+1. [just-dashboard -- 使用YAML / JSON文件创建仪表板](https://github.com/kantord/just-dashboard)
+    
+    ![demo](https://github.com/kantord/just-dashboard/raw/master/screenshot.png)
 
 ## 数据库相关
 1. [node-mongodb-native -- Mongo DB本机NodeJS驱动程序](https://github.com/mongodb/node-mongodb-native)
@@ -45,3 +50,6 @@
 6. [oji -- 文本表情符号生成器](https://github.com/xxczaki/oji)
 
     ![demo](https://camo.githubusercontent.com/ddbd1e46c050d2227df947c1ba41a405f0f17958/68747470733a2f2f692e696d6775722e636f6d2f6d6646314169792e676966)
+7. [rekit -- 使用React，Redux和React-router构建可伸缩Web应用程序的工具包](https://github.com/supnate/rekit)可以说是react的ide了
+    
+    ![demo](https://cdn-images-1.medium.com/max/800/1*Qi68yRpDTFISfd_SFoy9HQ.png)
