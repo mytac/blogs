@@ -36,6 +36,10 @@
 2.[first-contributions -- 一个让初学者贡献开源的项目](https://github.com/Roshanjossey/first-contributions)可以说是一个详细的贡献开源的教程
 3.[front-end-interview-handbook -- 几乎完整的答案，您可以用来面试潜在的候选人，测试自己或完全忽略“前端工作面试问题”](https://github.com/yangshun/front-end-interview-handbook)
 
+## 游戏相关
+1. [phaser -- Phaser是一个有趣，免费且快速的2D游戏框架，用于制作适用于桌面和移动Web浏览器的HTML5游戏，支持Canvas和WebGL渲染。](https://github.com/photonstorm/phaser)一个非常著名的游戏框架，官网文档超级全
+    
+    [官网](http://phaser.io/)
 ## funny stuff
 1. [carbon -- 创建和分享源代码的美丽图像](https://github.com/dawnlabs/carbon)就是将自己的代码，生成图像，拥有很多高亮，还挺有意思的。
 
