@@ -18,7 +18,7 @@
 18.1.29 | [  ] |[standard -- JavaScript风格指南，配有linter＆自动代码修复器](https://github.com/standard/standard/blob/master/docs/README-zhcn.md)
 18.2.5 | [  ] |[first-contributions -- 一个让初学者贡献开源的项目](https://github.com/Roshanjossey/first-contributions)可以说是一个详细的贡献开源的教程
 18.2.12|[ ] |[front-end-interview-handbook -- 几乎完整的答案，您可以用来面试潜在的候选人，测试自己或完全忽略“前端工作面试问题”](https://github.com/yangshun/front-end-interview-handbook)
-
+18.3.7 | [ ]|了解rematch--翻译[Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 
 ## 实物书单
 
