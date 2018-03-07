@@ -2,6 +2,9 @@
 1. [tippyjs -- 一个轻量级的vanilla JS工具提示库](https://github.com/atomiks/tippyjs)
     
     [官方示例](https://atomiks.github.io/tippyjs/)
+## 状态管理
+1. [immer -- 通过改变当前的状态来创建下一个不可变状态](https://github.com/mweststrate/immer)
+2. [rematch -- redux框架](https://github.com/rematch/rematch)
 ## CLI
 1. [prompts - 轻量级，美观且用户友好的交互式提示](https://github.com/terkelg/prompts)
     ![demo](https://github.com/terkelg/prompts/raw/master/media/number.gif)
