@@ -8,6 +8,10 @@
 ## CLI
 1. [prompts - 轻量级，美观且用户友好的交互式提示](https://github.com/terkelg/prompts)
     ![demo](https://github.com/terkelg/prompts/raw/master/media/number.gif)
+## 小程序
+1. [mpvue -- 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue)
+    
+    [官网](http://mpvue.com)
 ## 区块链
 1. [awesome-blockchain -- 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
 ## canvas   
@@ -24,3 +28,5 @@
 ## funny stuff
 1. [hongbao -- heavy_check_mark 饿了么、美团拼手气红包辅助，一键领取手气最佳红包](https://github.com/game-helper/hongbao)
     ![官网]( http://www.elemhb.top/)
+2. [lipstick -- 口红颜色可视化 - 为什么你的女神总缺一支口红](https://github.com/Ovilia/lipstick)这个挺有意思的，如果你不知道怎么给女朋友选口红挑色号，可以看看这个项目；本来以为是爬虫，其实是写好的json；不过这样看比较直观。
+    ![demo](https://github.com/Ovilia/lipstick/raw/gh-pages/assets/screenshot.png)
