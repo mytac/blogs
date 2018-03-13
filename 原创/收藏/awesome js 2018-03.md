@@ -2,12 +2,26 @@
 1. [tippyjs -- 一个轻量级的vanilla JS工具提示库](https://github.com/atomiks/tippyjs)
     
     [官方示例](https://atomiks.github.io/tippyjs/)
+2. [driver.js -- 一个轻量级的，无需依赖的JavaScript引擎，可以在整个页面中推动用户的注意力](https://github.com/kamranahmedse/driver.js)
+    
+    这个库可以用来给某个元素高亮，高度可定制化；
+    [官方示例](http://kamranahmed.info/driver)
+## 图像处理
+1. [rough -- 用代码绘制手绘风格的图案，生成svg](https://github.com/pshihn/rough)
+
+    ![demo](https://camo.githubusercontent.com/321c5ec903de912560670ba0fb8d6b7705a2a4e5/68747470733a2f2f726f7567686a732e636f6d2f696d616765732f6361705f64656d6f2e706e67)
+2. [basicScroll -- 带有css变量的独立视差滚动，用于桌面和移动端](https://github.com/electerious/basicScroll)
+    
+    [官方示例](https://codepen.io/electerious/pen/QGNxxx)
 ## 状态管理
 1. [immer -- 通过改变当前的状态来创建下一个不可变状态](https://github.com/mweststrate/immer)
 2. [rematch -- redux框架](https://github.com/rematch/rematch)
 ## CLI
 1. [prompts - 轻量级，美观且用户友好的交互式提示](https://github.com/terkelg/prompts)
     ![demo](https://github.com/terkelg/prompts/raw/master/media/number.gif)
+2. [wunderbar -- 简单的水平条形图](https://github.com/gribnoysup/wunderbar)
+
+    ![demo](https://github.com/gribnoysup/wunderbar/raw/master/wunder-bar-cli-all.png)
 ## 小程序
 1. [mpvue -- 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue)
     
@@ -26,6 +40,8 @@
 2. [react-virtualized -- react组件高效渲染大型列表和表格数据](https://github.com/bvaughn/react-virtualized)
 ## 文档/博客
 1. [awesome-selfhosted -- 这是可在本地托管的免费软件网络服务和Web应用程序的列表。 Selfhosting是本地托管和管理应用程序的过程，而不是从SaaS提供商处租用。](https://github.com/Kickball/awesome-selfhosted)
+2. [linux-command -- Linux 命令查询工具跨平台桌面版](https://github.com/haloislet/linux-command)
+    之前介绍过的linux-command，这个是整合出来的搜索引擎，很强大    
 ## funny stuff
 1. [hongbao -- heavy_check_mark 饿了么、美团拼手气红包辅助，一键领取手气最佳红包](https://github.com/game-helper/hongbao)
     ![官网]( http://www.elemhb.top/)
