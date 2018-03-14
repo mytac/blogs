@@ -6,6 +6,12 @@
     
     这个库可以用来给某个元素高亮，高度可定制化；
     [官方示例](http://kamranahmed.info/driver)
+## 数据可视化
+1. [tui.chart -- 生成漂亮的数据可视化的仓库](https://github.com/nhnent/tui.chart)
+    
+    ![demo](https://user-images.githubusercontent.com/35218826/37026890-1e2bcfe0-2173-11e8-9b06-3db329d5f477.png)
+    
+    ![demo](https://user-images.githubusercontent.com/35218826/37018282-2a792584-2157-11e8-835f-fac1275d31e0.gif)
 ## 图像处理
 1. [rough -- 用代码绘制手绘风格的图案，生成svg](https://github.com/pshihn/rough)
 
