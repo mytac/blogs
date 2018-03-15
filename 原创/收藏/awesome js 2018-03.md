@@ -44,12 +44,40 @@
     
     [官方示例](https://brunnolou.github.io/react-morph/?selectedKind=Advanced&selectedStory=Morphing%20from%20card%20to%20details&full=0&addons=0&stories=1&panelRight=0)
 2. [react-virtualized -- react组件高效渲染大型列表和表格数据](https://github.com/bvaughn/react-virtualized)
+## 编辑器
+1. [pell -- 最简单和最小的（〜1kB）所见即所得的Web文本编辑器，没有依赖关系](https://github.com/jaredreich/pell)
+    
+    ![demo](https://github.com/jaredreich/pell/raw/master/demo.gif?raw=true)
+    
+    [官方示例](https://jaredreich.com/pell)
 ## 文档/博客
 1. [awesome-selfhosted -- 这是可在本地托管的免费软件网络服务和Web应用程序的列表。 Selfhosting是本地托管和管理应用程序的过程，而不是从SaaS提供商处租用。](https://github.com/Kickball/awesome-selfhosted)
 2. [linux-command -- Linux 命令查询工具跨平台桌面版](https://github.com/haloislet/linux-command)
-    之前介绍过的linux-command，这个是整合出来的搜索引擎，很强大    
+    之前介绍过的linux-command，这个是整合出来的搜索引擎，很强大
+3. [awesome-wechat-weapp -- 微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)非常值得收藏    
 ## funny stuff
 1. [hongbao -- heavy_check_mark 饿了么、美团拼手气红包辅助，一键领取手气最佳红包](https://github.com/game-helper/hongbao)
     ![官网]( http://www.elemhb.top/)
 2. [lipstick -- 口红颜色可视化 - 为什么你的女神总缺一支口红](https://github.com/Ovilia/lipstick)这个挺有意思的，如果你不知道怎么给女朋友选口红挑色号，可以看看这个项目；本来以为是爬虫，其实是写好的json；不过这样看比较直观。
     ![demo](https://github.com/Ovilia/lipstick/raw/gh-pages/assets/screenshot.png)
+3. [cows -- 用ASCII生成的一组不同形态的牛](https://github.com/sindresorhus/cows)超级有意思，贴一段代码：
+    
+    ```
+    .            /\         .       .
+          .     /  \      .          .
+               /    \   .        .    *
+              /      \              *
+              | (__) |   .    .   **
+       .     /| (oo) |\           **
+            / | /\/\ | \   .     . *
+        .  /  |=|==|=|  \     .      *
+       . /    | |  | |    \  .
+        / USA | ^||^ |NASA \     .
+       |______|  ^^  |______|       .
+      .       (__||__)     .   .
+         .    /_\  /_\  .     .    .
+              !!!  !!!
+    
+    The cow that jumped over the moon.
+    ```
+    [查看更多](https://github.com/sindresorhus/cows/blob/master/cows.txt)
