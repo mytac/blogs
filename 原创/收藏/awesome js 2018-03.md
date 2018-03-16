@@ -28,6 +28,7 @@
 2. [wunderbar -- 简单的水平条形图](https://github.com/gribnoysup/wunderbar)
 
     ![demo](https://github.com/gribnoysup/wunderbar/raw/master/wunder-bar-cli-all.png)
+3. [fkill-cli -- 跨平台杀进程](https://github.com/sindresorhus/fkill-cli)
 ## 小程序
 1. [mpvue -- 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue)
     
@@ -50,6 +51,10 @@
     ![demo](https://github.com/jaredreich/pell/raw/master/demo.gif?raw=true)
     
     [官方示例](https://jaredreich.com/pell)
+2. [marktext -- 新一代Markdown编辑器，运行在MacOS Windows和Linux平台上](https://github.com/marktext/marktext)
+一款高性能的 Markdown 编辑器，运行于 Mac、Windows 和 Linux 平台。其简洁的外观，流程的运行，给您带来舒适的写作体验。还可以斗图LOL
+## 播放器
+1. [video.js -- 开源的HTML5和Flash视频播放器](https://github.com/videojs/video.js)
 ## 文档/博客
 1. [awesome-selfhosted -- 这是可在本地托管的免费软件网络服务和Web应用程序的列表。 Selfhosting是本地托管和管理应用程序的过程，而不是从SaaS提供商处租用。](https://github.com/Kickball/awesome-selfhosted)
 2. [linux-command -- Linux 命令查询工具跨平台桌面版](https://github.com/haloislet/linux-command)
