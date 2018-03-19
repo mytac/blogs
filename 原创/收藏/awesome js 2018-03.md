@@ -19,6 +19,8 @@
 2. [basicScroll -- 带有css变量的独立视差滚动，用于桌面和移动端](https://github.com/electerious/basicScroll)
     
     [官方示例](https://codepen.io/electerious/pen/QGNxxx)
+## 机器学习
+1. [brain.js -- JavaScript中的神经网络](https://github.com/BrainJS/brain.js)
 ## 状态管理
 1. [immer -- 通过改变当前的状态来创建下一个不可变状态](https://github.com/mweststrate/immer)
 2. [rematch -- redux框架](https://github.com/rematch/rematch)
