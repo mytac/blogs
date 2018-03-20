@@ -6,6 +6,10 @@
     
     这个库可以用来给某个元素高亮，高度可定制化；
     [官方示例](http://kamranahmed.info/driver)
+3. [scrollbooster -- 令人愉快的内容拖动滚动库](https://github.com/ilyashubin/scrollbooster)
+    
+    [官方示例](https://ilyashubin.github.io/scrollbooster/)
+    ![demo](http://chuantu.biz/t6/259/1521509388x-1404817509.gif)
 ## 数据可视化
 1. [tui.chart -- 生成漂亮的数据可视化的仓库](https://github.com/nhnent/tui.chart)
     
@@ -47,6 +51,9 @@
     
     [官方示例](https://brunnolou.github.io/react-morph/?selectedKind=Advanced&selectedStory=Morphing%20from%20card%20to%20details&full=0&addons=0&stories=1&panelRight=0)
 2. [react-virtualized -- react组件高效渲染大型列表和表格数据](https://github.com/bvaughn/react-virtualized)
+3. [gestalt -- Pinterest设计风格的react ui组件](https://github.com/pinterest/gestalt)
+
+    [官方文档](https://pinterest.github.io/Box)
 ## 编辑器
 1. [pell -- 最简单和最小的（〜1kB）所见即所得的Web文本编辑器，没有依赖关系](https://github.com/jaredreich/pell)
     
