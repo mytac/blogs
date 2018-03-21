@@ -20,6 +20,7 @@
 18.2.12|[ ] |[front-end-interview-handbook -- 几乎完整的答案，您可以用来面试潜在的候选人，测试自己或完全忽略“前端工作面试问题”](https://github.com/yangshun/front-end-interview-handbook)
 18.3.7 | [ ]|了解rematch--翻译[Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 18.3.13 |[ ]|阅读[前端开发规范手册](https://github.com/jawil/blog/issues/4#issuecomment-372111231)
+18.3.21 |[ ]|阅读[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 
 ## 实物书单
 
