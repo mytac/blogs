@@ -19,4 +19,7 @@
 1. [gestalt -- Pinterest设计风格的react ui组件](https://github.com/pinterest/gestalt)
     
     [官方文档](https://pinterest.github.io/Box)
+
+## 测试
+1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
     
