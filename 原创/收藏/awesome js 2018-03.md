@@ -55,6 +55,10 @@
 
     [官方文档](https://pinterest.github.io/Box)
 4. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
+## RN
+1. [react-native-menu -- 适用于Android和iOS的灵活下拉菜单组件，与Android的Spinner类似。](https://github.com/jaysoo/react-native-menu)
+    
+    ![demo](https://raw.githubusercontent.com/jaysoo/react-native-menu/master/packages/react-native-menu/android.demo.gif)
 ## 编辑器
 1. [pell -- 最简单和最小的（〜1kB）所见即所得的Web文本编辑器，没有依赖关系](https://github.com/jaredreich/pell)
     
