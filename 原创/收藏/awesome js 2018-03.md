@@ -59,6 +59,10 @@
 1. [react-native-menu -- 适用于Android和iOS的灵活下拉菜单组件，与Android的Spinner类似。](https://github.com/jaysoo/react-native-menu)
     
     ![demo](https://raw.githubusercontent.com/jaysoo/react-native-menu/master/packages/react-native-menu/android.demo.gif)
+## Vue
+1. [vue-content-loader -- SVG组件创建占位符加载，如Facebook card loading。](https://github.com/egoist/vue-content-loader)
+    
+    ![demo](https://user-images.githubusercontent.com/4838076/34308760-ec55df82-e735-11e7-843b-2e311fa7b7d0.gif)
 ## 编辑器
 1. [pell -- 最简单和最小的（〜1kB）所见即所得的Web文本编辑器，没有依赖关系](https://github.com/jaredreich/pell)
     
