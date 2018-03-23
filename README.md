@@ -40,4 +40,4 @@ NodeJs实战| 17.12|[]
 
 [刷算法题记录](https://github.com/mytac/blogs/tree/master/%E5%88%B7%E9%A2%98)
 
-[刷面试题记录](https://github.com/mytac/blogs/tree/master/%E5%88%B7%E9%A2%98)
+[刷面试题记录](https://github.com/mytac/blogs/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98/%E7%9B%AE%E5%BD%95.md)
