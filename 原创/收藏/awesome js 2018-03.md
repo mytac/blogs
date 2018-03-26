@@ -35,6 +35,9 @@
 
     ![demo](https://github.com/gribnoysup/wunderbar/raw/master/wunder-bar-cli-all.png)
 3. [fkill-cli -- 跨平台杀进程](https://github.com/sindresorhus/fkill-cli)
+4. [webpackbar -- 用于Webpack 4的优雅ProgressBar和Profiler（实验）](https://github.com/nuxt/webpackbar)
+
+    ![demo](https://github.com/nuxt/webpackbar/raw/master/assets/screen1.jpg)
 ## 小程序
 1. [mpvue -- 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue)
     
@@ -55,10 +58,22 @@
 
     [官方文档](https://pinterest.github.io/Box)
 4. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
+5. [react-spring -- 帮助react-motion和animated 成为最好的朋友](https://github.com/drcmda/react-spring)
+    
+    ![demo](https://github.com/drcmda/react-spring/raw/master/assets/reveal.gif)
 ## RN
 1. [react-native-menu -- 适用于Android和iOS的灵活下拉菜单组件，与Android的Spinner类似。](https://github.com/jaysoo/react-native-menu)
     
     ![demo](https://raw.githubusercontent.com/jaysoo/react-native-menu/master/packages/react-native-menu/android.demo.gif)
+2. [react-native-elements -- 跨平台React本地用户界面工具包](https://github.com/react-native-training/react-native-elements)
+    
+    ![demo](https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png)
+    
+    [官方文档](https://react-native-training.github.io/react-native-elements/docs/avatar.html)
+## 状态管理
+1. [mobx -- 简单，可扩展的状态管理。](https://github.com/mobxjs/mobx)
+## node
+1. [better-sqlite3 -- Node.js中最快和最简单的SQLite3库](https://github.com/JoshuaWise/better-sqlite3)
 ## Vue
 1. [vue-content-loader -- SVG组件创建占位符加载，如Facebook card loading。](https://github.com/egoist/vue-content-loader)
     
@@ -107,3 +122,6 @@
 4. [tower_game -- 盖楼游戏 html5 canvas tower building game ](https://github.com/bmqb/tower_game)
     
     ![demo](https://camo.githubusercontent.com/2bd720d4d3c07d5755e7533bc99db4c37cf15106/687474703a2f2f6f6264686f796667342e626b742e636c6f7564646e2e636f6d2f746f7765722d707265766965772e676966)
+5. [parrot.live -- 将动画鹦鹉带到任何地方的终端](https://github.com/hugomd/parrot.live)
+
+    ![demo](https://camo.githubusercontent.com/24d967caaac2155e129fded2bb481b0b2fd94049/68747470733a2f2f642e70722f692f6a4b6c7563302e676966)

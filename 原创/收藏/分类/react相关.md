@@ -22,4 +22,9 @@
 
 ## 测试
 1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
+
+## 动画
+1. [react-spring -- 帮助react-motion和animated 成为最好的朋友](https://github.com/drcmda/react-spring)
+    
+    ![demo](https://github.com/drcmda/react-spring/raw/master/assets/reveal.gif)
     

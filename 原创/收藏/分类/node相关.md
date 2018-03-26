@@ -4,3 +4,4 @@
 
 ## 数据库
 1. [node-mongodb-native -- Mongo DB本机NodeJS驱动程序](https://github.com/mongodb/node-mongodb-native)
+2. [better-sqlite3 -- Node.js中最快和最简单的SQLite3库](https://github.com/JoshuaWise/better-sqlite3)
