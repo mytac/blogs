@@ -21,6 +21,7 @@
 18.3.7 | [ ]|了解rematch--翻译[Redesigning Redux](https://hackernoon.com/redesigning-redux-b2baee8b8a38)
 18.3.13 |[ ]|阅读[前端开发规范手册](https://github.com/jawil/blog/issues/4#issuecomment-372111231)
 18.3.21 |[ ]|阅读[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
+18.3.27 |[ ]|阅读[How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly/)
 
 ## 实物书单
 

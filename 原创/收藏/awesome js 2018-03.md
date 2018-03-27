@@ -92,7 +92,8 @@
 1. [awesome-selfhosted -- 这是可在本地托管的免费软件网络服务和Web应用程序的列表。 Selfhosting是本地托管和管理应用程序的过程，而不是从SaaS提供商处租用。](https://github.com/Kickball/awesome-selfhosted)
 2. [linux-command -- Linux 命令查询工具跨平台桌面版](https://github.com/haloislet/linux-command)
     之前介绍过的linux-command，这个是整合出来的搜索引擎，很强大
-3. [awesome-wechat-weapp -- 微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)非常值得收藏    
+3. [awesome-wechat-weapp -- 微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)非常值得收藏
+4. [How-to-learn-node-correctly -- 如何正确的学习Node.js ](https://github.com/i5ting/How-to-learn-node-correctly)狼叔出品，必须fork一份    
 ## funny stuff
 1. [hongbao -- heavy_check_mark 饿了么、美团拼手气红包辅助，一键领取手气最佳红包](https://github.com/game-helper/hongbao)
     ![官网]( http://www.elemhb.top/)
@@ -125,3 +126,6 @@
 5. [parrot.live -- 将动画鹦鹉带到任何地方的终端](https://github.com/hugomd/parrot.live)
 
     ![demo](https://camo.githubusercontent.com/24d967caaac2155e129fded2bb481b0b2fd94049/68747470733a2f2f642e70722f692f6a4b6c7563302e676966)
+6. [oni -- 现代的模态编辑器](https://github.com/onivim/oni)Oni是一种新型的编辑器，专注于最大限度地提高生产力 - 将模态编辑与现代编辑期望的功能相结合。
+    
+     ![demo](https://user-images.githubusercontent.com/13532591/36127305-9c7b6b80-1011-11e8-85dd-0345788c0b56.png)
