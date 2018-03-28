@@ -42,6 +42,7 @@
 1. [mpvue -- 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。](https://github.com/Meituan-Dianping/mpvue)
     
     [官网](http://mpvue.com)
+2. [zanui-weapp -- 高颜值、好用、易扩展的微信小程序 UI 库，Powered by 有赞](https://github.com/youzan/zanui-weapp)
 ## 区块链
 1. [awesome-blockchain -- 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料](https://github.com/chaozh/awesome-blockchain)
 ## canvas   
