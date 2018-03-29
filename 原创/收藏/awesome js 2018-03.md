@@ -130,3 +130,4 @@
 6. [oni -- 现代的模态编辑器](https://github.com/onivim/oni)Oni是一种新型的编辑器，专注于最大限度地提高生产力 - 将模态编辑与现代编辑期望的功能相结合。
     
      ![demo](https://user-images.githubusercontent.com/13532591/36127305-9c7b6b80-1011-11e8-85dd-0345788c0b56.png)
+7. [is-thirteen -- 检查一个数字是否等于13。](https://github.com/jezen/is-thirteen)本来以为是个很没有用的库（其实还是没啥用），可以看看代码，非常有意思
