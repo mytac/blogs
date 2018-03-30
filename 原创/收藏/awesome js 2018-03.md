@@ -75,6 +75,8 @@
 1. [mobx -- 简单，可扩展的状态管理。](https://github.com/mobxjs/mobx)
 ## node
 1. [better-sqlite3 -- Node.js中最快和最简单的SQLite3库](https://github.com/JoshuaWise/better-sqlite3)
+## 脚手架
+1. [multipages-generator -- 是一个像express-generator一样快速生成网站脚手架的npm模块，可以全局安装。只要一个命令即可生成多页面的express工程，是多页面webpack编译的最佳实践模板，最适合多个独立的移动端h5项目](https://github.com/linweiwei123/multipages-generator)
 ## Vue
 1. [vue-content-loader -- SVG组件创建占位符加载，如Facebook card loading。](https://github.com/egoist/vue-content-loader)
     
@@ -131,3 +133,4 @@
     
      ![demo](https://user-images.githubusercontent.com/13532591/36127305-9c7b6b80-1011-11e8-85dd-0345788c0b56.png)
 7. [is-thirteen -- 检查一个数字是否等于13。](https://github.com/jezen/is-thirteen)本来以为是个很没有用的库（其实还是没啥用），可以看看代码，非常有意思
+8. [text2mindmap -- 通过编写缩进列表来制作思维导图的在线工具](https://github.com/tobloef/text2mindmap)
