@@ -4,3 +4,4 @@
 
     ![demo](https://github.com/gribnoysup/wunderbar/raw/master/wunder-bar-cli-all.png)
 3. [fkill-cli -- 跨平台杀进程](https://github.com/sindresorhus/fkill-cli)
+4. [ink -- 把react应用于命令行应用程序](https://github.com/vadimdemedes/ink)
