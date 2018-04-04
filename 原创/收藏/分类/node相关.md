@@ -2,6 +2,7 @@
 ## Koa
 1. [safe-start-koa2 -- 简單直接的 Koa2 的脚手架](https://github.com/chungchi300/safe-start-koa2)
 
-## 数据库
+## 数据库驱动
 1. [node-mongodb-native -- Mongo DB本机NodeJS驱动程序](https://github.com/mongodb/node-mongodb-native)
 2. [better-sqlite3 -- Node.js中最快和最简单的SQLite3库](https://github.com/JoshuaWise/better-sqlite3)
+3. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
