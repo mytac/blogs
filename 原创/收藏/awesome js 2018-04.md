@@ -6,6 +6,11 @@
     ![demo](https://camo.githubusercontent.com/57a735f3893b242fa749dc2748c2b46a92a8f107/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f764e424e49477643694977714c7761596a5755792e706e67)
     
     [官网示例](https://antv.alipay.com/zh-cn/f2/3.x/demo/index.html)
+## 控件
+1. [glide -- 0依赖，轻量的slider和走马灯](https://github.com/glidejs/glide)
+## react相关
+1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
+    [官网](https://kutlugsahin.github.io/smooth-dnd-demo/)
 ## Node
 1. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
 ## 机器学习
@@ -17,3 +22,6 @@
     ![demo](https://github.com/yogaboll/react-kanban/raw/master/example.gif)
     
     [官网](https://www.reactkanban.com)
+2. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
+    
+    ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)

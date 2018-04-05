@@ -4,6 +4,10 @@
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
+## 控件
+1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
+
+    [官网](https://kutlugsahin.github.io/smooth-dnd-demo/)
 
 ## markdown
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
@@ -27,4 +31,8 @@
 1. [react-spring -- 帮助react-motion和animated 成为最好的朋友](https://github.com/drcmda/react-spring)
     
     ![demo](https://github.com/drcmda/react-spring/raw/master/assets/reveal.gif)
+## 实例
+1. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
+    
+    ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
     
