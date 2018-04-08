@@ -35,4 +35,8 @@
 1. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
     
     ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
+## 文档
+1. [react-lifecycle-methods-diagram -- 交互式React生命周期方法图。](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)建议收藏看看非常直观，一看就理解了
+    
+    [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
     

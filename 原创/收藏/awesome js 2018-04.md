@@ -1,5 +1,23 @@
 ## CLI相关
 1. [ink -- 把react应用于命令行应用程序](https://github.com/vadimdemedes/ink)
+2. [consola -- 优雅的控制台记录器](https://github.com/nuxt/consola)
+```js
+const consola = require('consola')
+
+// See types section for all available types
+consola.start('Starting build')
+consola.success('Built!')
+consola.info('Reporter: Some info')
+consola.error(new Error('Foo'))
+```
+![demo](https://github.com/nuxt/consola/raw/master/assets/screen1.png)
+```
+[2:17:17 PM] Starting build
+[2:17:17 PM] [TEST] Log from test scope
+[2:17:18 PM] Built!
+[2:17:18 PM] Some info
+[2:17:18 PM] Error: Foo
+```
 ## 可视化
 1. [f2 -- 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案](https://github.com/antvis/f2)
 
@@ -11,8 +29,16 @@
 ## react相关
 1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
     [官网](https://kutlugsahin.github.io/smooth-dnd-demo/)
+2. [react-lifecycle-methods-diagram -- 交互式React生命周期方法图。](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)建议收藏看看非常直观，一看就理解了
+    
+    [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 ## Node
 1. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
+2. [jsonstore -- 通过发送简单的HTTP请求免费存储您的数据](https://github.com/bluzi/jsonstore)非常值得收藏~适合自己写前端demo作为临时数据接口使用
+    
+    [官网](https://www.jsonstore.io/)
+## 区块链
+1. [ethereumbook -- Mastering Ethereum英文文档](https://github.com/ethereumbook/ethereumbook)
 ## 机器学习
 1. [tfjs -- WebGL加速的基于浏览器的JavaScript库，用于学习和部署ML模型。](https://github.com/tensorflow/tfjs)
 2. [tfjs-examples -- 使用TensorFlow.js构建的示例](https://github.com/tensorflow/tfjs-examples)
