@@ -39,4 +39,5 @@
 1. [react-lifecycle-methods-diagram -- 交互式React生命周期方法图。](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)建议收藏看看非常直观，一看就理解了
     
     [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+2. [awesome-react-context -- 与新的React Context API相关的策略列表](https://github.com/diegohaz/awesome-react-context)
     

@@ -32,6 +32,7 @@ consola.error(new Error('Foo'))
 2. [react-lifecycle-methods-diagram -- 交互式React生命周期方法图。](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)建议收藏看看非常直观，一看就理解了
     
     [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+3. [awesome-react-context -- 与新的React Context API相关的策略列表](https://github.com/diegohaz/awesome-react-context)
 ## Node
 1. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
 2. [jsonstore -- 通过发送简单的HTTP请求免费存储您的数据](https://github.com/bluzi/jsonstore)非常值得收藏~适合自己写前端demo作为临时数据接口使用
@@ -42,6 +43,8 @@ consola.error(new Error('Foo'))
 ## 机器学习
 1. [tfjs -- WebGL加速的基于浏览器的JavaScript库，用于学习和部署ML模型。](https://github.com/tensorflow/tfjs)
 2. [tfjs-examples -- 使用TensorFlow.js构建的示例](https://github.com/tensorflow/tfjs-examples)
+## 博客
+1. [Web -- 前端入门和进阶学习笔记，超详细的图文教程。从零开始学前端，做一个web全栈工程师。每日更新...](https://github.com/smyhvae/Web)
 ## funny stuff
 1. [react-kanban -- 类似于trello的用react构建的看板app，流行的技术栈适合用来学习](https://github.com/yogaboll/react-kanban)
     
