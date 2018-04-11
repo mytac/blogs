@@ -33,6 +33,7 @@ consola.error(new Error('Foo'))
     
     [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 3. [awesome-react-context -- 与新的React Context API相关的策略列表](https://github.com/diegohaz/awesome-react-context)
+4. [react-static -- React的渐进式静态网站生成器。](https://github.com/nozzle/react-static)
 ## Node
 1. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
 2. [jsonstore -- 通过发送简单的HTTP请求免费存储您的数据](https://github.com/bluzi/jsonstore)非常值得收藏~适合自己写前端demo作为临时数据接口使用
