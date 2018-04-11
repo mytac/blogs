@@ -45,6 +45,8 @@ consola.error(new Error('Foo'))
 2. [tfjs-examples -- 使用TensorFlow.js构建的示例](https://github.com/tensorflow/tfjs-examples)
 ## 博客
 1. [Web -- 前端入门和进阶学习笔记，超详细的图文教程。从零开始学前端，做一个web全栈工程师。每日更新...](https://github.com/smyhvae/Web)
+2. [front-end-handbook-2018 -- 2018年版的前端开发手册](https://github.com/FrontendMasters/front-end-handbook-2018)
+    [文档地址](https://frontendmasters.com/books/front-end-handbook/2018/)
 ## funny stuff
 1. [react-kanban -- 类似于trello的用react构建的看板app，流行的技术栈适合用来学习](https://github.com/yogaboll/react-kanban)
     
