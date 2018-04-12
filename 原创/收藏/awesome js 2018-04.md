@@ -34,6 +34,9 @@ consola.error(new Error('Foo'))
     [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 3. [awesome-react-context -- 与新的React Context API相关的策略列表](https://github.com/diegohaz/awesome-react-context)
 4. [react-static -- React的渐进式静态网站生成器。](https://github.com/nozzle/react-static)
+5. [generact -- 通过命令行复制你自己的产生React组件](https://github.com/diegohaz/generact)
+    
+    ![demo](https://user-images.githubusercontent.com/3068563/27687316-bb5bd832-5cac-11e7-9761-c489e5a3a9f0.gif)
 ## Node
 1. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
 2. [jsonstore -- 通过发送简单的HTTP请求免费存储您的数据](https://github.com/bluzi/jsonstore)非常值得收藏~适合自己写前端demo作为临时数据接口使用

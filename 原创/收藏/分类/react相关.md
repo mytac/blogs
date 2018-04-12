@@ -42,4 +42,7 @@
 2. [awesome-react-context -- 与新的React Context API相关的策略列表](https://github.com/diegohaz/awesome-react-context)
 ## 脚手架
 1. [react-static -- React的渐进式静态网站生成器。](https://github.com/nozzle/react-static)
+2. [generact -- 通过命令行复制你自己的产生React组件](https://github.com/diegohaz/generact)
+    
+    ![demo](https://user-images.githubusercontent.com/3068563/27687316-bb5bd832-5cac-11e7-9761-c489e5a3a9f0.gif)
     
