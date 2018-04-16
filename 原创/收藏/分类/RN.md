@@ -14,3 +14,7 @@
     ![demo](https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png)
     
     [官方文档](https://react-native-training.github.io/react-native-elements/docs/avatar.html)
+## loader
+1. [react-native-bouncing-preloader -- 使用React Native中的自定义图标弹跳预加载器组件](https://github.com/sonnylazuardi/react-native-bouncing-preloader)
+    
+    [demo](https://github.com/sonnylazuardi/react-native-bouncing-preloader/raw/master/bouncingpreloader.gif)

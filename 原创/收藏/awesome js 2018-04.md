@@ -24,6 +24,10 @@ consola.error(new Error('Foo'))
     ![demo](https://camo.githubusercontent.com/57a735f3893b242fa749dc2748c2b46a92a8f107/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f764e424e49477643694977714c7761596a5755792e706e67)
     
     [官网示例](https://antv.alipay.com/zh-cn/f2/3.x/demo/index.html)
+## vue
+1. [vuepress -- 基于Vue组件的简约文档生成器](https://github.com/vuejs/vuepress)    
+    
+    [官网](https://vuepress.vuejs.org/)
 ## 控件
 1. [glide -- 0依赖，轻量的slider和走马灯](https://github.com/glidejs/glide)
 ## react相关
@@ -37,16 +41,30 @@ consola.error(new Error('Foo'))
 5. [generact -- 通过命令行复制你自己的产生React组件](https://github.com/diegohaz/generact)
     
     ![demo](https://user-images.githubusercontent.com/3068563/27687316-bb5bd832-5cac-11e7-9761-c489e5a3a9f0.gif)
+6. [react-table --  React的轻量级，快速和可扩展的数据网格](https://github.com/react-tools/react-table)
+
+    [demo](https://react-table.js.org/#/story/simple-table)
+## react-native
+1. [react-native-bouncing-preloader -- 使用React Native中的自定义图标弹跳预加载器组件](https://github.com/sonnylazuardi/react-native-bouncing-preloader)
+    
+    [demo](https://github.com/sonnylazuardi/react-native-bouncing-preloader/raw/master/bouncingpreloader.gif)
 ## Node
 1. [bull -- 用于处理NodeJS中的作业和消息的高级包，最快，最可靠，基于Redis的Node队列](https://github.com/OptimalBits/bull)
 2. [jsonstore -- 通过发送简单的HTTP请求免费存储您的数据](https://github.com/bluzi/jsonstore)非常值得收藏~适合自己写前端demo作为临时数据接口使用
     
     [官网](https://www.jsonstore.io/)
+3. [stdlib -- stdlib是JavaScript和Node.js的标准库，重点放在数字和科学计算应用程序上。](https://github.com/stdlib-js/stdlib)
+
+    ![demo](https://camo.githubusercontent.com/603be274fc41ee39a4095b7c349016f85ee31945/68747470733a2f2f63646e2e7261776769742e636f6d2f7374646c69622d6a732f7374646c69622f323033383339333533626337343239376665363431323037323730663739313764326264613536302f646f63732f6173736574732f726561646d652f626173655f7370656369616c5f6d6174682e706e67)
 ## 区块链
 1. [ethereumbook -- Mastering Ethereum英文文档](https://github.com/ethereumbook/ethereumbook)
 ## 机器学习
 1. [tfjs -- WebGL加速的基于浏览器的JavaScript库，用于学习和部署ML模型。](https://github.com/tensorflow/tfjs)
 2. [tfjs-examples -- 使用TensorFlow.js构建的示例](https://github.com/tensorflow/tfjs-examples)
+## docker
+1. [dockly -- Docker控制台用户界面和仪表板，用于快速管理和检查容器和服务](https://github.com/lirantal/dockly)
+
+    ![demo](https://cloud.githubusercontent.com/assets/316371/25682867/c5212216-3027-11e7-8f36-72d38516d2af.gif)
 ## 博客
 1. [Web -- 前端入门和进阶学习笔记，超详细的图文教程。从零开始学前端，做一个web全栈工程师。每日更新...](https://github.com/smyhvae/Web)
 2. [front-end-handbook-2018 -- 2018年版的前端开发手册](https://github.com/FrontendMasters/front-end-handbook-2018)
