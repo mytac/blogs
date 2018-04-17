@@ -30,6 +30,9 @@ consola.error(new Error('Foo'))
     [官网](https://vuepress.vuejs.org/)
 ## 控件
 1. [glide -- 0依赖，轻量的slider和走马灯](https://github.com/glidejs/glide)
+2. [text-mask -- 一个输入掩码库。它可以为手机，日期，货币，邮政编码，百分比，电子邮件和字面上的任何东西创建输入掩码！](https://github.com/text-mask/text-mask)
+    
+    [demo](https://text-mask.github.io/text-mask/)
 ## react相关
 1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
     [官网](https://kutlugsahin.github.io/smooth-dnd-demo/)
@@ -78,3 +81,7 @@ consola.error(new Error('Foo'))
 2. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
     
     ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
+3. [matrix_vision -- 在Matrix中看到自己！](https://github.com/emilyxxie/matrix_vision)
+    
+    ![demo](https://github.com/emilyxxie/matrix_vision/raw/master/matrix_preview_2.gif)
+        
