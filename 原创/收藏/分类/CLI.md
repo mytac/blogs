@@ -23,3 +23,6 @@ consola.error(new Error('Foo'))
 [2:17:18 PM] Some info
 [2:17:18 PM] Error: Foo
 ```
+6. [hyper -- 在web上显示终端](https://github.com/zeit/hyper)
+    
+    [官网](https://hyper.is/)

@@ -1,6 +1,9 @@
 ## CLI相关
 1. [ink -- 把react应用于命令行应用程序](https://github.com/vadimdemedes/ink)
 2. [consola -- 优雅的控制台记录器](https://github.com/nuxt/consola)
+3. [hyper -- 在web上显示终端](https://github.com/zeit/hyper)
+    
+    [官网](https://hyper.is/)
 ```js
 const consola = require('consola')
 
