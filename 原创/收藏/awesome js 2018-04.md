@@ -64,9 +64,10 @@ consola.error(new Error('Foo'))
     ![demo](https://camo.githubusercontent.com/603be274fc41ee39a4095b7c349016f85ee31945/68747470733a2f2f63646e2e7261776769742e636f6d2f7374646c69622d6a732f7374646c69622f323033383339333533626337343239376665363431323037323730663739313764326264613536302f646f63732f6173736574732f726561646d652f626173655f7370656369616c5f6d6174682e706e67)
 ## 区块链
 1. [ethereumbook -- Mastering Ethereum英文文档](https://github.com/ethereumbook/ethereumbook)
-## 机器学习
+## 人工智能
 1. [tfjs -- WebGL加速的基于浏览器的JavaScript库，用于学习和部署ML模型。](https://github.com/tensorflow/tfjs)
 2. [tfjs-examples -- 使用TensorFlow.js构建的示例](https://github.com/tensorflow/tfjs-examples)
+3. [picojs -- 200行JavaScript中的人脸检测库](https://github.com/tehnokv/picojs)
 ## docker
 1. [dockly -- Docker控制台用户界面和仪表板，用于快速管理和检查容器和服务](https://github.com/lirantal/dockly)
 
