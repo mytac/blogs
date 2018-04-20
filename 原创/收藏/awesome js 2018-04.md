@@ -72,6 +72,10 @@ consola.error(new Error('Foo'))
 1. [dockly -- Docker控制台用户界面和仪表板，用于快速管理和检查容器和服务](https://github.com/lirantal/dockly)
 
     ![demo](https://cloud.githubusercontent.com/assets/316371/25682867/c5212216-3027-11e7-8f36-72d38516d2af.gif)
+## 编辑器
+1. [slate-md-editor -- markdown编辑器，允许你edit live](https://github.com/Canner/slate-md-editor)
+    
+    ![demo](https://camo.githubusercontent.com/bc834753864f7caa28eac31ec8df3d2edbeb56c4/68747470733a2f2f692e696d6775722e636f6d2f654c4f43766c752e676966)
 ## 博客
 1. [Web -- 前端入门和进阶学习笔记，超详细的图文教程。从零开始学前端，做一个web全栈工程师。每日更新...](https://github.com/smyhvae/Web)
 2. [front-end-handbook-2018 -- 2018年版的前端开发手册](https://github.com/FrontendMasters/front-end-handbook-2018)

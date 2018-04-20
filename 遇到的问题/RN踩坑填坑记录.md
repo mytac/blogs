@@ -24,3 +24,5 @@ import com.lwansbrough.RCTCamera.RCTCameraPackage;
 .addPackage(new RCTCameraPackage())
 }
 ```
+## 打包出错
+1. 用android-studio跑命令
