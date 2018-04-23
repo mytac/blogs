@@ -50,6 +50,9 @@ consola.error(new Error('Foo'))
 6. [react-table --  React的轻量级，快速和可扩展的数据网格](https://github.com/react-tools/react-table)
 
     [demo](https://react-table.js.org/#/story/simple-table)
+7. [react-projects -- 在React库上构建的项目集合](https://github.com/ajayns/react-projects)
+    
+    ![demo](https://camo.githubusercontent.com/3fb5af147b1a6b896122acda4cd10ab36615bbd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c30485568684174623836765941486b592f67697068792e676966)
 ## react-native
 1. [react-native-bouncing-preloader -- 使用React Native中的自定义图标弹跳预加载器组件](https://github.com/sonnylazuardi/react-native-bouncing-preloader)
     

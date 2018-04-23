@@ -7,6 +7,19 @@
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
+## node
+1. [node-glob -- node中glob模式下路径匹配](https://github.com/isaacs/node-glob)
+```js
+var glob = require("glob")
+
+// options is optional
+glob("**/*.js", options, function (er, files) {
+  // files is an array of filenames.
+  // If the `nonull` option is set, and nothing
+  // was found, then files is ["**/*.js"]
+  // er is an error object or null.
+})
+```
 ## 控件
 1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 
@@ -43,6 +56,9 @@
     
     [实例展示](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 2. [awesome-react-context -- 与新的React Context API相关的策略列表](https://github.com/diegohaz/awesome-react-context)
+3. [react-projects -- 在React库上构建的项目集合](https://github.com/ajayns/react-projects)
+    
+    ![demo](https://camo.githubusercontent.com/3fb5af147b1a6b896122acda4cd10ab36615bbd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c30485568684174623836765941486b592f67697068792e676966)
 ## 脚手架
 1. [react-static -- React的渐进式静态网站生成器。](https://github.com/nozzle/react-static)
 2. [generact -- 通过命令行复制你自己的产生React组件](https://github.com/diegohaz/generact)
