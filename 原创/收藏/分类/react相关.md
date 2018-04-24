@@ -24,6 +24,9 @@ glob("**/*.js", options, function (er, files) {
 1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 
     [官网](https://kutlugsahin.github.io/smooth-dnd-demo/)
+2. [react-dates -- 一个易于国际化，易于移动的网页日期选择器库](https://github.com/airbnb/react-dates)
+    
+    ![demo](https://raw.githubusercontent.com/airbnb/react-dates/master/react-dates-demo.gif)
 
 ## markdown
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
