@@ -27,6 +27,9 @@ glob("**/*.js", options, function (er, files) {
 2. [react-dates -- 一个易于国际化，易于移动的网页日期选择器库](https://github.com/airbnb/react-dates)
     
     ![demo](https://raw.githubusercontent.com/airbnb/react-dates/master/react-dates-demo.gif)
+3. [react-awesome-slider -- ReactJS 60fps轻量级高性能组件，可呈现UI图像/媒体画廊滑块的一组动画。](https://github.com/rcaferati/react-awesome-slider)
+
+    ![demo](https://github.com/rcaferati/react-awesome-slider/raw/master/demo/public/images/demo-bojack-mobile.gif)
 
 ## markdown
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)

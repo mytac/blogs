@@ -21,6 +21,8 @@ consola.error(new Error('Foo'))
 [2:17:18 PM] Some info
 [2:17:18 PM] Error: Foo
 ```
+## 时间处理
+1. [dayjs -- 使用相同的现代API替代Moment.js的快速2KB日期库](https://github.com/xx45/dayjs)
 ## 可视化
 1. [f2 -- 基于 HTML5 Canvas，开箱即用的移动端可视化解决方案](https://github.com/antvis/f2)
 
@@ -56,6 +58,9 @@ consola.error(new Error('Foo'))
 8. [react-dates -- 一个易于国际化，易于移动的网页日期选择器库](https://github.com/airbnb/react-dates)
     
     ![demo](https://raw.githubusercontent.com/airbnb/react-dates/master/react-dates-demo.gif)
+9. [react-awesome-slider -- ReactJS 60fps轻量级高性能组件，可呈现UI图像/媒体画廊滑块的一组动画。](https://github.com/rcaferati/react-awesome-slider)
+
+    ![demo](https://github.com/rcaferati/react-awesome-slider/raw/master/demo/public/images/demo-bojack-mobile.gif)
 ## react-native
 1. [react-native-bouncing-preloader -- 使用React Native中的自定义图标弹跳预加载器组件](https://github.com/sonnylazuardi/react-native-bouncing-preloader)
     
@@ -86,6 +91,7 @@ consola.error(new Error('Foo'))
 1. [nyc-buildings -- 曼哈顿所有建筑物的交互式三维可视化。](https://github.com/rolyatmax/nyc-buildings)
     
     ![demo](https://github.com/rolyatmax/nyc-buildings/raw/master/img/all-the-buildings.png)
+2. [pixi.js -- HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。](https://github.com/pixijs/pixi.js)
 ## 博客
 1. [Web -- 前端入门和进阶学习笔记，超详细的图文教程。从零开始学前端，做一个web全栈工程师。每日更新...](https://github.com/smyhvae/Web)
 2. [front-end-handbook-2018 -- 2018年版的前端开发手册](https://github.com/FrontendMasters/front-end-handbook-2018)
