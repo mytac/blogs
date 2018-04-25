@@ -1,36 +1,3 @@
-1.iterable
-2.generator=>iterator
-应用
-3. 异步
-```js
-// 模拟请求事件
-function foo(){
-	setTimeout(()=>{
-		console.log(3)
-		it.next('hello world')
-	},1500)
-}
-
-function *main(){
-	try{
-		console.log(2)
-		console.log(yield foo())// 只是暂停了生成器的代码，foo()仍在执行
-	}catch(e){
-		console.log(e)
-	}
-}
-
-const it=main()
-
-console.log(1)
-it.next() //第一个next()启动生成器
-
--------
-1
-2
-3
-hello world
-```
 ## generator基础
 generator的结构和函数的构成相同，只不过声明格式不同，如：`function *foo(){}`或`function*foo(){}`（有无空格）。
 
