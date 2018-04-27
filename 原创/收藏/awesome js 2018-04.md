@@ -21,6 +21,10 @@ consola.error(new Error('Foo'))
 [2:17:18 PM] Some info
 [2:17:18 PM] Error: Foo
 ```
+## 特效相关
+1. [ParticleEffectsButtons -- 一个可用于爆炸粒子效应按钮和其他元素的小型库](https://github.com/codrops/ParticleEffectsButtons)
+
+    ![demo](https://camo.githubusercontent.com/6558dc99dce463dac80ac1075355eaa2b37177ee/68747470733a2f2f74796d70616e75732e6e65742f636f64726f70732f77702d636f6e74656e742f75706c6f6164732f323031382f30342f7061727469636c65656666656374735f66656174757265642e6a7067)
 ## 时间处理
 1. [dayjs -- 使用相同的现代API替代Moment.js的快速2KB日期库](https://github.com/xx45/dayjs)
 ## 可视化
@@ -38,6 +42,9 @@ consola.error(new Error('Foo'))
 2. [text-mask -- 一个输入掩码库。它可以为手机，日期，货币，邮政编码，百分比，电子邮件和字面上的任何东西创建输入掩码！](https://github.com/text-mask/text-mask)
     
     [demo](https://text-mask.github.io/text-mask/)
+3. [tui.calendar -- 一个JavaScript日历，你需要的一切。](https://github.com/nhnent/tui.calendar)
+    
+    ![demo](https://user-images.githubusercontent.com/26706716/38919146-bc596f28-432a-11e8-8bbd-b561911067c7.gif)
 ## react相关
 1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
     [官网](https://kutlugsahin.github.io/smooth-dnd-demo/)
