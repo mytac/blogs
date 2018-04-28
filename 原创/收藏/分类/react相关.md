@@ -68,6 +68,7 @@ glob("**/*.js", options, function (er, files) {
 3. [react-projects -- 在React库上构建的项目集合](https://github.com/ajayns/react-projects)
     
     ![demo](https://camo.githubusercontent.com/3fb5af147b1a6b896122acda4cd10ab36615bbd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c30485568684174623836765941486b592f67697068792e676966)
+4. [react-in-patterns -- 一本免费的书，讲述在使用React进行开发时使用的设计模式/技术。](https://github.com/krasimir/react-in-patterns)
 ## 脚手架
 1. [react-static -- React的渐进式静态网站生成器。](https://github.com/nozzle/react-static)
 2. [generact -- 通过命令行复制你自己的产生React组件](https://github.com/diegohaz/generact)

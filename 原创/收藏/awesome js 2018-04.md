@@ -103,10 +103,11 @@ consola.error(new Error('Foo'))
     
     ![demo](https://github.com/rolyatmax/nyc-buildings/raw/master/img/all-the-buildings.png)
 2. [pixi.js -- HTML5创建引擎：使用最快，最灵活的2D WebGL渲染器创建精美的数字内容。](https://github.com/pixijs/pixi.js)
-## 博客
+## 文档
 1. [Web -- 前端入门和进阶学习笔记，超详细的图文教程。从零开始学前端，做一个web全栈工程师。每日更新...](https://github.com/smyhvae/Web)
 2. [front-end-handbook-2018 -- 2018年版的前端开发手册](https://github.com/FrontendMasters/front-end-handbook-2018)
     [文档地址](https://frontendmasters.com/books/front-end-handbook/2018/)
+3. [react-in-patterns -- 一本免费的书，讲述在使用React进行开发时使用的设计模式/技术。](https://github.com/krasimir/react-in-patterns)
 ## funny stuff
 1. [react-kanban -- 类似于trello的用react构建的看板app，流行的技术栈适合用来学习](https://github.com/yogaboll/react-kanban)
     
