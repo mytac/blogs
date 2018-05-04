@@ -7,3 +7,5 @@
     有和react native一样的语法；可以与与现有的react redux库一起使用；跨平台；原生的组件，不再使用electron；与正常的node包兼容
         
     ![demo](https://camo.githubusercontent.com/2f4f5eb65093cc4af2d265dfeb9afceef7452575/687474703a2f2f70726f746f6e6e61746976652d616635312e6b7863646e2e636f6d2f696d616765732f77696e646f77735f6578616d706c652e706e67)
+## 位置相关
+1. [gcoord -- 用于转换地理坐标的js库](https://github.com/hujiulong/gcoord)gcoord( geographic coordinates)是一个处理地理坐标系的js库，用来修正百度地图、高德地图及其它互联网地图坐标系不统一的问题
