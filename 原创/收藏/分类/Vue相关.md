@@ -8,6 +8,10 @@
 1. [vue-content-loader -- SVG组件创建占位符加载，如Facebook card loading。](https://github.com/egoist/vue-content-loader)
     
     ![demo](https://user-images.githubusercontent.com/4838076/34308760-ec55df82-e735-11e7-843b-2e311fa7b7d0.gif)
+## 图表
+1. [v-charts -- 基于 Vue2.0 和 ECharts 封装的图表组件](https://github.com/ElemeFE/v-charts)    
+    
+    [文档](https://v-charts.js.org/#/)
+# 扩展框架
+1. [saber.js -- 使用Vue.js构建静态网站的简约框架](https://github.com/egoist/saber.js)
 
-# 实用工具
-## 站点生成器
