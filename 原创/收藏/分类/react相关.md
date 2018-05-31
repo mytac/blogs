@@ -55,7 +55,9 @@ glob("**/*.js", options, function (er, files) {
 
 ## 测试
 1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
+2. [kit -- 用于开发，记录和测试React组件库的工具 ](https://github.com/c8r/kit)
 
+    [demo](https://github.com/c8r/kit/raw/master/docs/demo.gif)
 ## 动画
 1. [react-spring -- 帮助react-motion和animated 成为最好的朋友](https://github.com/drcmda/react-spring)
     
