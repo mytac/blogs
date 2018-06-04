@@ -26,3 +26,5 @@ consola.error(new Error('Foo'))
 6. [hyper -- 在web上显示终端](https://github.com/zeit/hyper)
     
     [官网](https://hyper.is/)
+7. [signale -- 黑客控制台记录器](https://github.com/klauscfhq/signale)
+    ![demo](https://camo.githubusercontent.com/dd0ad939bce8e21b2f9afbf0db794a0de7422c5f/68747470733a2f2f63646e2e7261776769742e636f6d2f6b6c617573636668712f7369676e616c652f32643862636666382f6d656469612f6865616465722e706e67)
