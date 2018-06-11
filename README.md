@@ -23,7 +23,7 @@
 18.3.21 |[ ]|阅读[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 18.3.27 |[ ]|阅读[How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly/)
 18.4.18|[ ]|配置json文件，生成简历
-18.6.7|[ ]|[vue-analysis -- Vue.js 源码分析 ](https://github.com/ustbhuangyi/vue-analysis)
+18.6.11|[ ]|[vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)
 
 ## 实物书单
 

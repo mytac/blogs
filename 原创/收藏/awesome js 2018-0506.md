@@ -2,10 +2,16 @@
 1. [ReLaXed -- 使用web技术创建PDF文档](https://github.com/RelaxedJS/ReLaXed)ReLaXed是一种使用HTML或Pug（HTML的简写）交互式创建PDF文档的工具。它允许使用CSS和JavaScript定义复杂的布局，同时将内容写入接近Markdown或LaTeX的友好，最简单的语法中。
     
     ![demo](https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966)
+## 机器学习
+1. [ml5-library -- 友好的机器学习网络！](https://github.com/ml5js/ml5-library)
 ## UI
 1. [layerJS -- Javascript UI组合框架](https://github.com/layerJS/layerJS)
     
     [官网](https://layerjs.org/)
+## 文本相关
+1. [lumin -- 一个JavaScript库，逐步突出显示页面上的任何文本。](https://github.com/pshihn/lumin)
+
+    [demo](https://camo.githubusercontent.com/a536b2095ed53b00ac4edb357bb98bd42a0c9144/68747470733a2f2f6c756d696e2e726f636b732f696d616765732f686967686c696768742e676966)
 ## 图表相关
 1. [Chart.js -- 使用<canvas>标记的简单HTML5图表](https://github.com/chartjs/Chart.js) 
 
@@ -13,11 +19,18 @@
 2. [g6 -- JavaScript 图可视化引擎.](https://github.com/antvis/g6/blob/master/README-zh_CN.md)
 
     ![demo](https://camo.githubusercontent.com/20982b9b9043c92c8bbe337ae4d47d684d63d2c1/68747470733a2f2f67772e616c697061796f626a656374732e636f6d2f7a6f732f726d73706f7274616c2f6e7a6d79634265776a66784b4462657054446c542e676966)
+## 控件
+1. [pulltorefresh.js -- 一个快速而强大的插件，用于在您的web应用程序中进行“上拉刷新”需求。](https://github.com/BoxFactura/pulltorefresh.js)
+
+    ![demo](https://github.com/BoxFactura/pulltorefresh.js/raw/master/img/pulltorefresh.gif)
 ## 图像处理
 1. [lqip-loader -- 用于Webpack的低质量图像占位符](https://github.com/zouhir/lqip-loader)
 
     ![demo](https://user-images.githubusercontent.com/5052316/31105257-7986782c-a82e-11e7-972b-cabcf97f13c0.png)
 2. [react-ideal-image -- 几乎理想的react图像组件](https://github.com/stereobooster/react-ideal-image)异步加载图片
+3. [pickr -- 简单的颜色选择器。没有依赖关系，没有jQuery，与所有CSS框架兼容。 Bootstrap，实现。](https://github.com/Simonwep/pickr)
+
+    ![demo](https://github.com/Simonwep/pickr/raw/master/gh-page/pickr.apng)
 ## VUE相关
 1. [v-charts -- 基于 Vue2.0 和 ECharts 封装的图表组件](https://github.com/ElemeFE/v-charts)    
     
@@ -53,3 +66,4 @@
 3. [30-seconds-of-interviews -- 一系列常见面试问题的集合，以帮助您为下次面试做好准备。](https://github.com/fejes713/30-seconds-of-interviews)
 
     [地址](https://github.com/fejes713/30-seconds-of-interviews)
+4. [vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)非常值得收藏的repo~~~逐行级别的vue源码分析，啥都不说，我已fork一份
