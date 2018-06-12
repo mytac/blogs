@@ -2,6 +2,7 @@
 1. [ReLaXed -- 使用web技术创建PDF文档](https://github.com/RelaxedJS/ReLaXed)ReLaXed是一种使用HTML或Pug（HTML的简写）交互式创建PDF文档的工具。它允许使用CSS和JavaScript定义复杂的布局，同时将内容写入接近Markdown或LaTeX的友好，最简单的语法中。
     
     ![demo](https://camo.githubusercontent.com/be077d7379399961977b45a802b675f5c18f170a/68747470733a2f2f692e696d6775722e636f6d2f344e34665359592e676966)
+2. [vivid -- 一个JavaScript库，它可以轻松定制和使用SVG图标。](https://github.com/webkul/vivid)
 ## 机器学习
 1. [ml5-library -- 友好的机器学习网络！](https://github.com/ml5js/ml5-library)
 ## UI
@@ -46,6 +47,10 @@
 
     [官方文档](https://taro.aotu.io/)
 2. [didi -- 模仿滴滴打车微信小程序，持续更新中，有兴趣的小伙伴可以加入一起沟通交流噢。实现了主要的业务流程,数据封装和请求,本小程序仍会不断的更新...](https://github.com/WsmDyj/didi)
+## 测试
+1. [hiper -- 性能测试的统计分析工具](https://github.com/pod4g/hiper)
+
+    ![demo](https://camo.githubusercontent.com/247e9ab7a110bfa09c5133f7503f967995b5411d/687474703a2f2f377874396e382e636f6d322e7a302e676c622e636c6f7564646e2e636f6d2f6869706572392e706e67)
 ## CLI相关
 1. [signale -- 黑客控制台记录器](https://github.com/klauscfhq/signale)
     ![demo](https://camo.githubusercontent.com/dd0ad939bce8e21b2f9afbf0db794a0de7422c5f/68747470733a2f2f63646e2e7261776769742e636f6d2f6b6c617573636668712f7369676e616c652f32643862636666382f6d656469612f6865616465722e706e67)
