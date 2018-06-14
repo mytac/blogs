@@ -14,4 +14,8 @@
     [文档](https://v-charts.js.org/#/)
 # 扩展框架
 1. [saber.js -- 使用Vue.js构建静态网站的简约框架](https://github.com/egoist/saber.js)
+2. [vue-native-core -- Vue Native是一个使用JavaScript构建跨平台原生移动应用程序的框架](https://github.com/GeekyAnts/vue-native-core)
 
+    [官方文档](https://vue-native.io/)
+    
+    ![demo](https://vue-native.io/images/landing.png)

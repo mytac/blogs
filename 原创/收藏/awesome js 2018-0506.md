@@ -38,6 +38,11 @@
     [文档](https://v-charts.js.org/#/)
 2. [vuido -- 使用vue构造原生桌面应用](https://github.com/mimecorg/vuido)
 3. [saber.js -- 使用Vue.js构建静态网站的简约框架](https://github.com/egoist/saber.js)
+4. [vue-native-core -- Vue Native是一个使用JavaScript构建跨平台原生移动应用程序的框架](https://github.com/GeekyAnts/vue-native-core)继react-native之后，vue社区诞生了weex，之后又来个vue native~
+
+    [官方文档](https://vue-native.io/)
+    
+    ![demo](https://vue-native.io/images/landing.png)
 ## React相关
 1. [wired-elements -- 一系列具有手绘外观的基本UI元素。这些可用于线框，模型，或只是有趣的手绘外观。](https://github.com/wiredjs/wired-elements)
 
@@ -72,3 +77,25 @@
 
     [地址](https://github.com/fejes713/30-seconds-of-interviews)
 4. [vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)非常值得收藏的repo~~~逐行级别的vue源码分析，啥都不说，我已fork一份
+## funny stuff
+1. [JSUI -- 一个强大的用于管理JavaScript应用程序的UI工具包](https://github.com/kitze/JSUI)推荐给喜欢归纳收藏各种js lib的人er~
+
+    ![demo](https://camo.githubusercontent.com/a1dc84035e85ceda7bec11bc14a5d95c72846c7e/68747470733a2f2f692e696d6775722e636f6d2f587759583845452e676966)
+2. [letterpad -- Letterpad是采用最先进技术的博客的开源和高性能发布引擎。它使用React，Graphql，Express和Sequelize ORM。它现在处于测试阶段。](https://github.com/letterpad/letterpad)
+它具有以下功能：
+```
+服务器端渲染
+多作者支持
+评论（Disqus整合）
+谷歌分析
+主题支持
+多级导航
+图像优化器
+GraphQL for json API
+角色 - 管理员，审稿人，作者，读者
+Markdown和RichText编辑器
+搜索引擎优化
+多语言支持（当前en，fr和pl）
+```
+
+[demo地址](https://letterpad.app/demo/)
