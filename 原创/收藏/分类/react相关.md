@@ -62,6 +62,9 @@ glob("**/*.js", options, function (er, files) {
 1. [react-spring -- 帮助react-motion和animated 成为最好的朋友](https://github.com/drcmda/react-spring)
     
     ![demo](https://github.com/drcmda/react-spring/raw/master/assets/reveal.gif)
+2. [react-flip-toolkit -- React FLIP动画助手库，用于高级可配置转换](https://github.com/aholachek/react-flip-toolkit)
+
+    ![demo](https://github.com/aholachek/react-flip-toolkit/raw/master/example-assets/photogrid.gif)
 ## 实例
 1. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
     
