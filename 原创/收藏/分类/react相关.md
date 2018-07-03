@@ -1,9 +1,10 @@
-## 表单组件
+## 组件
 1. [react-sortable-hoc -- 触摸有好、可排序的列表](https://github.com/clauderic/react-sortable-hoc)
 2. [react-virtualized -- react组件高效渲染大型列表和表格数据](https://github.com/bvaughn/react-virtualized)
 3. [react-table --  React的轻量级，快速和可扩展的数据网格](https://github.com/react-tools/react-table)
     
     [demo](https://react-table.js.org/#/story/simple-table)
+4. [hocs -- React和React Native的高阶组件集合](https://github.com/deepsweet/hocs)
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
