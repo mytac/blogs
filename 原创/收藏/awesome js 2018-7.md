@@ -8,7 +8,7 @@
     ![demo](https://github.com/aholachek/react-flip-toolkit/raw/master/example-assets/photogrid.gif)
 2. [hocs -- React和React Native的高阶组件集合](https://github.com/deepsweet/hocs)
 ## 数据可视化
-1. [giojs -- 使用Three.js构建的声明式3D Globe数据可视化库](https://github.com/syt123450/giojs)
+1. [giojs -- 使用Three.js构建的声明式3D Globe数据可视化库](https://github.com/syt123450/giojs)这个真的超级酷炫，建议大家打开官网去感受一下~
 
     ![demo](https://camo.githubusercontent.com/8a2ef9bd9a359591192712596b7157b099b6f468/68747470733a2f2f7261772e6769746861636b2e636f6d2f7379743132333435302f67696f6a732f6d61737465722f6173736574732f726561646d652f47696f2e676966)
 ## PWA
