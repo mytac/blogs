@@ -2,11 +2,22 @@
 1. [Semantic-UI -- Semantic是一个基于自然语言有用原则的UI组件框架。](https://github.com/Semantic-Org/Semantic-UI)
 
     [官网](https://semantic-ui.com/)
+2. [marko -- 来自eBay的友好（快速！）UI库，使构建Web应用程序变得有趣](https://github.com/marko-js/marko)
+
+    [官网](https://markojs.com/)
 ## react 相关
 1. [react-flip-toolkit -- React FLIP动画助手库，用于高级可配置转换](https://github.com/aholachek/react-flip-toolkit)
 
     ![demo](https://github.com/aholachek/react-flip-toolkit/raw/master/example-assets/photogrid.gif)
 2. [hocs -- React和React Native的高阶组件集合](https://github.com/deepsweet/hocs)
+3. [rogue -- SSR for React是不可见的（零配置！ - 只需要一个App.js）和快速（没有Webpack！ - Parcel <3）](https://github.com/alidcastano/rogue)
+4. [rifm -- React Input Format＆Mask，微小（≈650b）组件，用于将任何输入组件转换为格式化或屏蔽输入](https://github.com/istarkov/rifm)
+
+    ![demo](https://istarkov.github.io/rifm/docs-readme)
+## vue相关
+1. [d2-admin -- 一个开源的管理系统前端集成方案，为了方便开发者快速进行管理系统开发而设计](https://github.com/d2-projects/d2-admin)
+
+![demo](https://raw.githubusercontent.com/FairyEver/d2-admin/master/github/preview@2x.png)
 ## 数据可视化
 1. [giojs -- 使用Three.js构建的声明式3D Globe数据可视化库](https://github.com/syt123450/giojs)这个真的超级酷炫，建议大家打开官网去感受一下~
 
@@ -19,3 +30,5 @@
 1. [world-cup-2018-cli-dashboard -- 2018年世界杯CLI仪表板 - 在您的终端上观看比赛](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard)
 
     ![demo](https://raw.githubusercontent.com/cedricblondeau/world-cup-2018-cli-dashboard/master/screenshot.gif)
+2. [the-art-of-reading -- 已经阅读并且个人认为值得分享的书籍的阅读笔记列表。](https://github.com/n0ruSh/the-art-of-reading)
+3. [ivideo -- 一个可以观看国内主流视频平台所有视频的客户端（Mac、Windows、Linux），包括 VIP 资源](https://github.com/phobal/ivideo)请大家低调使用！！

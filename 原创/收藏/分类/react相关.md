@@ -5,9 +5,11 @@
     
     [demo](https://react-table.js.org/#/story/simple-table)
 4. [hocs -- React和React Native的高阶组件集合](https://github.com/deepsweet/hocs)
+5. [rifm -- React Input Format＆Mask，微小（≈650b）组件，用于将任何输入组件转换为格式化或屏蔽输入](https://github.com/istarkov/rifm)
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
+2. [rogue -- SSR for React是不可见的（零配置！ - 只需要一个App.js）和快速（没有Webpack！ - Parcel <3）](https://github.com/alidcastano/rogue)
 ## node
 1. [node-glob -- node中glob模式下路径匹配](https://github.com/isaacs/node-glob)
 ```js
