@@ -110,6 +110,30 @@ git commit -m "style: eslint"
 测试一下，成功提交~~关于commit-msg这部分可以参考[vue的commit](https://github.com/vuejs/vue/commits/dev).
 
 ![demo](http://chuantu.biz/t6/341/1531300144x-1404814694.png)
+## 生成changelog
+写好commit也可以自动生成每个版本的更改，可以参考[vue的changelog](https://github.com/vuejs/vue/releases)。
+
+![demo](http://chuantu.biz/t6/341/1531365990x1822611371.png)
+### 配置步骤
+安装[standard-version](https://github.com/conventional-changelog/standard-version)
+
+```
+yarn add standard-version
+```
+在`package.json`中配置：
+```
+"scripts": {
+    ...
+    "release": "standard-version"
+  },
+```
+在发布新版本的时候，运行以下命令：
+```
+yarn release
+```
+如果按照commitizen规范书写你的commit-msg，即可在你项目中自动生成changelog，如图:
+
+![demo](http://chuantu.biz/t6/341/1531390980x1822611371.png)
 
 ## 参考文档
 1. [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/)
