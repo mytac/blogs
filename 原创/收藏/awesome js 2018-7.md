@@ -5,6 +5,10 @@
 2. [marko -- 来自eBay的友好（快速！）UI库，使构建Web应用程序变得有趣](https://github.com/marko-js/marko)
 
     [官网](https://markojs.com/)
+## 图像处理
+1. [tui.image-editor -- 使用画布的全功能照片图像编辑器。它非常简单，它配有很棒的过滤器。](https://github.com/nhnent/tui.image-editor)
+
+![demo](https://user-images.githubusercontent.com/35218826/41647896-7b218ae0-74b2-11e8-90db-d7805cc23e8c.gif)
 ## react 相关
 1. [react-flip-toolkit -- React FLIP动画助手库，用于高级可配置转换](https://github.com/aholachek/react-flip-toolkit)
 
