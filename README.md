@@ -24,6 +24,7 @@
 18.3.27 |[ ]|阅读[How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly/)
 18.4.18|[ ]|配置json文件，生成简历
 18.6.11|[ ]|[vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)
+18.7.17|[ ]|[React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
 
 ## 实物书单
 

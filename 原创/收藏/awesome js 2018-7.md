@@ -34,6 +34,8 @@
 1. [vue-storefront -- 电子商务的PWA。 100％离线，平台无关，无头，支持Magento 2。始终开源，MIT许可证。](https://github.com/DivanteLtd/vue-storefront)
 ## 机器学习
 1. [Netron -- 用于深度学习和机器学习模型的Visualizer](https://github.com/lutzroeder/Netron)
+## 文档
+1. [React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
 ## funny stuff
 1. [world-cup-2018-cli-dashboard -- 2018年世界杯CLI仪表板 - 在您的终端上观看比赛](https://github.com/cedricblondeau/world-cup-2018-cli-dashboard)
 
