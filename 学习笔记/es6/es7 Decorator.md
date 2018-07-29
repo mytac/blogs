@@ -72,7 +72,83 @@ class MyClass{
     print(){console.log(`a:${this.a}`)}
 }
 ```
+### (2).js中Object的属性
+其中`descriptor`对象为Object的数据属性。之前我们会使用`Object.defineProperty`来描述对象的属性，如下：
+```js
+var person = {}
+Object.defineProperty(person,'name',{
+    configurable:false,//能否使用delete、能否需改属性特性、或能否修改访问器属性、，false为不可重新定义，默认值为true
+    enumerable:false,//对象属性是否可通过for-in循环，flase为不可循环，默认值为true
+    writable:false,//对象属性是否可修改,flase为不可修改，默认值为true
+    value:'xiaoming' //对象属性的默认值，默认值为undefined
+});
+```
+对应到`descriptor`为下面四个属性：
+```js
+{
+     value: specifiedFunction,
+     enumerable: false,
+     configurable: true,
+     writable: true
+};
+```
+### (3). 应用
+我们开始写一个`@log`修饰器，可以输出日志：
+```js
+class Math{
+    @log
+    add(a,b){
+        return a+b
+    }
+}
 
+const math=new Math()
+math.add(1,2)
+
+function log(target,name,descriptor){
+    const oldValue=descriptor.value
+
+    descriptor.value=function(){
+        console.log(`calling ${name} with ${JSON.stringify(arguments)}`)
+        return oldValue.apply(this,arguments)
+    }
+
+    return descriptor
+}
+```
+上面的代码中，`@log`作用是在返回结果前，打印函数名和其参数，起到输出日至的作用。上面的程序运行后，控制台将输出：
+```
+calling add with {"0":1,"1":2}
+```
+### (4). 多个修饰器
+良好命名的修饰器可以起到简洁注释的作用，如下：
+```js
+class Example {
+    @readonly
+    @enumable
+    method(){}
+}
+```
+多个修饰器的执行顺序是由外向内进入；再由内向外执行。
+```js
+class Example {
+    @decorator(1)
+    @decorator(2)
+    method(){}
+}
+
+function decorator(id){
+    console.log('id is ',id)
+    return (target,property,descriptor)=>console.log('executed',id)
+}
+```
+控制台输出
+```
+id is  1
+id is  2
+executed 2
+executed 1
+```
 ## 附录：babel配置
 babel插件`transform-decorators`还没有正式版，我们可以用`transform-decorators-legacy`。
 ### 安装babel
