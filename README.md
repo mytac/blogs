@@ -4,7 +4,7 @@
 
 起始时间 | 完成度 | 事件
 ---- | ---| ---
-17.11.14 | [ ] | [阅读八小时撸简易vuejs](https://github.comhttp://blog.csdn.net/lihongxun945/article/category/7259172)
+17.11.14 | [ ] | [阅读八小时撸简易vuejs](http://blog.csdn.net/lihongxun945/article/category/7259172)
 17.11.30 | [ ] | [koa实战](http://book.apebook.org/minghe/koa-action/start/debug.html)
 17.12.7 | [ ] | [Koa2进阶学习笔记](https://chenshenhai.github.io/koa2-note/)
 17.12.8 | [ ] | [N-blog](https://github.com/nswbmw/N-blog)
@@ -24,6 +24,7 @@
 18.3.27 |[ ]|阅读[How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly/)
 18.4.18|[ ]|配置json文件，生成简历
 18.6.11|[ ]|[vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)
+18.7.17|[ ]|[React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
 
 ## 实物书单
 
