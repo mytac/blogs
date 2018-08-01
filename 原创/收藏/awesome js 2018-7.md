@@ -8,7 +8,7 @@
 ## cli
 1. [terminalizer -- 录制您的终端并生成动画gif图像](https://github.com/faressoft/terminalizer)
 
-    ![demo](https://github.com/faressoft/terminalizer/raw/master/img/demo.gif?raw=true)
+    ![demo](https://github.com/faressoft/terminalizer/raw/master/img/demo.gif)
 2. [taskbook -- 在命令行中写任务、块和注释](https://github.com/klauscfhq/taskbook)
 
     ![demo](https://github.com/klauscfhq/taskbook/raw/master/media/header-boards.png)
@@ -26,7 +26,7 @@
 3. [rogue -- SSR for React是不可见的（零配置！ - 只需要一个App.js）和快速（没有Webpack！ - Parcel <3）](https://github.com/alidcastano/rogue)
 4. [rifm -- React Input Format＆Mask，微小（≈650b）组件，用于将任何输入组件转换为格式化或屏蔽输入](https://github.com/istarkov/rifm)
 
-    ![demo](https://istarkov.github.io/rifm/docs-readme)
+    [demo](https://istarkov.github.io/rifm/docs-readme)
 ## node
 1. [ndb -- ndb是针对Node.js的改进调试体验，由Chrome DevTools启用](https://github.com/GoogleChromeLabs/ndb)
 
@@ -34,15 +34,15 @@
 ## vue相关
 1. [d2-admin -- 一个开源的管理系统前端集成方案，为了方便开发者快速进行管理系统开发而设计](https://github.com/d2-projects/d2-admin)
 
-![demo](https://raw.githubusercontent.com/FairyEver/d2-admin/master/github/preview@2x.png)
+![demo](http://chuantu.biz/t6/351/1533090864x1822611227.png)
 ## react-native相关
 1. [react-native-shop-ui -- react-native服饰电商ui](https://github.com/ATF19/react-native-shop-ui)
 
-    ![demo](https://camo.githubusercontent.com/ebd512bfe14d8eebf1b9128b8cb8ca843b32f188/687474703a2f2f7265732e636c6f7564696e6172792e636f6d2f61746631392f696d6167652f75706c6f61642f635f7363616c652c685f3530302f76313530313431363436382f315f6636686977302e706e67)
+    ![demo](http://chuantu.biz/t6/351/1533090917x1822611227.png)
 ## 数据可视化
 1. [giojs -- 使用Three.js构建的声明式3D Globe数据可视化库](https://github.com/syt123450/giojs)这个真的超级酷炫，建议大家打开官网去感受一下~
 
-    ![demo](https://camo.githubusercontent.com/8a2ef9bd9a359591192712596b7157b099b6f468/68747470733a2f2f7261772e6769746861636b2e636f6d2f7379743132333435302f67696f6a732f6d61737465722f6173736574732f726561646d652f47696f2e676966)   
+    ![demo](https://raw.githubusercontent.com/syt123450/giojs/master/assets/readme/Gio.gif)   
 2. [apexcharts.js -- JavaScript图表库](https://github.com/apexcharts/apexcharts.js)
 
     ![demo](http://chuantu.biz/t6/351/1533087677x-1376440252.png)
