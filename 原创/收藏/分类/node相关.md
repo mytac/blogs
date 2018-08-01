@@ -24,3 +24,5 @@ glob("**/*.js", options, function (er, files) {
   // er is an error object or null.
 })
 ```
+## 调试工具
+1. [ndb -- ndb是针对Node.js的改进调试体验，由Chrome DevTools启用](https://github.com/GoogleChromeLabs/ndb)
