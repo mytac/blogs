@@ -1,3 +1,5 @@
+## 前言
+prototype是js面向对象的一个重要机制，于是总结了以下几个问题，理解起来会比较有针对性。
 ## 1. `prototype` 和 `__proto__` 的关系是什么？
 `prototype`是只有函数才会有的属性；而`__proto__`是所有对象都有的属性。
 
@@ -23,7 +25,6 @@ Foo===foo.__proto__.constructor // true
 
 ![demo](https://pic.xiaohuochai.site/blog/JS_ECMA_grammer_proto.png)
 
-我们可以使用
 ## 2. 自有属性和原型属性又是什么？
 上面的例子中，在调用`foo.isTestable`时，先会在实例上查询是否有`isTestable`这个属性；如果没有找到，再往它的`__proto__`上查询这个属性；直至查到底层没有则返回`undefined`。
 ```js
@@ -75,7 +76,30 @@ JSON.stringify(foo1)===JSON.stringify(foo2) // true
 foo1.constructor===foo2.constructor // true 这里的构造函数都指向Foo，所以为true
 foo1.__proto__===foo2.__proto__ // 当然这个也为true
 foo1.__proto__===Foo.prototype // true
+Object.getPrototypeOf(foo1)===Object.getPrototypeOf(foo2) // true
 ```
+## 4. 在构造函数中添加属性后实例怎么继承
+对于在构造函数内部添加的属性，它的实例会继承它的属性；
+```js
+function Foo(){this.name='foo'}
+Foo.age=10
+const foo1=new Foo()
+```
+然而直接挂载在Foo上的属性不会在实例上被继承；
+```js
+foo1.name // 'foo'
+foo1.age // undefined
+```
+如果实例上和原型上都挂载了同样的属性，会优先从实例上获取：
+
+```js
+function Foo(){this.name='foo'}
+const foo1=new Foo()
+foo1.name='ahaha'
+
+foo1.name //'ahaha'
+```
+
 ## 参考文档
 1. [详解prototype与__proto__区别](https://blog.csdn.net/ligang2585116/article/details/53522741)
 2. [一张图理解prototype、proto和constructor的三角关系](https://www.cnblogs.com/xiaohuochai/p/5721552.html)
