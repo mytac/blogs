@@ -6,6 +6,7 @@
     [demo](https://react-table.js.org/#/story/simple-table)
 4. [hocs -- React和React Native的高阶组件集合](https://github.com/deepsweet/hocs)
 5. [rifm -- React Input Format＆Mask，微小（≈650b）组件，用于将任何输入组件转换为格式化或屏蔽输入](https://github.com/istarkov/rifm)
+6. [react-loadable -- 用于加载具有promise的组件的更高阶组件。](https://github.com/jamiebuilds/react-loadable)
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
@@ -55,7 +56,14 @@ glob("**/*.js", options, function (er, files) {
 2. [rsuite -- 一组react组件](https://github.com/rsuite/rsuite)
     
     [官网](https://rsuitejs.com)
+3. [mauerwerk -- react-spring grid 栅格进入/退出交互组件](https://github.com/drcmda/mauerwerk)
 
+    ![demp](https://github.com/drcmda/mauerwerk/raw/master/assets/grid.gif)
+4. [react-color -- 来自Sketch，Photoshop，Chrome，Github，Twitter等的颜色选择器](https://github.com/casesandberg/react-color)
+
+    ![demo](https://camo.githubusercontent.com/cf6a12e93cfa2e84b49f1cc4343f5f509c5ff54c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32364666676754353371453330344377452f67697068792e676966)
+
+    [官网](http://casesandberg.github.io/react-color/)
 ## 测试
 1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
 2. [kit -- 用于开发，记录和测试React组件库的工具 ](https://github.com/c8r/kit)
