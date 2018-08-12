@@ -33,7 +33,21 @@ const got = require('got');
 	}
 })();
 ```
+## 微信小程序
+1. [WeTypecho -- 微信小程序版Typecho ](https://github.com/MingliangLu/WeTypecho)
 
+众所周知，现在由于移动互联网的普及，网站访问量下降，导致个人站长非常难混。
+
+WeTypecho则能帮您快速搭建微信小程序，将Typecho博客的内容映射到微信小程序。 帮助您在一定程度上获取更多来自微信的流量。WeTypecho的安非常简单，只需三分钟，就能搭建。
+
+## 文本处理
+1. [monaco-editor -- 基于浏览器的代码编辑器](https://github.com/Microsoft/monaco-editor)
+
+	![demo](https://cloud.githubusercontent.com/assets/5047891/19600675/5eaae9e6-97a6-11e6-97ad-93903167d8ba.png)
+## pwa
+1. [SuperSlide.js -- 为您的下一个PWA提供灵活，流畅的GPU加速滑动菜单](https://github.com/osrec/SuperSlide.js)
+
+	![demo](https://github.com/osrec/SuperSlide.js/raw/master/gifs/demo.gif)
 ## funny stuff
 1. [nes -- 一个Javascript NES模拟器](https://github.com/fredericcambon/nes)
 
