@@ -33,6 +33,13 @@ const got = require('got');
 	}
 })();
 ```
+3. [check-links -- 可靠地检查一系列URL以获得活跃度。](https://github.com/transitive-bullshit/check-links)
+```
+支持http和https；
+每次HTTP请求默认为10秒超时，重试次数为2次；
+默认为Mac OS Chrome用户代理；
+默认为重定向
+```
 ## 微信小程序
 1. [WeTypecho -- 微信小程序版Typecho ](https://github.com/MingliangLu/WeTypecho)
 
