@@ -11,7 +11,14 @@
 4. [react-window -- React组件，用于有效地呈现大型列表和表格数据](https://github.com/bvaughn/react-window)
 
     [官网](https://react-window.now.sh/#/examples/list/fixed-size)
+5. [rc-bmap -- 当百度地图遇上React，会产生怎样的火花🔥 🎉欢迎您的加入](https://github.com/jser-club/rc-bmap)
 
+	[官网](https://bmap.jser-club.com/)
+6. [JavaScript和React的可读，自动化和优化（5 kb）国际化](https://github.com/lingui/js-lingui)
+## 音频
+1. [Tone.js -- 用于在浏览器中制作交互式音乐的Web Audio框架。](https://github.com/Tonejs/Tone.js)
+
+    [demo](https://tonejs.github.io/demos)
 ## 办公
 1. [mdx-deck -- 基于MDX的演示文稿](https://github.com/jxnblk/mdx-deck)
 

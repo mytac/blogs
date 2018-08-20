@@ -10,6 +10,10 @@
 7. [react-window -- React组件，用于有效地呈现大型列表和表格数据](https://github.com/bvaughn/react-window)
 
     [官网](https://react-window.now.sh/#/examples/list/fixed-size)
+## 地图
+1. [rc-bmap -- 当百度地图遇上React，会产生怎样的火花🔥 🎉欢迎您的加入](https://github.com/jser-club/rc-bmap)
+
+	[官网](https://bmap.jser-club.com/)
 
 ## ssr
 1. [after.js -- 类似Next.js，使用React Router 4构建的ssr React应用程序的框架](https://github.com/jaredpalmer/after.js)
@@ -83,6 +87,8 @@ glob("**/*.js", options, function (er, files) {
 1. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
     
     ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
+## 国际化
+1. [JavaScript和React的可读，自动化和优化（5 kb）国际化](https://github.com/lingui/js-lingui)
 ## 文档
 1. [react-lifecycle-methods-diagram -- 交互式React生命周期方法图。](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)建议收藏看看非常直观，一看就理解了
     
