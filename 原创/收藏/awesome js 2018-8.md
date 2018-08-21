@@ -23,6 +23,8 @@
 1. [mdx-deck -- 基于MDX的演示文稿](https://github.com/jxnblk/mdx-deck)
 
     ![demo](https://camo.githubusercontent.com/c12c8d143a3509f9aa6fde5629ea0c7f78e68437/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6a786e626c6b2f6d64782d6465636b2e676966)
+## css
+1. [postcss-autoprefixer](https://github.com/postcss/autoprefixer)通过Can I Use解析CSS并将规则添加到规则中
 ## node
 1. [dumper.js -- 适用于Node.js应用程序的更好，更漂亮的变量检查器](https://github.com/zeeshanu/dumper.js)
 2. [got -- 简化的HTTP请求](https://github.com/sindresorhus/got)
@@ -66,3 +68,4 @@ WeTypecho则能帮您快速搭建微信小程序，将Typecho博客的内容映�
 1. [nes -- 一个Javascript NES模拟器](https://github.com/fredericcambon/nes)
 
     ![demo](https://camo.githubusercontent.com/7545e51acb21557e1a37856f45ab7f01da83d4e0/68747470733a2f2f692e696d6775722e636f6d2f7a6d39626a474e6c2e706e67)
+2. [resources -- 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护四个微信群接近2000人，欢迎你的加入！](https://github.com/BestDingSheng/resources)
