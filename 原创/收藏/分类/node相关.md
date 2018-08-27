@@ -50,3 +50,18 @@ const got = require('got');
 默认为Mac OS Chrome用户代理；
 默认为重定向
 ```
+3. [http-timer -- HTTP请求的计时](https://github.com/szmarczak/http-timer)
+```js
+const https = require('https');
+const timer = require('@szmarczak/http-timer');
+
+const request = https.get('https://httpbin.org/anything');
+const timings = timer(request);
+
+request.on('response', response => {
+	response.on('data', () => {}); // Consume the data somehow
+	response.on('end', () => {
+		console.log(timings);
+	});
+});
+```

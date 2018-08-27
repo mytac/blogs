@@ -45,7 +45,9 @@ glob("**/*.js", options, function (er, files) {
 3. [react-awesome-slider -- ReactJS 60fps轻量级高性能组件，可呈现UI图像/媒体画廊滑块的一组动画。](https://github.com/rcaferati/react-awesome-slider)
 
     ![demo](https://github.com/rcaferati/react-awesome-slider/raw/master/demo/public/images/demo-bojack-mobile.gif)
+4. [用于滚动，缩放和突出显示代码的反应组件<🏄/>](https://github.com/pomber/code-surfer)
 
+	![demo](https://raw.githubusercontent.com/pomber/code-surfer/master/other/sample.gif)
 ## markdown
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
 

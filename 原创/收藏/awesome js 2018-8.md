@@ -15,6 +15,11 @@
 
 	[官网](https://bmap.jser-club.com/)
 6. [JavaScript和React的可读，自动化和优化（5 kb）国际化](https://github.com/lingui/js-lingui)
+7. [用于滚动，缩放和突出显示代码的反应组件<🏄/>](https://github.com/pomber/code-surfer)
+
+	![demo](https://raw.githubusercontent.com/pomber/code-surfer/master/other/sample.gif)
+## react native 相关
+1. [metro -- React Native的JavaScript打包工具。](https://github.com/facebook/metro)
 ## 音频
 1. [Tone.js -- 用于在浏览器中制作交互式音乐的Web Audio框架。](https://github.com/Tonejs/Tone.js)
 
@@ -23,6 +28,19 @@
 1. [mdx-deck -- 基于MDX的演示文稿](https://github.com/jxnblk/mdx-deck)
 
     ![demo](https://camo.githubusercontent.com/c12c8d143a3509f9aa6fde5629ea0c7f78e68437/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6a786e626c6b2f6d64782d6465636b2e676966)
+## webpack
+1. [size-plugin -- 随时间跟踪压缩的Webpack资产大小。](https://github.com/GoogleChromeLabs/size-plugin)
+```js
+// webpack.config.js
++ const SizePlugin = require('size-plugin');
+
+module.exports = {
+  plugins: [
++    new SizePlugin()
+  ]
+}
+```
+	![demo](https://camo.githubusercontent.com/806eb206a76f2453f3160eb2e56f1d4a2aaa589f/68747470733a2f2f692e696d6775722e636f6d2f33625742724a6d2e706e67)
 ## css
 1. [postcss-autoprefixer](https://github.com/postcss/autoprefixer)通过Can I Use解析CSS并将规则添加到规则中
 ## node
@@ -49,6 +67,21 @@ const got = require('got');
 默认为Mac OS Chrome用户代理；
 默认为重定向
 ```
+4. [http-timer -- HTTP请求的计时](https://github.com/szmarczak/http-timer)
+```js
+const https = require('https');
+const timer = require('@szmarczak/http-timer');
+
+const request = https.get('https://httpbin.org/anything');
+const timings = timer(request);
+
+request.on('response', response => {
+	response.on('data', () => {}); // Consume the data somehow
+	response.on('end', () => {
+		console.log(timings);
+	});
+});
+```
 ## 微信小程序
 1. [WeTypecho -- 微信小程序版Typecho ](https://github.com/MingliangLu/WeTypecho)
 
@@ -69,3 +102,6 @@ WeTypecho则能帮您快速搭建微信小程序，将Typecho博客的内容映�
 
     ![demo](https://camo.githubusercontent.com/7545e51acb21557e1a37856f45ab7f01da83d4e0/68747470733a2f2f692e696d6775722e636f6d2f7a6d39626a474e6c2e706e67)
 2. [resources -- 知名互联网企业内推资料整理 持续更新ing 。 目前已经维护四个微信群接近2000人，欢迎你的加入！](https://github.com/BestDingSheng/resources)
+3. [windows95 -- Windows 95 in Electron。在macOS，Linux和Windows上运行。](https://github.com/felixrieseberg/windows95)
+
+	![demo](https://user-images.githubusercontent.com/1426799/44532591-4ceb3680-a6a8-11e8-8c2c-bc29f3bfdef7.png)
