@@ -24,6 +24,10 @@
 1. [Tone.js -- 用于在浏览器中制作交互式音乐的Web Audio框架。](https://github.com/Tonejs/Tone.js)
 
     [demo](https://tonejs.github.io/demos)
+## UI
+1. [taro-ui -- 一款基于 Taro 框架开发的多端 UI 组件库](https://github.com/NervJS/taro-ui)
+
+	[官网](https://taro-ui.aotu.io/#/docs/article)
 ## 办公
 1. [mdx-deck -- 基于MDX的演示文稿](https://github.com/jxnblk/mdx-deck)
 
@@ -41,6 +45,23 @@ module.exports = {
 }
 ```
 	![demo](https://camo.githubusercontent.com/806eb206a76f2453f3160eb2e56f1d4a2aaa589f/68747470733a2f2f692e696d6775722e636f6d2f33625742724a6d2e706e67)
+## 架构
+1. [lerna -- 用于管理具有多个包的JavaScript项目的工具。](https://github.com/lerna/l                                                                                                                                                                                                                    erna)
+对于维护过多个package的同学来说，都会遇到一个选择题，这些package是放在一个仓库里维护还是放在多个仓库里单独维护，数量较少的时候，多个仓库维护不会有太大问题，但是当package数量逐渐增多时，一些问题逐渐暴露出来：
+```
+package之间相互依赖，开发人员需要在本地手动执行npm link，维护版本号的更替。
+issue难以统一追踪，管理，因为其分散在独立的repo里。
+每一个package都包含独立的node_modules，而且大部分都包含babel,webpack等开发时依赖，安装耗时冗余并且占用过多空间。
+```
+## 可视化
+1. [BizCharts -- 基于G2和React的强大数据可视化库。](https://github.com/alibaba/BizCharts)
+
+	![demo](http://img.alicdn.com/tfs/TB1YHabzxSYBuNjSsphXXbGvVXa-3602-972.png)
+
+	[官网](http://bizcharts.net/products/bizCharts)
+2. [zeu -- 用于实时可视化的JavaScript库](https://github.com/shzlw/zeu)
+
+	![demo](https://github.com/shzlw/zeu/raw/master/examples/my-command-center.v1.0.0.gif)
 ## css
 1. [postcss-autoprefixer](https://github.com/postcss/autoprefixer)通过Can I Use解析CSS并将规则添加到规则中
 ## node
