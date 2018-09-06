@@ -21,3 +21,7 @@
 1. [react-native-bouncing-preloader -- 使用React Native中的自定义图标弹跳预加载器组件](https://github.com/sonnylazuardi/react-native-bouncing-preloader)
     
     [demo](https://github.com/sonnylazuardi/react-native-bouncing-preloader/raw/master/bouncingpreloader.gif)
+## 其他
+1. [metro -- React Native的JavaScript打包工具。](https://github.com/facebook/metro)
+## 工具库
+1. [react-native-starter -- React Native Starter是一个移动应用程序模板，包含许多内置组件](https://github.com/flatlogic/react-native-starter)

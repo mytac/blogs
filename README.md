@@ -1,6 +1,16 @@
 # blogs
-## todo list
+## 公众号与个人微信
+想和喜欢技术的你做个朋友~
 
+我的微信
+
+![我的微信](http://chuantu.biz/t6/351/1533093799x-1404755510.png)
+
+我的公众号：每周一三五七晚上八点定时更新，关于技术，关于生活的点滴~
+
+![我的公众号](http://chuantu.biz/t6/351/1533094268x-1566688556.jpg)
+
+## todo list
 
 起始时间 | 完成度 | 事件
 ---- | ---| ---
@@ -25,13 +35,15 @@
 18.4.18|[ ]|配置json文件，生成简历
 18.6.11|[ ]|[vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)
 18.7.17|[ ]|[React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
+18.7.31|[ ]|[大前端神器安利之 Puppeteer](https://jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/)
+18.8.1|[ ]|[ndb](https://github.com/GoogleChromeLabs/ndb)
 
 ## 实物书单
 
 书名 | 创建日期 | 完成度 
 --- | ---- | --- 
 你不知道的js上（已购）| 17.12.7 |[ √ ]
-你不知道的js中（已购）| 17.12.7 |[]
+你不知道的js中（已购）| 17.12.7 |[√ ]
 NodeJs实战| 17.12|[]
 深入理解es6| 18.1 |[]
 深入浅出react技术栈| 18.2 |[]

@@ -28,3 +28,9 @@ consola.error(new Error('Foo'))
     [官网](https://hyper.is/)
 7. [signale -- 黑客控制台记录器](https://github.com/klauscfhq/signale)
     ![demo](https://camo.githubusercontent.com/dd0ad939bce8e21b2f9afbf0db794a0de7422c5f/68747470733a2f2f63646e2e7261776769742e636f6d2f6b6c617573636668712f7369676e616c652f32643862636666382f6d656469612f6865616465722e706e67)
+8. [terminalizer -- 录制您的终端并生成动画gif图像](https://github.com/faressoft/terminalizer)
+
+    ![demo](https://github.com/faressoft/terminalizer/raw/master/img/demo.gif?raw=true)
+9. [taskbook -- 在命令行中写任务、块和注释](https://github.com/klauscfhq/taskbook)
+
+    ![demo](https://github.com/klauscfhq/taskbook/raw/master/media/header-boards.png)
