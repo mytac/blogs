@@ -33,6 +33,29 @@ import ky from 'ky';
 	//=> `{data: '🦄'}`
 })();
 ```
+## node相关
+1. [Microjob -- 一个微小的包装器，用于将Node.js工作线程转换为易于使用的例程，用于繁重的CPU负载。 ](https://github.com/wilk/microjob)
+```js
+(async () => {
+  const { job } = require('microjob')
+
+  try {
+    // this function will be executed in another thread
+    const res = await job(() => {
+      let i = 0
+      for (i = 0; i < 1000000; i++) {
+        // heavy CPU load ...
+      }
+
+      return i
+    })
+
+    console.log(res) // 1000000
+  } catch (err) {
+    console.error(err)
+  }
+})()
+```
 ## 地理相关
 1. [AgentMaps -- 使用Javascript在交互式地图上进行社交模拟！基于代理的Web建模。](https://github.com/noncomputable/AgentMaps)
 
@@ -43,6 +66,9 @@ import ky from 'ky';
 1. [pwa -- 通用PWA Builder](https://github.com/lukeed/pwa)
 ## react-native相关
 1. [react-native-starter -- React Native Starter是一个移动应用程序模板，包含许多内置组件](https://github.com/flatlogic/react-native-starter)
+2. [react-native-paper -- react native material design](https://github.com/callstack/react-native-paper)
+
+![demo](https://callstack.github.io/react-native-paper/gallery/typography.png)
 ## react相关
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
 ## 机器学习
@@ -51,6 +77,14 @@ import ky from 'ky';
     [演示demo](https://poloclub.github.io/ganlab/)
 
     ![demo](https://github.com/poloclub/ganlab/raw/master/ganlab-teaser.png)
+## 控件
+1. [react-modal-experiment -- 用于移动端的全屏表单react组件](https://github.com/stereobooster/react-modal-experiment)
+
+	![demo](https://camo.githubusercontent.com/7829b2dcc921447e750e09e8316930e30c596c9e/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f646274366d6f6f677076336b717570326b3077652e676966)
+## 浏览器插件
+1. [markdown-here -- Google Chrome，Firefox和Thunderbird扩展程序，可让您在Markdown中编写电子邮件并在发送前进行呈现。](https://github.com/adam-p/markdown-here)
+
+	![demo](https://camo.githubusercontent.com/4d86f3e42a47d99458ea21f40ca80eaab7d8373a/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)
 ## funny stuff
 1. [chinese-dos-games -- 浏览器游玩中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 目前包括
