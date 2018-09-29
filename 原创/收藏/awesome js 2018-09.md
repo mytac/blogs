@@ -33,6 +33,9 @@ import ky from 'ky';
 	//=> `{data: '🦄'}`
 })();
 ```
+2. [nuage -- Dropbox克隆，适用于FTP，SFTP，WebDAV，Git，S3，Minio，....](https://github.com/mickael-kerjean/nuage)
+
+	![demo](https://raw.githubusercontent.com/mickael-kerjean/nuage/master/.assets/img/photo.jpg)
 ## node相关
 1. [Microjob -- 一个微小的包装器，用于将Node.js工作线程转换为易于使用的例程，用于繁重的CPU负载。 ](https://github.com/wilk/microjob)
 ```js
@@ -56,6 +59,9 @@ import ky from 'ky';
   }
 })()
 ```
+2. [rxdb -- Web的实时数据库 ](https://github.com/pubkey/rxdb)
+
+	![demo](https://github.com/pubkey/rxdb/raw/master/docs-src/files/realtime.gif)
 ## 地理相关
 1. [AgentMaps -- 使用Javascript在交互式地图上进行社交模拟！基于代理的Web建模。](https://github.com/noncomputable/AgentMaps)
 
@@ -81,10 +87,19 @@ import ky from 'ky';
 1. [react-modal-experiment -- 用于移动端的全屏表单react组件](https://github.com/stereobooster/react-modal-experiment)
 
 	![demo](https://camo.githubusercontent.com/7829b2dcc921447e750e09e8316930e30c596c9e/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f646274366d6f6f677076336b717570326b3077652e676966)
+## 小程序
+1. [omi -- Omi === Preact + Scoped CSS +Store System +本机支持3kb javascript。](https://github.com/Tencent/omi)
+
+	[文档](https://github.com/Tencent/omi/blob/master/README.CN.md)
+2. [westore -- 世界上最小却强大的小程序框架 - 100多行代码搞定全局状态管理、跨页通讯和插件开发](https://github.com/dntzhang/westore)
 ## 浏览器插件
 1. [markdown-here -- Google Chrome，Firefox和Thunderbird扩展程序，可让您在Markdown中编写电子邮件并在发送前进行呈现。](https://github.com/adam-p/markdown-here)
 
 	![demo](https://camo.githubusercontent.com/4d86f3e42a47d99458ea21f40ca80eaab7d8373a/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)
+## 编辑器
+1. [alex -- 无论是你自己还是别人的写作，亚历克斯都会帮助你找到性别偏好，两极分化，种族相关，宗教不体贴或其他不平等的措辞。](https://github.com/get-alex/alex)
+
+	[在线示例](https://alexjs.com/#demo)
 ## funny stuff
 1. [chinese-dos-games -- 浏览器游玩中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 目前包括
@@ -125,3 +140,4 @@ import ky from 'ky';
 非洲探险2
 ```
  [演示地址](https://dos.zczc.cz/)
+2. [docsite -- 一个开源静态网站生成器](https://github.com/txd-team/docsite)
