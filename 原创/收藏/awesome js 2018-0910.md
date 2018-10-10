@@ -77,6 +77,29 @@ import ky from 'ky';
 ![demo](https://callstack.github.io/react-native-paper/gallery/typography.png)
 ## react相关
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
+## vue相关
+1. [tiptap -- Vue.js的富文本编辑器](https://github.com/heyscrumpy/tiptap)
+```html
+<template>
+  <editor>
+    <!-- Add HTML to the scoped slot called `content` -->
+    <div slot="content" slot-scope="props">
+      <p>Hi, I'm just a boring paragraph</p>
+    </div>
+  </editor>
+</template>
+
+<script>
+// Import the editor
+import { Editor } from 'tiptap'
+
+export default {
+  components: {
+    Editor,
+  },
+}
+</script>
+```
 ## 机器学习
 1. [ganlab -- 用于生成对抗网络的交互式可视化实验工具](https://github.com/poloclub/ganlab)
 
@@ -96,10 +119,18 @@ import ky from 'ky';
 1. [markdown-here -- Google Chrome，Firefox和Thunderbird扩展程序，可让您在Markdown中编写电子邮件并在发送前进行呈现。](https://github.com/adam-p/markdown-here)
 
 	![demo](https://camo.githubusercontent.com/4d86f3e42a47d99458ea21f40ca80eaab7d8373a/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)
+## 时间处理
+1. [You-Dont-Need-Momentjs -- 可用于替换moment.js + ESLint插件的日期文件或本机函数列表](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 ## 编辑器
 1. [alex -- 无论是你自己还是别人的写作，亚历克斯都会帮助你找到性别偏好，两极分化，种族相关，宗教不体贴或其他不平等的措辞。](https://github.com/get-alex/alex)
 
 	[在线示例](https://alexjs.com/#demo)
+2. [awesome-vscode -- vscode插件集合](https://github.com/viatsko/awesome-vscode)
+## 架构
+1. [jslib-base -- 最好用的js第三方库脚手架，赋能js第三方库开源，让开发一个js库更简单，更专业](https://github.com/yanhaijing/jslib-base)
+## 静态page
+1. [md-page -- 创建一个只用markdown的网页](https://github.com/oscarmorrison/md-page)
+	![demo](https://user-images.githubusercontent.com/1651212/46581080-1cefcb00-ca7d-11e8-8a4f-828dbe945dc6.png)
 ## funny stuff
 1. [chinese-dos-games -- 浏览器游玩中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 目前包括
