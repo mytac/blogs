@@ -62,6 +62,10 @@ import ky from 'ky';
 2. [rxdb -- Web的实时数据库 ](https://github.com/pubkey/rxdb)
 
 	![demo](https://github.com/pubkey/rxdb/raw/master/docs-src/files/realtime.gif)
+## 数据可视化
+1. [muze -- 用于Web的可组合数据可视化库，具有数据优先方法](https://github.com/chartshq/muze)
+Muze是一个数据可视化库，它使用分层的图形语法（GoG）为Web创建可组合的交互式数据可视化。它使用数据优先方法来定义图表的构造和层，自动生成跨图表交互，并允许您覆盖图表上的任何行为或交互。
+  [demo](https://www.charts.com/muze/examples/view/retinal-encoding)
 ## 地理相关
 1. [AgentMaps -- 使用Javascript在交互式地图上进行社交模拟！基于代理的Web建模。](https://github.com/noncomputable/AgentMaps)
 
@@ -70,6 +74,8 @@ import ky from 'ky';
     ![demo](https://github.com/noncomputable/AgentMaps/raw/master/resources/agentgif.gif)
 ## pwa相关
 1. [pwa -- 通用PWA Builder](https://github.com/lukeed/pwa)
+## 文件处理
+1. [percollate -- 一种命令行工具，可将网页抓取为格式精美的PDF](https://github.com/danburzo/percollate)
 ## react-native相关
 1. [react-native-starter -- React Native Starter是一个移动应用程序模板，包含许多内置组件](https://github.com/flatlogic/react-native-starter)
 2. [react-native-paper -- react native material design](https://github.com/callstack/react-native-paper)
@@ -77,6 +83,9 @@ import ky from 'ky';
 ![demo](https://callstack.github.io/react-native-paper/gallery/typography.png)
 ## react相关
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
+2. [rfcs -- 用于更改React的RFC](https://github.com/reactjs/rfcs)
+## 状态管理
+1. [unstated -- 用于react的状态管理](https://github.com/jamiebuilds/unstated)
 ## vue相关
 1. [tiptap -- Vue.js的富文本编辑器](https://github.com/heyscrumpy/tiptap)
 ```html
@@ -100,6 +109,9 @@ export default {
 }
 </script>
 ```
+2. [gridsome -- 使用Vue.js和GraphQL构建超快的网站](https://github.com/gridsome/gridsome)
+
+    [文档](https://gridsome.org/docs)
 ## 机器学习
 1. [ganlab -- 用于生成对抗网络的交互式可视化实验工具](https://github.com/poloclub/ganlab)
 
