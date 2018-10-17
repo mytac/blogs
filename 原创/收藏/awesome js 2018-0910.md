@@ -131,6 +131,7 @@ export default {
 1. [markdown-here -- Google Chrome，Firefox和Thunderbird扩展程序，可让您在Markdown中编写电子邮件并在发送前进行呈现。](https://github.com/adam-p/markdown-here)
 
 	![demo](https://camo.githubusercontent.com/4d86f3e42a47d99458ea21f40ca80eaab7d8373a/68747470733a2f2f7261772e6769746875622e636f6d2f6164616d2d702f6d61726b646f776e2d686572652f6d61737465722f73746f72652d6173736574732f6d61726b646f776e2d686572652d696d616765312e67696d702e706e67)
+
 ## 时间处理
 1. [You-Dont-Need-Momentjs -- 可用于替换moment.js + ESLint插件的日期文件或本机函数列表](https://github.com/you-dont-need/You-Dont-Need-Momentjs)
 ## 编辑器
@@ -143,6 +144,8 @@ export default {
 ## 静态page
 1. [md-page -- 创建一个只用markdown的网页](https://github.com/oscarmorrison/md-page)
 	![demo](https://user-images.githubusercontent.com/1651212/46581080-1cefcb00-ca7d-11e8-8a4f-828dbe945dc6.png)
+## 学习的文档
+1. [33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
 ## funny stuff
 1. [chinese-dos-games -- 浏览器游玩中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 目前包括

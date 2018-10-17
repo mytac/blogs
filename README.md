@@ -37,6 +37,8 @@
 18.7.17|[ ]|[React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
 18.7.31|[ ]|[大前端神器安利之 Puppeteer](https://jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/)
 18.8.1|[ ]|[ndb](https://github.com/GoogleChromeLabs/ndb)
+18.10.17|[ ]|[33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
+
 
 ## 实物书单
 
