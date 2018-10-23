@@ -62,10 +62,17 @@ import ky from 'ky';
 2. [rxdb -- Web的实时数据库 ](https://github.com/pubkey/rxdb)
 
 	![demo](https://github.com/pubkey/rxdb/raw/master/docs-src/files/realtime.gif)
+3. [nodemon -- 监视node.js应用程序中的任何更改并自动重新启动服务器 - 非常适合开发](https://github.com/remy/nodemon)
 ## 数据可视化
 1. [muze -- 用于Web的可组合数据可视化库，具有数据优先方法](https://github.com/chartshq/muze)
 Muze是一个数据可视化库，它使用分层的图形语法（GoG）为Web创建可组合的交互式数据可视化。它使用数据优先方法来定义图表的构造和层，自动生成跨图表交互，并允许您覆盖图表上的任何行为或交互。
   [demo](https://www.charts.com/muze/examples/view/retinal-encoding)
+## graphql
+1. [apollo-server -- 适用于Express，Connect，Hapi，Koa等的GraphQL服务器](https://github.com/apollographql/apollo-server)
+2. [graphqldesigner.com -- 一个开发人员Web应用程序工具，可以使用React快速构建GraphQL的完整堆栈CRUD实现。](https://github.com/GraphQL-Designer/graphqldesigner.com)
+
+![demo](https://github.com/GraphQL-Designer/graphqldesigner.com/raw/master/graphql.gif)
+3. [graphpack -- 简约的零配置GraphQL服务器。](https://github.com/glennreyes/graphpack)
 ## 地理相关
 1. [AgentMaps -- 使用Javascript在交互式地图上进行社交模拟！基于代理的Web建模。](https://github.com/noncomputable/AgentMaps)
 
@@ -84,6 +91,8 @@ Muze是一个数据可视化库，它使用分层的图形语法（GoG）为Web�
 ## react相关
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
 2. [rfcs -- 用于更改React的RFC](https://github.com/reactjs/rfcs)
+3. [evergreen -- 分段的Evergreen React UI框架](https://github.com/segmentio/evergreen)
+  [文档](https://evergreen.segment.com/components/)
 ## 状态管理
 1. [unstated -- 用于react的状态管理](https://github.com/jamiebuilds/unstated)
 ## vue相关
@@ -146,7 +155,8 @@ export default {
 	![demo](https://user-images.githubusercontent.com/1651212/46581080-1cefcb00-ca7d-11e8-8a4f-828dbe945dc6.png)
 ## 学习的文档
 1. [33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
-2. [Web-Series -- 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 ](https://github.com/wxyyxc1992/Web-Series)Web 开发，入门易，深度难，分为初窥门径、登堂入室、融会贯通等阶段。本仓库存放 ITCS 技术体系与知识图谱-Web 前端相关领域的 Web 开发基础与工程实践的相关博客、示例代码与开源项目、整理成的系列书籍等内容；目前为了更好地体系化阅读，笔者将所有的内容规整到了不同的系列文章 / 书籍中。
+2. [33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。(中文版)](https://github.com/stephentian/33-js-concepts)
+3. [Web-Series -- 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 ](https://github.com/wxyyxc1992/Web-Series)Web 开发，入门易，深度难，分为初窥门径、登堂入室、融会贯通等阶段。本仓库存放 ITCS 技术体系与知识图谱-Web 前端相关领域的 Web 开发基础与工程实践的相关博客、示例代码与开源项目、整理成的系列书籍等内容；目前为了更好地体系化阅读，笔者将所有的内容规整到了不同的系列文章 / 书籍中。
 ## funny stuff
 1. [chinese-dos-games -- 浏览器游玩中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 目前包括
