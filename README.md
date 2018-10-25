@@ -39,7 +39,7 @@
 18.8.1|[ ]|[ndb](https://github.com/GoogleChromeLabs/ndb)
 18.10.17|[ ]|[Web-Series -- 现代 Web 开发，现代 Web 开发导论](https://github.com/wxyyxc1992/Web-Series)Web 开发，入门易，深度难，分为初窥门径、登堂入室、融会贯通等阶段。本仓库存放 ITCS 技术体系与知识图谱-Web 前端相关领域的 Web 开发基础与工程实践的相关博客、示例代码与开源项目、整理成的系列书籍等内容；目前为了更好地体系化阅读，笔者将所有的内容规整到了不同的系列文章 / 书籍中。
 18.10.17|[ ]|[33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
-
+18.10.24|[ ]|[React Internals - 了解React的工作原理](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
 ## 实物书单
 
