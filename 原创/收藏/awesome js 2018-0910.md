@@ -98,8 +98,13 @@ Muze是一个数据可视化库，它使用分层的图形语法（GoG）为Web�
   [文档](https://evergreen.segment.com/components/)
 4. [why-did-you-update -- 当React进行不必要的更新时，将控制台置于爆炸状态。](https://github.com/maicki/why-did-you-update)
 5. [crana -- 一个CLI工具，只需一个命令即可创建React + Node应用程序](https://github.com/scriptify/crana)
+6. [the-platform -- Web API变成了React Hooks和Suspense友好的React组件。](https://github.com/palmerhq/the-platform)
 ## 状态管理
 1. [unstated -- 用于react的状态管理](https://github.com/jamiebuilds/unstated)
+## 文本处理
+1. [fastscan -- 通过ahocorasick算法快速搜索文本](https://github.com/pyloque/fastscan)
+
+  ![demo](https://github.com/pyloque/fastscan/raw/master/images/graph.png)
 ## vue相关
 1. [tiptap -- Vue.js的富文本编辑器](https://github.com/heyscrumpy/tiptap)
 ```html

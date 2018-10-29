@@ -118,3 +118,4 @@ glob("**/*.js", options, function (er, files) {
 1. [why-did-you-update -- 当React进行不必要的更新时，将控制台置于爆炸状态。](https://github.com/maicki/why-did-you-update)
 ## 其他
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
+2. [the-platform -- Web API变成了React Hooks和Suspense友好的React组件。](https://github.com/palmerhq/the-platform)
