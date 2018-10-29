@@ -167,6 +167,7 @@ export default {
 1. [33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
 2. [33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。(中文版)](https://github.com/stephentian/33-js-concepts)
 3. [Web-Series -- 现代 Web 开发，现代 Web 开发导论 | 基础篇 | 进阶篇 | 架构优化篇 | React 篇 | Vue 篇 ](https://github.com/wxyyxc1992/Web-Series)Web 开发，入门易，深度难，分为初窥门径、登堂入室、融会贯通等阶段。本仓库存放 ITCS 技术体系与知识图谱-Web 前端相关领域的 Web 开发基础与工程实践的相关博客、示例代码与开源项目、整理成的系列书籍等内容；目前为了更好地体系化阅读，笔者将所有的内容规整到了不同的系列文章 / 书籍中。
+4. [30-seconds-of-css -- 精选的有用CSS片段集合，您可以在30秒或更短的时间内理解这些片段。](https://github.com/30-seconds/30-seconds-of-css)
 ## funny stuff
 1. [chinese-dos-games -- 浏览器游玩中文 DOS 游戏](https://github.com/rwv/chinese-dos-games)
 目前包括
