@@ -34,3 +34,9 @@ consola.error(new Error('Foo'))
 9. [taskbook -- 在命令行中写任务、块和注释](https://github.com/klauscfhq/taskbook)
 
     ![demo](https://github.com/klauscfhq/taskbook/raw/master/media/header-boards.png)
+10. [ervy -- 在终端显示图表](https://github.com/chunqiuyiyu/ervy)
+
+![demo](https://github.com/chunqiuyiyu/ervy/raw/master/site/imgs/bar.png)
+11. [glorious-demo -- 演示代码的最简单方法。](https://github.com/glorious-codes/glorious-demo)
+
+![demo](https://user-images.githubusercontent.com/4738687/44633197-01fa4900-a95e-11e8-9b53-66e9043e2533.gif)
