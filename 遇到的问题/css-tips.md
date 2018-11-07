@@ -29,3 +29,15 @@ document.onselectstart=new Function("return false");
     </div>
 </div>
 ```
+### 3.transition 无效的原因
+过渡效果只应用于两个数值类型！！不能用`auto`，`none`之类的非数值。如:
+```css
+div{
+  height:0;
+  transition:height 1s;
+}
+div.addition{
+   height:auto; // 无效
+   height:10rem; // 生效
+}
+```

@@ -31,10 +31,13 @@ glob("**/*.js", options, function (er, files) {
   // er is an error object or null.
 })
 ```
+2. [antcloud-node-stack -- 蚂蚁金融科技官方 Node 技术栈脚本](https://github.com/alipay/antcloud-node-stack)
 ## ui
 1. [wired-elements -- 一系列具有手绘外观的基本UI元素。这些可用于线框，模型，或只是有趣的手绘外观。](https://github.com/wiredjs/wired-elements)
 
     ![demo](https://camo.githubusercontent.com/d06779580c38ad9fc939c7599f4623598a5e6b98/68747470733a2f2f692e696d6775722e636f6d2f717474506c6c672e706e67)
+2. [evergreen -- 分段的Evergreen React UI框架](https://github.com/segmentio/evergreen)
+  [文档](https://evergreen.segment.com/components/)
 ## 控件
 1. [react-smooth-dnd -- 用react写的dnd](https://github.com/kutlugsahin/react-smooth-dnd)
 
@@ -48,6 +51,9 @@ glob("**/*.js", options, function (er, files) {
 4. [用于滚动，缩放和突出显示代码的反应组件<🏄/>](https://github.com/pomber/code-surfer)
 
 	![demo](https://raw.githubusercontent.com/pomber/code-surfer/master/other/sample.gif)
+5. [react-modal-experiment -- 用于移动端的全屏表单react组件](https://github.com/stereobooster/react-modal-experiment)
+
+	![demo](https://camo.githubusercontent.com/7829b2dcc921447e750e09e8316930e30c596c9e/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f646274366d6f6f677076336b717570326b3077652e676966)
 ## markdown
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
 
@@ -101,10 +107,15 @@ glob("**/*.js", options, function (er, files) {
     ![demo](https://camo.githubusercontent.com/3fb5af147b1a6b896122acda4cd10ab36615bbd1/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6c30485568684174623836765941486b592f67697068792e676966)
 4. [react-in-patterns -- 一本免费的书，讲述在使用React进行开发时使用的设计模式/技术。](https://github.com/krasimir/react-in-patterns)
 5. [React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
+6. [rfcs -- 用于更改React的RFC](https://github.com/reactjs/rfcs)
 ## 脚手架
 1. [react-static -- React的渐进式静态网站生成器。](https://github.com/nozzle/react-static)
 2. [generact -- 通过命令行复制你自己的产生React组件](https://github.com/diegohaz/generact)
     
     ![demo](https://user-images.githubusercontent.com/3068563/27687316-bb5bd832-5cac-11e7-9761-c489e5a3a9f0.gif)
+3. [crana -- 一个CLI工具，只需一个命令即可创建React + Node应用程序](https://github.com/scriptify/crana)
+## 优化
+1. [why-did-you-update -- 当React进行不必要的更新时，将控制台置于爆炸状态。](https://github.com/maicki/why-did-you-update)
 ## 其他
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
+2. [the-platform -- Web API变成了React Hooks和Suspense友好的React组件。](https://github.com/palmerhq/the-platform)
