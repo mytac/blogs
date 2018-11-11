@@ -40,3 +40,5 @@ consola.error(new Error('Foo'))
 11. [glorious-demo -- 演示代码的最简单方法。](https://github.com/glorious-codes/glorious-demo)
 
 ![demo](https://user-images.githubusercontent.com/4738687/44633197-01fa4900-a95e-11e8-9b53-66e9043e2533.gif)
+12. [enquirer -- 时尚，直观，用户友好的提示系统。](https://github.com/enquirer/enquirer)
+![demo](https://github.com/enquirer/enquirer/raw/master/media/survey-prompt.gif)
