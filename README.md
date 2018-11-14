@@ -1,6 +1,16 @@
 # blogs
-## todo list
+## 公众号与个人微信
+想和喜欢技术的你做个朋友~
 
+我的微信
+
+![我的微信tac_coolzjz](http://chuantu.biz/t6/351/1533093799x-1404755510.png)
+
+我的公众号：每周一三五七晚上八点定时更新，关于技术，关于生活的点滴~
+
+![我的公众号](http://thyrsi.com/t6/383/1538919731x-1404781090.jpg)
+
+## todo list
 
 起始时间 | 完成度 | 事件
 ---- | ---| ---
@@ -26,6 +36,10 @@
 18.6.11|[ ]|[vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)
 18.7.17|[ ]|[React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
 18.7.31|[ ]|[大前端神器安利之 Puppeteer](https://jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/)
+18.8.1|[ ]|[ndb](https://github.com/GoogleChromeLabs/ndb)
+18.10.17|[ ]|[Web-Series -- 现代 Web 开发，现代 Web 开发导论](https://github.com/wxyyxc1992/Web-Series)Web 开发，入门易，深度难，分为初窥门径、登堂入室、融会贯通等阶段。本仓库存放 ITCS 技术体系与知识图谱-Web 前端相关领域的 Web 开发基础与工程实践的相关博客、示例代码与开源项目、整理成的系列书籍等内容；目前为了更好地体系化阅读，笔者将所有的内容规整到了不同的系列文章 / 书籍中。
+18.10.17|[ ]|[33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
+18.10.24|[ ]|[React Internals - 了解React的工作原理](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 
 ## 实物书单
 

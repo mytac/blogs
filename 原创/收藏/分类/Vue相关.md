@@ -19,7 +19,34 @@
     [官方文档](https://vue-native.io/)
     
     ![demo](https://vue-native.io/images/landing.png)
+## 编辑器
+1. [tiptap -- Vue.js的富文本编辑器](https://github.com/heyscrumpy/tiptap)
+```html
+<template>
+  <editor>
+    <!-- Add HTML to the scoped slot called `content` -->
+    <div slot="content" slot-scope="props">
+      <p>Hi, I'm just a boring paragraph</p>
+    </div>
+  </editor>
+</template>
+
+<script>
+// Import the editor
+import { Editor } from 'tiptap'
+
+export default {
+  components: {
+    Editor,
+  },
+}
+</script>
+```
 ## 解决方案
 1. [d2-admin -- 一个开源的管理系统前端集成方案，为了方便开发者快速进行管理系统开发而设计](https://github.com/d2-projects/d2-admin)
 
 ![demo](https://raw.githubusercontent.com/FairyEver/d2-admin/master/github/preview@2x.png)
+## 其他
+1. [gridsome -- 使用Vue.js和GraphQL构建超快的网站](https://github.com/gridsome/gridsome)
+
+    [文档](https://gridsome.org/docs)
