@@ -28,6 +28,9 @@
 ## 控件
 1. [Glider.js -- 一个超快速，轻量级，无依赖性，最小的旋转木马，动力滚动！](https://github.com/NickPiscitelli/Glider.js)
     [demo](https://nickpiscitelli.github.io/Glider.js/)
+2. [virtual-scroller -- <virtual-scroller>将提供的JavaScript对象集映射到DOM节点上，并仅呈现当前可见的DOM节点，其余部分为“虚拟化”。](https://github.com/valdrinkoshi/virtual-scroller)
+
+    [具体示例](https://github.com/valdrinkoshi/virtual-scroller/blob/master/demo/scrolling.html)
 ## 机器学习
 1. [tensorspace -- TensorSpace是一套用于构建神经网络3D可视化应用的框架。 开发者可以使用类Keras风格的TensorSpace API，轻松创建可视化网络、加载神经网络模型并在浏览器中基于已加载的模型进行3D可交互呈现。 TensorSpace可以使您更直观地观察神经网络模型，并了解该模型是如何通过中间层 tensor 的运算来得出最终结果的。 TensorSpace 支持3D可视化经过适当预处理之后的 TensorFlow、Keras、TensorFlow.js 模型。](https://github.com/tensorspace-team/tensorspace)
 
