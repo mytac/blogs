@@ -79,6 +79,11 @@ glob("**/*.js", options, function (er, files) {
     ![demo](https://camo.githubusercontent.com/cf6a12e93cfa2e84b49f1cc4343f5f509c5ff54c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32364666676754353371453330344377452f67697068792e676966)
 
     [官网](http://casesandberg.github.io/react-color/)
+5. [sky -- React的天空组件](https://github.com/lucagez/sky)
+
+![demo](https://github.com/lucagez/sky/raw/master/gif/sky-gif.gif)
+
+[演示地址](https://codepen.io/lucagez/full/oQoRyK/)
 ## 测试
 1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
 2. [kit -- 用于开发，记录和测试React组件库的工具 ](https://github.com/c8r/kit)
