@@ -35,10 +35,14 @@
 2. [virtual-scroller -- <virtual-scroller>将提供的JavaScript对象集映射到DOM节点上，并仅呈现当前可见的DOM节点，其余部分为“虚拟化”。](https://github.com/valdrinkoshi/virtual-scroller)
 
     [具体示例](https://github.com/valdrinkoshi/virtual-scroller/blob/master/demo/scrolling.html)
+## 可视化
+1. [cytoscape.js -- 用于可视化和分析的图论（网络）库](https://github.com/cytoscape/cytoscape.js)
 ## 机器学习
 1. [tensorspace -- TensorSpace是一套用于构建神经网络3D可视化应用的框架。 开发者可以使用类Keras风格的TensorSpace API，轻松创建可视化网络、加载神经网络模型并在浏览器中基于已加载的模型进行3D可交互呈现。 TensorSpace可以使您更直观地观察神经网络模型，并了解该模型是如何通过中间层 tensor 的运算来得出最终结果的。 TensorSpace 支持3D可视化经过适当预处理之后的 TensorFlow、Keras、TensorFlow.js 模型。](https://github.com/tensorspace-team/tensorspace)
 
 ![demo](https://camo.githubusercontent.com/c96fae60bd3f4214484f8516215caf40b5403952/68747470733a2f2f7261772e6769746861636b2e636f6d2f74656e736f7273706163652d7465616d2f74656e736f7273706163652f6d61737465722f6173736574732f74656e736f7273706163655f6c656e65742e676966)
+## 静态网站
+1. [cms.js -- 客户端JavaScript站点生成器](https://github.com/chrisdiana/cms.js)
 ## funny stuff
 1. [15-puzzle -- 15拼图是一个滑动拼图，由一组编号方形拼块按随机顺序组成，缺少一个拼贴](https://github.com/imshubhamsingh/15-puzzle)
 
