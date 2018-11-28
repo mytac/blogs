@@ -10,6 +10,9 @@
 ![demo](https://user-images.githubusercontent.com/4738687/44633197-01fa4900-a95e-11e8-9b53-66e9043e2533.gif)
 4. [enquirer -- 时尚，直观，用户友好的提示系统。](https://github.com/enquirer/enquirer)
 ![demo](https://github.com/enquirer/enquirer/raw/master/media/survey-prompt.gif)
+5. [progress-estimator -- 记录进度条并估算Promise完成所需的时间](https://github.com/bvaughn/progress-estimator)
+
+![demo](https://user-images.githubusercontent.com/29597/48986949-474e2400-f0cf-11e8-86d7-d201f8ad8eca.gif)
 ## 动画
 1. [swup -- 完整，灵活，易用的页面转换库。](https://github.com/gmrchk/swup)
 
@@ -52,3 +55,5 @@
 ![demo](https://github.com/lucagez/sky/raw/master/gif/sky-gif.gif)
 
 [演示地址](https://codepen.io/lucagez/full/oQoRyK/)
+3. [Random-waifu-generater -- 随机老婆生成器==](https://github.com/reed-chan/Random-waifu-generater)
+[demo](https://reed-chan.github.io/Random-waifu-generater/)
