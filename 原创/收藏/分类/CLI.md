@@ -42,3 +42,6 @@ consola.error(new Error('Foo'))
 ![demo](https://user-images.githubusercontent.com/4738687/44633197-01fa4900-a95e-11e8-9b53-66e9043e2533.gif)
 12. [enquirer -- 时尚，直观，用户友好的提示系统。](https://github.com/enquirer/enquirer)
 ![demo](https://github.com/enquirer/enquirer/raw/master/media/survey-prompt.gif)
+13. [progress-estimator -- 记录进度条并估算Promise完成所需的时间](https://github.com/bvaughn/progress-estimator)
+
+![demo](https://user-images.githubusercontent.com/29597/48986949-474e2400-f0cf-11e8-86d7-d201f8ad8eca.gif)
