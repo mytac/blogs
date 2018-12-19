@@ -41,6 +41,7 @@
 18.10.17|[ ]|[33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
 18.10.24|[ ]|[React Internals - 了解React的工作原理](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 18.12.18|[ ]|熟悉storybook
+18.12.19|[ ]| [nodebestpractices -- 最大的Node.JS最佳实践列表（2018年11月）](https://github.com/i0natan/nodebestpractices)
 
 ## 实物书单
 
