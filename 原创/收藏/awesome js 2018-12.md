@@ -41,3 +41,5 @@
 1. [wxa-plugin-canvas -- 小程序海报组件-生成朋友圈分享海报并生成图片](https://github.com/jasondu/wxa-plugin-canvas)
 ## 学习的文档
 1. [nodebestpractices -- 最大的Node.JS最佳实践列表（2018年11月）](https://github.com/i0natan/nodebestpractices)
+## funny stuff
+1. [taiko-web -- web太鼓达人](https://github.com/bui/taiko-web)
