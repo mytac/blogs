@@ -12,6 +12,8 @@
 1. [v-charts -- 基于 Vue2.0 和 ECharts 封装的图表组件](https://github.com/ElemeFE/v-charts)    
     
     [文档](https://v-charts.js.org/#/)
+## 滚动列表
+1. [vue-virtual-scroll-list -- 支持具有高滚动性能的大数据列表的vue组件](https://github.com/tangbc/vue-virtual-scroll-list)
 # 扩展框架
 1. [saber.js -- 使用Vue.js构建静态网站的简约框架](https://github.com/egoist/saber.js)
 2. [vue-native-core -- Vue Native是一个使用JavaScript构建跨平台原生移动应用程序的框架](https://github.com/GeekyAnts/vue-native-core)
