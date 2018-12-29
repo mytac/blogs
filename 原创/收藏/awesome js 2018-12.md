@@ -15,6 +15,14 @@
     array: ['1'],
   }); /// returns true
   ```
+## 布局
+1. [Magic-Grid -- 一个简单，轻量级的Javascript库，用于动态网格布局。](https://github.com/e-oj/Magic-Grid)
+
+![demo](https://camo.githubusercontent.com/c81d42594b1b2fccd509ff83e8872f20fcd1de8a/687474703a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3137324553505a447751496637764c4d656c756e2d5f34526157445f2d6a39342d) 
+## 静态站
+1. [fiddly -- 从Readme.md文件创建美观简单的HTML页面](https://github.com/SaraVieira/fiddly)
+## 表单
+1. [autoComplete.js -- autoComplete.js是一个简单的纯vanilla Javascript库，它逐步为速度，高通用性和与各种项目和系统的无缝集成而设计，专为用户和开发人员而设计。](https://github.com/TarekRaafat/autoComplete.js)
 ## Node
 1. [sharp -- 高性能Node.js图像处理，是调整JPEG，PNG，WebP和TIFF图像大小的最快模块。使用libvips库](https://github.com/lovell/sharp)
 ## 算法
@@ -45,3 +53,7 @@
 1. [nodebestpractices -- 最大的Node.JS最佳实践列表（2018年11月）](https://github.com/i0natan/nodebestpractices)
 ## funny stuff
 1. [taiko-web -- web太鼓达人](https://github.com/bui/taiko-web)
+2. [atree -- 只是一个简单的圣诞树，基于reddit的故事](https://github.com/anvaka/atree)
+
+  ![demo](https://camo.githubusercontent.com/1ef821cdc5a42e5a04bfb71b0c830f7f4a6572d3/687474703a2f2f692e696d6775722e636f6d2f46793453316a522e676966)
+    [预览](http://anvaka.github.io/atree/)
