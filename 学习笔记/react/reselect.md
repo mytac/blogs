@@ -73,7 +73,7 @@ const mapStateToProps = (state, props) => {
   }
 }
 ```
-但是!拥有多个实例的`VisibleTodoList`不会正确的缓存状态。
+但是!拥有多个实例的`VisibleTodoList`不会正确的缓存状态。因为一个选择器只会创建一份缓存，如果我们在两个`VisibleTodoList`的实例上来回交替，每次的参数都是不一样的，所以选择器会一直重复计算，而不是返回存储好的缓存。
 ## 多个组件共享具有props的选择器
 如果要在传递props和保留缓存状态的同时，使多个`VisibleTodoList`的实例共享选择器，组件的每个实例都需要他自己的选择器私有副本。让我们创建一个名为`makeGetVisibleTodos`的函数，每次调用它时都会返回`getVisibleTodos`选择器的新副本：
 ```jsx
