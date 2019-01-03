@@ -89,3 +89,5 @@ request.on('response', response => {
 	});
 });
 ```
+## 安全
+1. [node-security -- 控制npm模块可以访问的最简单方法](https://github.com/matthaywardwebdesign/node-security)
