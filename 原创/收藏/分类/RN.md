@@ -29,3 +29,6 @@
 1. [metro -- React Native的JavaScript打包工具。](https://github.com/facebook/metro)
 ## 工具库
 1. [react-native-starter -- React Native Starter是一个移动应用程序模板，包含许多内置组件](https://github.com/flatlogic/react-native-starter)
+## 场景切换
+1. [react-native-magic-move -- 在react-native中创建场景之间的神奇移动过渡](https://github.com/IjzerenHein/react-native-magic-move)
+    ![demo](https://github.com/IjzerenHein/react-native-magic-move/raw/master/magicmove4.gif)
