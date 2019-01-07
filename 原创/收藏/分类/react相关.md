@@ -122,6 +122,10 @@ glob("**/*.js", options, function (er, files) {
 3. [crana -- 一个CLI工具，只需一个命令即可创建React + Node应用程序](https://github.com/scriptify/crana)
 ## 优化
 1. [why-did-you-update -- 当React进行不必要的更新时，将控制台置于爆炸状态。](https://github.com/maicki/why-did-you-update)
+## 手势库
+1. [react-with-gesture -- react手势库](https://github.com/drcmda/react-with-gesture)
+
+    ![demo](https://camo.githubusercontent.com/44a780a48d96323e232c62e28060a694adeccc8e/68747470733a2f2f692e696d6775722e636f6d2f7467316d4e31462e676966)
 ## 其他
 1. [react-proto --为开发人员和设计人员提供react应用原型设计工具。](https://github.com/React-Proto/react-proto)
 2. [the-platform -- Web API变成了React Hooks和Suspense友好的React组件。](https://github.com/palmerhq/the-platform)
