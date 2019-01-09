@@ -8,6 +8,9 @@
 1. [react-with-gesture -- react手势库](https://github.com/drcmda/react-with-gesture)
 
     ![demo](https://camo.githubusercontent.com/44a780a48d96323e232c62e28060a694adeccc8e/68747470733a2f2f692e696d6775722e636f6d2f7467316d4e31462e676966)
+2. [react-rewards -- 奖励用户的小事，让他们微笑！](https://github.com/thedevelobear/react-rewards) 一个点赞动画组件
+
+    ![demo](https://github.com/thedevelobear/react-rewards/raw/master/react-rewards.gif)
 ## rn相关
 1. [react-native-magic-move -- 在react-native中创建场景之间的神奇移动过渡](https://github.com/IjzerenHein/react-native-magic-move)
     ![demo](https://github.com/IjzerenHein/react-native-magic-move/raw/master/magicmove4.gif)
@@ -22,3 +25,6 @@
 2. [Here -- Here Music 一个 使用 Electron + React 开发的音乐客户端](https://github.com/caijinyc/Here)
 
     ![demo](https://github.com/caijinyc/Here/raw/master/docs/img/%E6%8E%A8%E8%8D%90%E5%88%97%E8%A1%A8.png)
+3. [trilium -- 使用Trilium Notes构建您的个人知识库](https://github.com/zadam/trilium)
+
+    ![demo](https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png)

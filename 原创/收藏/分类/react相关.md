@@ -97,6 +97,9 @@ glob("**/*.js", options, function (er, files) {
 2. [react-flip-toolkit -- React FLIP动画助手库，用于高级可配置转换](https://github.com/aholachek/react-flip-toolkit)
 
     ![demo](https://github.com/aholachek/react-flip-toolkit/raw/master/example-assets/photogrid.gif)
+3. [react-rewards -- 奖励用户的小事，让他们微笑！](https://github.com/thedevelobear/react-rewards) 一个点赞动画组件
+
+    ![demo](https://github.com/thedevelobear/react-rewards/raw/master/react-rewards.gif)
 ## 实例
 1. [React Slack Clone -- 使用react创建slack聊天应用](https://github.com/pusher/react-slack-clone)
     
