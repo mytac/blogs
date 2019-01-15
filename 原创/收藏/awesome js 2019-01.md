@@ -17,6 +17,8 @@
 ## 文档
 1. [learn-json-web-tokens -- 了解如何使用JSON Web Token（JWT）来保护您的下一个Web App！ （教程/测试示例!!）](https://github.com/dwyl/learn-json-web-tokens)
 2. [simple-redux -- 用于教学目的的redux的简单实现](https://github.com/eddyerburgh/simple-redux)
+3. [awesome-mac -- 现在我们变得非常大，与最初的想法不同。收集各种类别的高级软件。](https://github.com/jaywcjlove/awesome-mac)
+4. [electron-quick-start -- electron学习文档](https://github.com/electron/electron-quick-start)
 ## funny stuff
 1. [Motrix -- 一款全能的下载工具,支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://github.com/agalwood/Motrix)
 

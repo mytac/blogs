@@ -3,15 +3,10 @@
 ```css
 // css
 body{
-
--webkit-user-select: none;
-
+  -webkit-user-select: none;
   -moz-user-select: none;
-
   -ms-user-select: none;
-
   user-select: none; 
-
 }
 ```
 ```js
@@ -41,3 +36,25 @@ div.addition{
    height:10rem; // 生效
 }
 ```
+### 4. 按照滚动位置显示进度条
+内容背景线性过渡，用伪元素前置设置背景颜色，露出一部分进度条高度。[参考](https://juejin.im/post/5c35953ce51d45523f04b6d2)
+```css
+div.container {
+    position: relative;
+    background-image: linear-gradient(to right top, green 50%, red 50%);
+    background-size: 100% calc(100% - 100vh + 10px);
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+div.container::after {
+    content: "";
+    position: fixed;
+    top: 5px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-color: #fff;
+}
+``` 
