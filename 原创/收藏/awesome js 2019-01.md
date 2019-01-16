@@ -19,6 +19,7 @@
 2. [simple-redux -- 用于教学目的的redux的简单实现](https://github.com/eddyerburgh/simple-redux)
 3. [awesome-mac -- 现在我们变得非常大，与最初的想法不同。收集各种类别的高级软件。](https://github.com/jaywcjlove/awesome-mac)
 4. [electron-quick-start -- electron学习文档](https://github.com/electron/electron-quick-start)
+5. [security-checklist -- 在互联网上保持安全的清单](https://github.com/brianlovin/security-checklist)
 ## funny stuff
 1. [Motrix -- 一款全能的下载工具,支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://github.com/agalwood/Motrix)
 
@@ -30,3 +31,6 @@
 3. [trilium -- 使用Trilium Notes构建您的个人知识库](https://github.com/zadam/trilium)
 
     ![demo](https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png)
+4. [BitVision -- 比特币预测，交易和图表软件完全在终端中运行](https://github.com/shobrook/BitVision)
+
+    ![demo](https://github.com/shobrook/BitVision/raw/master/resources/demo.png)

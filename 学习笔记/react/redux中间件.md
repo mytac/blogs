@@ -25,6 +25,9 @@ const loggerMiddleWare = ({ dispatch, getState }) => {
     }
 }
 ```
+## 调用中间件
+调用中间件有两种方法
+### 1. 使用applyMiddleware
 调用这个中间件：
 ```js
 import logMiddleWare from './reduxMiddleWare/logger'
