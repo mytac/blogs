@@ -25,12 +25,15 @@
 
     [官网](https://onsen.io/)
     ![demo](https://camo.githubusercontent.com/d6b430c80dda5fdf918272eb352e0e63cb5238d3/68747470733a2f2f6f6e73656e2e696f2f696d616765732f73616d706c65732f72656163742d72656475782d776561746865722e706e67)
+2. [hotkey -- 全局DOM元素激活](https://github.com/github/hotkey)
 ## 格式化工具
 1. [typescript-eslint -- Monorepo用于所有工具，使ESLint能够支持TypeScript](https://github.com/typescript-eslint/typescript-eslint)
 ## 图片处理
 1. [shiny -- 给图片加上反光背景](https://github.com/rikschennink/shiny)
     
     ![demo](https://github.com/rikschennink/shiny/raw/master/demo.gif)
+## 学习的文档
+1. [css_tricks](https://github.com/QiShaoXuan/css_tricks)
 ## funny stuff
 1. [Motrix -- 一款全能的下载工具,支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://github.com/agalwood/Motrix)
 
@@ -45,3 +48,5 @@
 4. [BitVision -- 比特币预测，交易和图表软件完全在终端中运行](https://github.com/shobrook/BitVision)
 
     ![demo](https://github.com/shobrook/BitVision/raw/master/resources/demo.png)
+5. [Gitter -- Gitter for GitHub - 可能是目前颜值最高的GitHub小程序客户端](https://github.com/huangjianke/Gitter)
+6. [zaobao -- 每日时报，以前端技术体系为主要分享课题。根据：文章、工具、新闻、视频几大板块作为主要分类。](https://github.com/wubaiqing/zaobao)
