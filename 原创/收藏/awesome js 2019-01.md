@@ -14,6 +14,8 @@
 ## rn相关
 1. [react-native-magic-move -- 在react-native中创建场景之间的神奇移动过渡](https://github.com/IjzerenHein/react-native-magic-move)
     ![demo](https://github.com/IjzerenHein/react-native-magic-move/raw/master/magicmove4.gif)
+## 框架
+1. [chameleon -- 真正专注于让一套代码运行多端的开发框架，提供标准的MVVM架构开发模式统一各类终端](https://github.com/didi/chameleon)研发同学在端内既追求h5的灵活性，也要追求性能趋近于原生。 面对入口扩张，主端、独立端、微信小程序、支付宝小程序、百度小程序、Android厂商联盟快应用，单一功能在各平台都要重复实现，开发和维护成本成倍增加。迫切需要维护一套代码可以构建多入口的解决方案，历经近20个月打磨，滴滴跨端解决方案Chameleon终于发布。真正专注于让一套代码运行多端。
 ## 文档
 1. [learn-json-web-tokens -- 了解如何使用JSON Web Token（JWT）来保护您的下一个Web App！ （教程/测试示例!!）](https://github.com/dwyl/learn-json-web-tokens)
 2. [simple-redux -- 用于教学目的的redux的简单实现](https://github.com/eddyerburgh/simple-redux)
@@ -26,6 +28,9 @@
     [官网](https://onsen.io/)
     ![demo](https://camo.githubusercontent.com/d6b430c80dda5fdf918272eb352e0e63cb5238d3/68747470733a2f2f6f6e73656e2e696f2f696d616765732f73616d706c65732f72656163742d72656475782d776561746865722e706e67)
 2. [hotkey -- 全局DOM元素激活](https://github.com/github/hotkey)
+3. [x-spreadsheet -- 在线的js电子表格](https://github.com/myliang/x-spreadsheet)
+
+    ![demo](https://raw.githubusercontent.com/myliang/x-spreadsheet/master/docs/demo.png)
 ## 格式化工具
 1. [typescript-eslint -- Monorepo用于所有工具，使ESLint能够支持TypeScript](https://github.com/typescript-eslint/typescript-eslint)
 ## 图片处理
