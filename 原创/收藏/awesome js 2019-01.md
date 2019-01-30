@@ -39,6 +39,16 @@
     ![demo](https://github.com/rikschennink/shiny/raw/master/demo.gif)
 ## 学习的文档
 1. [css_tricks](https://github.com/QiShaoXuan/css_tricks)
+## 架构相关
+1. [import-http -- 从URL而不是本地node_modules导入模块](https://github.com/egoist/import-http)
+在webpack中：
+```js
+const ImportHttpWebpackPlugin = require('import-http/webpack')
+
+module.exports = {
+  plugins: [new ImportHttpWebpackPlugin()]
+}
+```
 ## funny stuff
 1. [Motrix -- 一款全能的下载工具,支持下载 HTTP、FTP、BT、磁力链、百度网盘等资源](https://github.com/agalwood/Motrix)
 
