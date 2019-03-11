@@ -54,7 +54,17 @@ try {
   console.error('~> data:', err.data);
 }
 ```
+## 人工智能
+1. [handtrack.js -- 用于直接在浏览器中进行实时手部检测（边界框）原型设计的库。](https://github.com/victordibia/handtrack.js)
+
+![demo](https://github.com/victordibia/handtrack.js/raw/master/demo/images/bossflip.gif)
+2. [nlp.js -- 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能](https://github.com/axa-group/nlp.js)
+
+  ![demo](https://github.com/axa-group/nlp.js/raw/master/screenshots/hybridbot.gif)
+
 ## vue相关
 1. [quasar -- 高性能，Material Design 2，带Vue.js的完整前端堆栈](https://github.com/quasarframework/quasar)
+## 大牛博客
+1. [frankmcsherry/blog](https://github.com/frankmcsherry/blog)
 ## funny stuff
 1. [miniC-hosting -- 一个简单的基于堆栈的虚拟机，在浏览器中运行C.](https://github.com/vasyop/miniC-hosting)
