@@ -4,6 +4,9 @@
 1. [animated-burgers -- React的动画汉堡集合，也可用作HTML + CSS](https://github.com/march08/animated-burgers)
 
 [demo](https://march08.github.io/animated-burgers/)
+2. [react-three-fiber -- Three.js的React-renderer](https://github.com/drcmda/react-three-fiber)
+
+![demo](https://camo.githubusercontent.com/ab0f0018c0fa81fc6d020be4595d80fba4f2f46a/68747470733a2f2f692e696d6775722e636f6d2f6946746a4b484d2e676966)
 ## 动画相关
 1. [typeit -- 这个星球上最通用的JavaScript动画打字工具](https://github.com/alexmacarthur/typeit)
 ![demo](https://github.com/alexmacarthur/typeit/raw/master/demo.gif)
