@@ -69,5 +69,12 @@ try {
 1. [quasar -- 高性能，Material Design 2，带Vue.js的完整前端堆栈](https://github.com/quasarframework/quasar)
 ## 大牛博客
 1. [frankmcsherry/blog](https://github.com/frankmcsherry/blog)
+## 文档
+1. [docker_practice -- 通过真正的DevOps练习，学习和了解Docker技术！](https://github.com/yeasy/docker_practice)
 ## funny stuff
 1. [miniC-hosting -- 一个简单的基于堆栈的虚拟机，在浏览器中运行C.](https://github.com/vasyop/miniC-hosting)
+2. [slate -- 适用于API的精美静态文档](https://github.com/lord/slate)
+
+    ![demo](https://raw.githubusercontent.com/lord/img/master/screenshot-slate.png)
+    
+    [demo](https://lord.github.io/slate/#authentication)

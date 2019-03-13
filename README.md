@@ -42,6 +42,7 @@
 18.10.24|[ ]|[React Internals - 了解React的工作原理](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 18.12.18|[ ]|熟悉storybook
 18.12.19|[ ]| [nodebestpractices -- 最大的Node.JS最佳实践列表（2018年11月）](https://github.com/i0natan/nodebestpractices)
+19.3.13|[ ]| [docker_practice -- 通过真正的DevOps练习，学习和了解Docker技术！](https://github.com/yeasy/docker_practice)
 
 ## 实物书单
 
