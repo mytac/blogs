@@ -25,10 +25,17 @@
 1. [react-native-bouncing-preloader -- 使用React Native中的自定义图标弹跳预加载器组件](https://github.com/sonnylazuardi/react-native-bouncing-preloader)
     
     [demo](https://github.com/sonnylazuardi/react-native-bouncing-preloader/raw/master/bouncingpreloader.gif)
+## 按钮
+1. [react-native-really-awesome-button -- React Native按钮组件。 Awesome Button是一个60fps的3D，支持进度，社交就绪，可扩展，生产就绪的组件，可以呈现一组很棒的动画UI按钮](https://github.com/rcaferati/react-native-really-awesome-button)
+
+![demo](https://raw.githubusercontent.com/rcaferati/react-native-really-awesome-button/master/demo/demo-button-blue-new.gif?raw=true)
 ## 其他
-1. [metro -- React Native的JavaScript打包工具。](https://github.com/facebook/metro)
+1. [react-native-reanimated-bottom-sheet -- 高度可配置的底部组件，使用react-native-reanimated和react-native-gesture-handler制作](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+
+![demo](https://github.com/osdnk/react-native-reanimated-bottom-sheet/raw/master/gifs/2.gif)
 ## 工具库
 1. [react-native-starter -- React Native Starter是一个移动应用程序模板，包含许多内置组件](https://github.com/flatlogic/react-native-starter)
+2. [metro -- React Native的JavaScript打包工具。](https://github.com/facebook/metro)
 ## 场景切换
 1. [react-native-magic-move -- 在react-native中创建场景之间的神奇移动过渡](https://github.com/IjzerenHein/react-native-magic-move)
     ![demo](https://github.com/IjzerenHein/react-native-magic-move/raw/master/magicmove4.gif)

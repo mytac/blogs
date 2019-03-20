@@ -10,6 +10,11 @@
 ## 动画相关
 1. [typeit -- 这个星球上最通用的JavaScript动画打字工具](https://github.com/alexmacarthur/typeit)
 ![demo](https://github.com/alexmacarthur/typeit/raw/master/demo.gif)
+2. [laxxx -- 简单轻巧（2kb缩小和压缩）香草javascript插件，当你滚动时创建流畅和美丽的动画！利用最直观的互动的力量，让您的网站活跃起来！](https://github.com/alexfoxy/laxxx)
+
+  ![demo](https://camo.githubusercontent.com/9c753cc96b8ce9b065bc33f736118768c2ecc2ea/68747470733a2f2f692e696d6775722e636f6d2f4448686c724d332e676966)
+
+[demo](https://alexfox.dev/laxxx/)
 ## css相关
 1. [linaria -- JS库中的零运行时CSS](https://github.com/callstack/linaria)在js中写css，0 runtime
 ```jsx
@@ -57,6 +62,8 @@ try {
   console.error('~> data:', err.data);
 }
 ```
+## 数据相关
+1. [construct-js -- 用于创建字节级数据结构的库。](https://github.com/francisrstokes/construct-js)
 ## 人工智能
 1. [handtrack.js -- 用于直接在浏览器中进行实时手部检测（边界框）原型设计的库。](https://github.com/victordibia/handtrack.js)
 
@@ -64,7 +71,37 @@ try {
 2. [nlp.js -- 用于构建机器人的NLP库，具有实体提取，情感分析，自动语言识别等功能](https://github.com/axa-group/nlp.js)
 
   ![demo](https://github.com/axa-group/nlp.js/raw/master/screenshots/hybridbot.gif)
+## react native
+1. [react-native-really-awesome-button -- React Native按钮组件。 Awesome Button是一个60fps的3D，支持进度，社交就绪，可扩展，生产就绪的组件，可以呈现一组很棒的动画UI按钮](https://github.com/rcaferati/react-native-really-awesome-button)
 
+![demo](https://raw.githubusercontent.com/rcaferati/react-native-really-awesome-button/master/demo/demo-button-blue-new.gif)
+2. [react-native-reanimated-bottom-sheet -- 高度可配置的底部组件，使用react-native-reanimated和react-native-gesture-handler制作](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
+
+![demo](https://github.com/osdnk/react-native-reanimated-bottom-sheet/raw/master/gifs/2.gif)
+## 表单
+1. [cleave.js -- 键入时格式化输入文本内容。](https://github.com/nosir/cleave.js)
+## 请求
+1. [async-retry -- 重试变得简单，容易和异步](https://github.com/zeit/async-retry)
+```js
+const retry = require('async-retry')
+const fetch = require('node-fetch')
+
+await retry(async bail => {
+  // if anything throws, we retry
+  const res = await fetch('https://google.com')
+
+  if (403 === res.status) {
+    // don't retry upon 403
+    bail(new Error('Unauthorized'))
+    return
+  }
+
+  const data = await res.text()
+  return data.substr(0, 500)
+}, {
+  retries: 5
+})
+```
 ## vue相关
 1. [quasar -- 高性能，Material Design 2，带Vue.js的完整前端堆栈](https://github.com/quasarframework/quasar)
 ## 大牛博客
@@ -78,3 +115,7 @@ try {
     ![demo](https://raw.githubusercontent.com/lord/img/master/screenshot-slate.png)
     
     [demo](https://lord.github.io/slate/#authentication)
+3. [wechat-format -- 微信公众号排版编辑器，转化 Markdown 微信特制的 HTML ](https://github.com/lyricat/wechat-format)
+
+  [demo](https://lab.lyric.im/wxformat/)
+4. [baiduyun -- 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速](https://github.com/syhyz1990/baiduyun)
