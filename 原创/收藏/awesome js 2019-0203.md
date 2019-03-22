@@ -7,6 +7,47 @@
 2. [react-three-fiber -- Three.js的React-renderer](https://github.com/drcmda/react-three-fiber)
 
 ![demo](https://camo.githubusercontent.com/ab0f0018c0fa81fc6d020be4595d80fba4f2f46a/68747470733a2f2f692e696d6775722e636f6d2f6946746a4b484d2e676966)
+3. [formal -- react hooks 时代的优雅跨平台表单管理原语。](https://github.com/kevinwolfcr/formal)
+```jsx
+import React from "react";
+import useFormal from "@kevinwolf/formal";
+
+const initialValues = {
+  firstName: "Tony",
+  lastName: "Stark",
+  email: "ironman@avengers.io"
+};
+
+function App() {
+  const formal = useFormal(initialValues, {
+    onSubmit: values => console.log("Your values are:", values)
+  });
+
+  return (
+    <form onSubmit={formal.submit}>
+      <div>
+        <label htmlFor="firstName">First Name</label>
+        <input {...formal.getFieldProps("firstName")} type="text" />
+      </div>
+
+      <div>
+        <label htmlFor="lastName">Last Name</label>
+        <input {...formal.getFieldProps("lastName")} type="text" />
+      </div>
+
+      <div>
+        <label htmlFor="email">Email</label>
+        <input {...formal.getFieldProps("email")} type="text" />
+      </div>
+
+      <button type="submit">Submit</button>
+    </form>
+  );
+}
+```
+4. [Vibe -- 使用Bootstrap 4构建一个漂亮的react.js仪表板](https://github.com/NiceDash/Vibe)
+
+![demo](https://github.com/NiceDash/Vibe/raw/master/assets/preview.png)
 ## 动画相关
 1. [typeit -- 这个星球上最通用的JavaScript动画打字工具](https://github.com/alexmacarthur/typeit)
 ![demo](https://github.com/alexmacarthur/typeit/raw/master/demo.gif)

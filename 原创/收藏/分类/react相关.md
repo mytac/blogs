@@ -55,6 +55,44 @@ glob("**/*.js", options, function (er, files) {
 
 	![demo](https://camo.githubusercontent.com/7829b2dcc921447e750e09e8316930e30c596c9e/68747470733a2f2f74686570726163746963616c6465762e73332e616d617a6f6e6177732e636f6d2f692f646274366d6f6f677076336b717570326b3077652e676966)
 6. [react-jsonschema-form -- 用于从JSON Schema构建Web表单的React组件。](https://github.com/mozilla-services/react-jsonschema-form)
+7. [formal -- react hooks 时代的优雅跨平台表单管理原语。](https://github.com/kevinwolfcr/formal)
+```jsx
+import React from "react";
+import useFormal from "@kevinwolf/formal";
+
+const initialValues = {
+  firstName: "Tony",
+  lastName: "Stark",
+  email: "ironman@avengers.io"
+};
+
+function App() {
+  const formal = useFormal(initialValues, {
+    onSubmit: values => console.log("Your values are:", values)
+  });
+
+  return (
+    <form onSubmit={formal.submit}>
+      <div>
+        <label htmlFor="firstName">First Name</label>
+        <input {...formal.getFieldProps("firstName")} type="text" />
+      </div>
+
+      <div>
+        <label htmlFor="lastName">Last Name</label>
+        <input {...formal.getFieldProps("lastName")} type="text" />
+      </div>
+
+      <div>
+        <label htmlFor="email">Email</label>
+        <input {...formal.getFieldProps("email")} type="text" />
+      </div>
+
+      <button type="submit">Submit</button>
+    </form>
+  );
+}
+```
 ## markdown
 1. [mdxc -- 在jsx中写markdown](https://github.com/jamesknelson/mdxc)
 
@@ -85,6 +123,9 @@ glob("**/*.js", options, function (er, files) {
 ![demo](https://github.com/lucagez/sky/raw/master/gif/sky-gif.gif)
 
 [演示地址](https://codepen.io/lucagez/full/oQoRyK/)
+6. [Vibe -- 使用Bootstrap 4构建一个漂亮的react.js仪表板](https://github.com/NiceDash/Vibe)
+
+![demo](https://github.com/NiceDash/Vibe/raw/master/assets/preview.png)
 ## 测试
 1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
 2. [kit -- 用于开发，记录和测试React组件库的工具 ](https://github.com/c8r/kit)
