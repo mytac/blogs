@@ -119,6 +119,10 @@ try {
 2. [react-native-reanimated-bottom-sheet -- 高度可配置的底部组件，使用react-native-reanimated和react-native-gesture-handler制作](https://github.com/osdnk/react-native-reanimated-bottom-sheet)
 
 ![demo](https://github.com/osdnk/react-native-reanimated-bottom-sheet/raw/master/gifs/2.gif)
+## 视频相关
+1. [griffith -- 基于React的网络视频播放器](https://github.com/zhihu/griffith)
+不仅仅是react也支持standalone模式
+![demo](https://camo.githubusercontent.com/769e4ffef142b47a3fac69107884e78523092c00/68747470733a2f2f7a687374617469632e7a686968752e636f6d2f6366652f67726966666974682f706c617965722e706e67)
 ## 表单
 1. [cleave.js -- 键入时格式化输入文本内容。](https://github.com/nosir/cleave.js)
 ## 请求
