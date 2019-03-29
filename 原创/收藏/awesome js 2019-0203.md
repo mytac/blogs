@@ -164,3 +164,5 @@ await retry(async bail => {
 
   [demo](https://lab.lyric.im/wxformat/)
 4. [baiduyun -- 油猴脚本 直接下载百度网盘和百度网盘分享的文件,直链下载超级加速](https://github.com/syhyz1990/baiduyun)
+5. [programmer-job-blacklist -- 程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞 ](https://github.com/shengxinjing/programmer-job-blacklist)
+6. [955.WLB -- 955 不加班的公司名单](https://github.com/formulahendry/955.WLB)
