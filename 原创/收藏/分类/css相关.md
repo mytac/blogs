@@ -21,6 +21,10 @@ const header = css`
 // Then use it as a class name
 <h1 class={header}>Hello world</h1>;
 ```
+## 插件
+1. [css-doodle -- 用于使用CSS绘制图案的Web组件。](https://github.com/css-doodle/css-doodle)
+
+    ![demo](https://github.com/css-doodle/css-doodle/raw/master/screenshot/doodle.png)
 ## 网格布局
 1. [Magic-Grid -- 一个简单，轻量级的Javascript库，用于动态网格布局。](https://github.com/e-oj/Magic-Grid)
 

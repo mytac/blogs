@@ -10,6 +10,9 @@
 7. [react-window -- React组件，用于有效地呈现大型列表和表格数据](https://github.com/bvaughn/react-window)
 
     [官网](https://react-window.now.sh/#/examples/list/fixed-size)
+8. [zhui -- 一款带有中国风的React组件库](https://github.com/zhui-team/zhui) 感觉还是蛮酷的，超美
+    
+    [官方文档](https://inspiring-bardeen-426f2e.netlify.com/card)
 ## 地图
 1. [rc-bmap -- 当百度地图遇上React，会产生怎样的火花🔥 🎉欢迎您的加入](https://github.com/jser-club/rc-bmap)
 
