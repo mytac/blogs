@@ -1,0 +1,1 @@
+1. [bypass-paywalls-chrome -- chrome上绕过支付墙](https://github.com/iamadamdev/bypass-paywalls-chrome)
