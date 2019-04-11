@@ -18,6 +18,11 @@
 2. [libpku -- 北京大学课程资料整理](https://github.com/lib-pku/libpku)
 3. [dsa.js -- 使用JavaScript的数据结构和算法](https://github.com/amejiarosario/dsa.js)
 4. [google-interview-preparation-problems -- leetcode上用js解决的算法题源码](https://github.com/mgechev/google-interview-preparation-problems)
+## 优化
+1. [lazysizes -- 高性能和SEO友好的延迟加载器，用于图像（响应和正常），iframe等，可检测通过用户交互，CSS或JavaScript触发的任何可见性更改，无需配置。](https://github.com/aFarkas/lazysizes)懒加载。
+[demo](https://blog.csdn.net/gao449812984/article/details/80900546)
+## 大牛博客
+1. [ljianshu/Blog -- 关注基础知识，打造优质前端博客，欢迎关注我的公众号：前端工匠](https://github.com/ljianshu/Blog)
 ## funny stuff
 1. [hanzi-writer -- 汉字笔画顺序动画和练习测验](https://github.com/chanind/hanzi-writer)
 2. [AutoPiano -- 自由钢琴 AutoPiano](https://github.com/WarpPrism/AutoPiano) 可以在上面学琴~~
