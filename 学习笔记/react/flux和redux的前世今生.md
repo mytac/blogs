@@ -7,9 +7,9 @@
 ```
 【action】 相当于外卖订单。他有一个actiontype（可以联想为唯一的订单编号），和其他信息（比如菜品、备注、电话等等等）。
 
-【dispatcher】和外卖平台一样，通过你的订单编号，找到订单具体的信息，再派发给商家，让他。
+【dispatcher】和外卖平台一样，通过你的订单编号，找到订单具体的信息，再派发给商家。
 
-【store】  程序中可以表现为纯Object，或者是Immutable对象（不深究，毕竟flux是一种思想），可以想象是卖了一份餐商家就改变库存。（这里与redux不同，redux是只有一个store）
+【store】  程序中可以表现为纯Object，或者是Immutable对象，可以想象是卖了一份餐商家就改变库存。（这里与redux不同，redux是只有一个store）
 
 【controller-view】 顶层的view，比如你帮你同事订餐，外卖小哥给你打电话，你负责把餐品分发给其他同事(下层的view)。
 ```
@@ -57,10 +57,18 @@ CityStore.dispatchToken = flightDispatcher.register(function(payload) {
         // Select the default city for the new country
         CityStore.city = getDefaultCityForCountry(CountryStore.country);
      }
-    });
+});
  ```
-在`dispatch({actionType: 'city-update',selectedCountry: 'beijing'})`时，`CountryStore`和`CityStore`两个store都注册了type为`country-update`的action。如果其中store A中的更新需要依赖于store B，就必须得保证store B先更新之后，再执行store A的更新。所以引入了`waitFor`，等待`CountryStore`更新完成之后，才会更新`CityStore.city`。
+在`dispatch({actionType: 'city-update',selectedCountry: 'beijing'})`时，`CountryStore`和`CityStore`两个store都注册了type为`country-update`的action。如果其中store A中的更新需要依赖于store B，就必须得保证store B先更新之后，再执行store A的更新。所以引入 了`waitFor`，等待`CountryStore`更新完成之后，才会更新`CityStore.city`。
+
+从上面的示例，我们可以看出整个flux的思想就是，dispatcher发送一个action，通过action的type与`dispatcher`上注册的回调函数进行匹配，从而控制store上的数据更新。
 ## Redux
+### 时间旅行
+### 绝对的Pure
+## 二者区别
+### 1. 核心角色
+如果想要更新`store`中的数据，在`flux`中主要是通过 `Dispatcher`上注册的回调函数操作的，而在
+
 ## 推荐文章
 1. [Flux源码解析（一）](http://satanwoo.github.io/2015/09/23/flux-js-part-one/)
 2. [facebook-flux-In Depth Overview](https://facebook.github.io/flux/docs/in-depth-overview.html#content)
