@@ -7,7 +7,7 @@
 1. [react-native-menu -- 适用于Android和iOS的灵活下拉菜单组件，与Android的Spinner类似。](https://github.com/jaysoo/react-native-menu)
     
     ![demo](https://raw.githubusercontent.com/jaysoo/react-native-menu/master/packages/react-native-menu/android.demo.gif)
-    
+
 ## UI
 1. [react-native-elements -- 跨平台React本地用户界面工具包](https://github.com/react-native-training/react-native-elements)
     
@@ -39,3 +39,5 @@
 ## 场景切换
 1. [react-native-magic-move -- 在react-native中创建场景之间的神奇移动过渡](https://github.com/IjzerenHein/react-native-magic-move)
     ![demo](https://github.com/IjzerenHein/react-native-magic-move/raw/master/magicmove4.gif)
+## 框架
+1. [CRN -- CRN是Ctrip React Native简称，由携程无线平台研发团队基于React Native框架优化，定制成稳定性和性能更佳、也更适合业务场景的跨平台开发框架。](https://github.com/ctripcorp/CRN)

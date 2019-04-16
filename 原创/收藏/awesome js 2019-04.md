@@ -6,6 +6,9 @@
 ## 控件
 1. [cursor-effects -- 只有90后孩子们知道的鼠标特效](https://github.com/tholman/cursor-effects)
     目前有雪花，气泡，蝙蝠。。挺有意思的
+2. [js-cloudimage-360-view -- 通过令人惊叹的360度产品视图吸引客户](https://github.com/scaleflex/js-cloudimage-360-view)
+## rn相关
+1. [CRN -- CRN是Ctrip React Native简称，由携程无线平台研发团队基于React Native框架优化，定制成稳定性和性能更佳、也更适合业务场景的跨平台开发框架。](https://github.com/ctripcorp/CRN)
 ## css相关
 1. [css-doodle -- 用于使用CSS绘制图案的Web组件。](https://github.com/css-doodle/css-doodle)
 
