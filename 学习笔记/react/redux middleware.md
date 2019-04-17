@@ -3,7 +3,7 @@
 
 先看个例子，比如：写一个logger middleware，在每次`dispatch`时，都在控制台打印`action`。
 ```js
-const loggerMiddleware=store=>next=>action=>{
+const loggerMiddleware=({ dispatch, getState })=>next=>action=>{
   console.log('action',action)
   next(action)
 }
@@ -55,28 +55,9 @@ curry(1)(2)(3)
 // 执行上一步的匿名函数，闭包保存a,b,c
 console.log(a,b,c) // 1 2 3
 ```
-综合上例，我们对比`middleWare`的实现，也能够了解他是怎样累积参数的了。
-### 在redux middleware中的实现与使用
-我们先来看下核心实现：
-```js
-// middlewares数组
-const middlewares = [
-    next => action => { console.log(action); next(action) },
-    next => action => { console.warn(action); next(action) },
-    next => action => { console.dir(action); next(action) },
-]
+综合上例，我们类比`middleWare`的实现，也能够大概知道一点他是怎样累积参数的了。那么我们再看一下`applyMiddleware`是怎么把一个个中间件串起来，让他们共享一个`store`的。
 
-// applyMiddleware方法的核心！！
-function compose(chain) { 
-  // middlewares=[m1,m2,m3]
-  return chain.reduce((a, b) => (...args) => a(b(...args)))
-}
-// 执行compose之后，相当于执行了m1(m2(m3(store.dispatch)))
-
-const dispatch = compose(middlewares)(store.dispatch)
-dispatch({ type: 'hello' })
-// 控制台将打印三条{ type: 'hello' }
-```
+## applyMiddleware源码解读
 源码
 ```js
 export default function applyMiddleware(...middlewares) {
@@ -90,10 +71,13 @@ export default function applyMiddleware(...middlewares) {
     }
     let chain = [] //用于存放中间件
 
+    /*  applyMiddleware主要作用：改造dispatch方法*/
     const middlewareAPI = {
       getState: store.getState,
       dispatch: (...args) => dispatch(...args)
     }
+
+    // 这里拿到的store引用都指向同一个值，因此store是共享的
     chain = middlewares.map(middleware => middleware(middlewareAPI))
     dispatch = compose(...chain)(store.dispatch)
 
@@ -117,9 +101,28 @@ export default function compose(...funcs) {
   return funcs.reduce((a, b) => (...args) => a(b(...args)))
 }
 ```
-从源码中我们可以看到，`applyMiddleware`封装了`store`然后把这个参数传递给每个`middleware`。在`compose`中，进行了
+从源码中我们可以看到，`applyMiddleware`封装了`store`然后把这个参数传递给每个`middleware`。在`compose`中，进行了参数累加。
 
+上面的核心逻辑我们可以压缩成以下代码：
+```js
+// middlewares数组
+const chains = [
+    next => action => { console.log(action); next(action) },
+    next => action => { console.warn(action); next(action) },
+    next => action => { console.dir(action); next(action) },
+]
 
+// applyMiddleware方法的核心！！
+function compose(chain) { 
+  // middlewares=[m1,m2,m3]
+  return chain.reduce((a, b) => (...args) => a(b(...args)))
+}
+const dispatch = compose(chains)(store.dispatch)
+// 当执行dispatch时，相当于执行了m1(m2(m3(store.dispatch)))，每一个middleware会依次执行
 
+// reduce之后是这样的 action => { console.log(action); console.warn(action);console.dir(action); }
+dispatch({ type: 'hello' })
+// 控制台将打印三条{ type: 'hello' }
+```
 ## 推荐阅读
 1. [详解JS函数柯里化](https://www.jianshu.com/p/2975c25e4d71)
