@@ -129,6 +129,9 @@ function App() {
 6. [Vibe -- 使用Bootstrap 4构建一个漂亮的react.js仪表板](https://github.com/NiceDash/Vibe)
 
 ![demo](https://github.com/NiceDash/Vibe/raw/master/assets/preview.png)
+7. [react-material-dashboard -- React Dashboard由Material UI的组件，React和当然create-react-app制作，以促进您的应用程序开发过程！](https://github.com/devias-io/react-material-dashboard)
+
+![demo](https://camo.githubusercontent.com/243b563a8415b4b2deaccc389e7c8242703669e2/68747470733a2f2f73332e65752d776573742d322e616d617a6f6e6177732e636f6d2f6465766961732f70726f64756374732f72656163742d6d6174657269616c2d64617368626f6172642f6d6174657269616c2d72656163742d64617368626f6172642d667265652e676966)
 ## 测试
 1. [react-testing-library -- 测试React组件的一个非常轻量级的解决方案。它在react-dom和react-dom / test-utils之上提供轻型实用程序功能，以鼓励更好的测试实践。](https://github.com/kentcdodds/react-testing-library)
 2. [kit -- 用于开发，记录和测试React组件库的工具 ](https://github.com/c8r/kit)

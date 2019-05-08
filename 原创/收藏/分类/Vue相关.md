@@ -49,6 +49,8 @@ export default {
 
 ![demo](https://raw.githubusercontent.com/FairyEver/d2-admin/master/github/preview@2x.png)
 2. [quasar -- 高性能，Material Design 2，带Vue.js的完整前端堆栈](https://github.com/quasarframework/quasar)
+## 跨平台
+1. [uni-app -- 使用 Vue.js 开发跨平台应用的前端框架 ](https://github.com/dcloudio/uni-app)
 ## 其他
 1. [gridsome -- 使用Vue.js和GraphQL构建超快的网站](https://github.com/gridsome/gridsome)
 
