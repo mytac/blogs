@@ -6,6 +6,7 @@
 2. [react-material-dashboard -- React Dashboard由Material UI的组件，React和当然create-react-app制作，以促进您的应用程序开发过程！](https://github.com/devias-io/react-material-dashboard)
 
 ![demo](https://camo.githubusercontent.com/243b563a8415b4b2deaccc389e7c8242703669e2/68747470733a2f2f73332e65752d776573742d322e616d617a6f6e6177732e636f6d2f6465766961732f70726f64756374732f72656163742d6d6174657269616c2d64617368626f6172642f6d6174657269616c2d72656163742d64617368626f6172642d667265652e676966)
+3. [i18nize-react -- 在午休时间内对应用程序进行国际化](https://github.com/Ghost---Shadow/i18nize-react)
     
 ## 控件
 1. [cursor-effects -- 只有90后孩子们知道的鼠标特效](https://github.com/tholman/cursor-effects)
@@ -31,6 +32,10 @@
 ## webgl
 1. [ElGrapho -- 一个高性能的WebGL图形数据可视化引擎。 El Grapho可以在任何现代浏览器中支持数百万个交互式节点和边缘。](https://github.com/ericdrowell/ElGrapho)
 ![demo](https://raw.githubusercontent.com/ericdrowell/ElGrapho/master/img/elgrapho-examples.png)
+2. [WebGL-Fluid-Simulation -- 在浏览器中使用流体（甚至可以在移动设备上使用）](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)超级美
+
+![demo](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/raw/master/screenshot.png?raw=true)
+[demo](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
 ## 文档
 1. [You-Dont-Need-jQuery -- 如何使用简单的javascript进行查询，样式，dom，ajax，事件等的示例。](https://github.com/nefe/You-Dont-Need-jQuery)
 2. [libpku -- 北京大学课程资料整理](https://github.com/lib-pku/libpku)
@@ -46,8 +51,16 @@
 1. [Lepton -- Lepton是一个基于GitHub Gist的精简代码片段管理器](https://github.com/hackjutsu/Lepton)
 
 ![demo](https://github.com/hackjutsu/Lepton/raw/master/docs/img/portfolio/stay_organized.png)
+## 动画相关
+1. [ola -- 用于插值数字的平滑动画库](https://github.com/franciscop/ola)
+![demo](https://raw.githubusercontent.com/franciscop/ola/master/docs/line.gif)
 ## funny stuff
 1. [hanzi-writer -- 汉字笔画顺序动画和练习测验](https://github.com/chanind/hanzi-writer)
 2. [AutoPiano -- 自由钢琴 AutoPiano](https://github.com/WarpPrism/AutoPiano) 可以在上面学琴~~
 3. [Awesome-Design-Tools -- 适合一切的最佳设计工具](https://github.com/LisaDziuba/Awesome-Design-Tools)
 4. [bypass-paywalls-chrome -- chrome上绕过支付墙](https://github.com/iamadamdev/bypass-paywalls-chrome)
+5. [gitfolio -- 每个github用户的个人网站+博客](https://github.com/imfunniee/gitfolio)非常漂亮的ui
+![demo](https://camo.githubusercontent.com/26b629015c11856d553f1014acd4aacaa08c48b0/68747470733a2f2f692e696d6775722e636f6d2f654136636c5a722e706e67)
+6. [vhr -- 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。](https://github.com/lenve/vhr)
+7. [fusuma -- Fusuma很容易使用Markdown制作幻灯片](https://github.com/hiroppy/fusuma)
+![demo](https://github.com/hiroppy/fusuma/raw/master/media/procedure-screenshot.png)

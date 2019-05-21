@@ -153,6 +153,7 @@ function App() {
     ![demo](https://user-images.githubusercontent.com/1457604/35891289-687ad6ec-0b9b-11e8-99cc-ffbad31a017e.gif)
 ## 国际化
 1. [JavaScript和React的可读，自动化和优化（5 kb）国际化](https://github.com/lingui/js-lingui)
+2. [i18nize-react -- 在午休时间内对应用程序进行国际化](https://github.com/Ghost---Shadow/i18nize-react)
 ## 文档
 1. [react-lifecycle-methods-diagram -- 交互式React生命周期方法图。](https://github.com/wojtekmaj/react-lifecycle-methods-diagram)建议收藏看看非常直观，一看就理解了
     
