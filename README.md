@@ -1,16 +1,19 @@
 # blogs
-## 公众号与个人微信
+## 个人微信与博客社区等
 想和喜欢技术的你做个朋友~
 
 我的微信
 
 ![我的微信tac_coolzjz](http://chuantu.biz/t6/351/1533093799x-1404755510.png)
 
-我的公众号：每周一三五七晚上八点定时更新，关于技术，关于生活的点滴~
+[我的简书 -- 所有文章的收集箱，大多是读书笔记和遇到问题的记录](https://www.jianshu.com/u/5ed1bc7b3716)
+比较小的问题就记录在这个repo的同名文件夹下了，没有发表到社区上
 
-![我的公众号](http://thyrsi.com/t6/383/1538919731x-1404781090.jpg)
+[我的掘金 -- 自己深度研究过写的文章](https://juejin.im/user/59acca62518825242238ffe9/posts)
 
+[github page -- hexo搭的，完成度不太高只是ui好看而已，因为不经常更，所以技术文章以后不想写在上面了](https://mytac.github.io/)
 ## todo list
+看起来值得研究的文章都列出来。。。但我都没看，emmm思想上的巨人
 
 起始时间 | 完成度 | 事件
 ---- | ---| ---
@@ -32,7 +35,6 @@
 18.3.13 |[ ]|阅读[前端开发规范手册](https://github.com/jawil/blog/issues/4#issuecomment-372111231)
 18.3.21 |[ ]|阅读[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 18.3.27 |[ ]|阅读[How-to-learn-node-correctly](https://github.com/i5ting/How-to-learn-node-correctly/)
-18.4.18|[ ]|配置json文件，生成简历
 18.6.11|[ ]|[vue-design -- 逐行级别的源码分析 ](https://github.com/HcySunYang/vue-design)
 18.7.17|[ ]|[React-Redux-Styleguide -- 这是一套用于开发React应用程序的工作指南](https://github.com/iraycd/React-Redux-Styleguide)
 18.7.31|[ ]|[大前端神器安利之 Puppeteer](https://jeffjade.com/2017/12/17/134-kinds-of-toss-using-puppeteer/)
@@ -40,26 +42,30 @@
 18.10.17|[ ]|[Web-Series -- 现代 Web 开发，现代 Web 开发导论](https://github.com/wxyyxc1992/Web-Series)Web 开发，入门易，深度难，分为初窥门径、登堂入室、融会贯通等阶段。本仓库存放 ITCS 技术体系与知识图谱-Web 前端相关领域的 Web 开发基础与工程实践的相关博客、示例代码与开源项目、整理成的系列书籍等内容；目前为了更好地体系化阅读，笔者将所有的内容规整到了不同的系列文章 / 书籍中。
 18.10.17|[ ]|[33-js-concepts -- 每个JavaScript开发人员应该知道33个概念。](https://github.com/leonardomso/33-js-concepts)
 18.10.24|[ ]|[React Internals - 了解React的工作原理](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
-18.12.18|[ ]|熟悉storybook
 18.12.19|[ ]| [nodebestpractices -- 最大的Node.JS最佳实践列表（2018年11月）](https://github.com/i0natan/nodebestpractices)
 19.3.13|[ ]| [docker_practice -- 通过真正的DevOps练习，学习和了解Docker技术！](https://github.com/yeasy/docker_practice)
 
 ## 实物书单
 
-书名 | 创建日期 | 完成度 
+书名 | 创建日期 | 是否读完
 --- | ---- | --- 
-你不知道的js上（已购）| 17.12.7 |[ √ ]
+你不知道的js上（已购，推荐购买！！）| 17.12.7 |[ √ ]
 你不知道的js中（已购）| 17.12.7 |[√ ]
-NodeJs实战| 17.12|[]
-深入理解es6| 18.1 |[]
-深入浅出react技术栈| 18.2 |[]
-图解http| 18.1 |[]
-大话设计模式| 18.2|[]
+你不知道的js下（已购）| 17.12.7 |[√ ]
+NodeJs实战（已购）| 17.12|[]
+深入理解es6| --|[]
+深入react技术栈（已购，推荐购买！！）| 18.2 |[√ ]
+图解http（微信读书上有）| 18.1 |[√ ]
+大话设计模式|--|[]
+javascript设计模式（已购）| 19.5|[]
+剑指offer（已购）| 19.5|[]
 
 
-## Contents
+## 目录
 [翻译](https://github.com/mytac/blogs/tree/master/%E7%BF%BB%E8%AF%91)
 
 [刷算法题记录](https://github.com/mytac/blogs/tree/master/%E5%88%B7%E9%A2%98)
 
 [刷面试题记录](https://github.com/mytac/blogs/blob/master/%E9%9D%A2%E8%AF%95%E9%A2%98/%E7%9B%AE%E5%BD%95.md)
+
+[我的常用工具集合](https://github.com/mytac/blogs/blob/master/%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/%E6%88%91%E7%9A%84%E5%B7%A5%E5%85%B7%E9%9B%86.md)
