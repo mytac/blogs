@@ -7,7 +7,46 @@
 
 ![demo](https://camo.githubusercontent.com/243b563a8415b4b2deaccc389e7c8242703669e2/68747470733a2f2f73332e65752d776573742d322e616d617a6f6e6177732e636f6d2f6465766961732f70726f64756374732f72656163742d6d6174657269616c2d64617368626f6172642f6d6174657269616c2d72656163742d64617368626f6172642d667265652e676966)
 3. [i18nize-react -- 在午休时间内对应用程序进行国际化](https://github.com/Ghost---Shadow/i18nize-react)
-    
+## 插件
+1. [dlv -- 120字节的安全深度属性访问。x = dlv](https://github.com/developit/dlv)    
+```js
+import delve from 'dlv';
+
+let obj = {
+	a: {
+		b: {
+			c: 1,
+			d: undefined,
+			e: null
+		}
+	}
+};
+
+//use string dot notation for keys
+delve(obj, 'a.b.c') === 1;
+
+//or use an array key
+delve(obj, ['a', 'b', 'c']) === 1;
+
+delve(obj, 'a.b') === obj.a.b;
+
+//returns undefined if the full key path does not exist and no default is specified
+delve(obj, 'a.b.f') === undefined;
+
+//optional third parameter for default if the full key in path is missing
+delve(obj, 'a.b.f', 'foo') === 'foo';
+
+//or if the key exists but the value is undefined
+delve(obj, 'a.b.d', 'foo') === 'foo';
+
+//Non-truthy defined values are still returned if they exist at the full keypath
+delve(obj, 'a.b.e', 'foo') === null;
+
+//undefined obj or key returns undefined, unless a default is supplied
+delve(undefined, 'a.b.c') === undefined;
+delve(undefined, 'a.b.c', 'foo') === 'foo';
+delve(obj, undefined, 'foo') === 'foo';
+```
 ## 控件
 1. [cursor-effects -- 只有90后孩子们知道的鼠标特效](https://github.com/tholman/cursor-effects)
     目前有雪花，气泡，蝙蝠。。挺有意思的
