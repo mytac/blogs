@@ -84,12 +84,19 @@ delve(obj, undefined, 'foo') === 'foo';
 ## 优化
 1. [lazysizes -- 高性能和SEO友好的延迟加载器，用于图像（响应和正常），iframe等，可检测通过用户交互，CSS或JavaScript触发的任何可见性更改，无需配置。](https://github.com/aFarkas/lazysizes)懒加载。
 [demo](https://blog.csdn.net/gao449812984/article/details/80900546)
+## 学习文档
+1. [javascript-questions](https://github.com/lydiahallie/javascript-questions)
+一长串（高级）JavaScript问题及其解释✨每周更新一次！
+2. [Python-100-Days -- Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 ## 大牛博客
 1. [ljianshu/Blog -- 关注基础知识，打造优质前端博客，欢迎关注我的公众号：前端工匠](https://github.com/ljianshu/Blog)
 ## 开发工具
 1. [Lepton -- Lepton是一个基于GitHub Gist的精简代码片段管理器](https://github.com/hackjutsu/Lepton)
 
 ![demo](https://github.com/hackjutsu/Lepton/raw/master/docs/img/portfolio/stay_organized.png)
+2. [readme-md-generator](https://github.com/kefranabg/readme-md-generator)readme-md-generator能够读取您的环境（package.json，git config ...），以便在README.md创建过程中建议您的默认答案
+
+![demo](https://user-images.githubusercontent.com/9840435/59459416-07f1e580-8e1d-11e9-89e7-6a5e6b373e93.gif)
 ## 动画相关
 1. [ola -- 用于插值数字的平滑动画库](https://github.com/franciscop/ola)
 ![demo](https://raw.githubusercontent.com/franciscop/ola/master/docs/line.gif)
