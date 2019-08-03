@@ -89,28 +89,3 @@ request.on('response', response => {
 	});
 });
 ```
-4. [async-retry -- 重试变得简单，容易和异步](https://github.com/zeit/async-retry)
-```js
-const retry = require('async-retry')
-const fetch = require('node-fetch')
-
-await retry(async bail => {
-  // if anything throws, we retry
-  const res = await fetch('https://google.com')
-
-  if (403 === res.status) {
-    // don't retry upon 403
-    bail(new Error('Unauthorized'))
-    return
-  }
-
-  const data = await res.text()
-  return data.substr(0, 500)
-}, {
-  retries: 5
-})
-```
-## 数据
-1. [construct-js -- 用于创建字节级数据结构的库。](https://github.com/francisrstokes/construct-js)
-## 安全
-1. [node-security -- 控制npm模块可以访问的最简单方法](https://github.com/matthaywardwebdesign/node-security)
