@@ -8,3 +8,7 @@
 4. [api-platform -- REST 和 GraphQL 框架来构建现代的 API 驱动的项目（服务器端和客户端）](https://github.com/api-platform/api-platform)
 
 [官网](https://api-platform.com/)
+
+5. [graphql-engine -- 具有细粒度访问控制的 Postgres 上快速，实时的 GraphQL API 非常出色，也触发了数据库事件上的 webhooks。](https://github.com/hasura/graphql-engine)
+
+![demo](https://github.com/hasura/graphql-engine/raw/master/assets/demo.gif)
