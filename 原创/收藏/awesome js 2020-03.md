@@ -66,3 +66,7 @@ AES256加密（用于文件块，令牌等！）
 ![demo](https://user-images.githubusercontent.com/26399680/52215123-5a028780-28ce-11e9-8491-08c4c5dac3b4.png)
 
 6. [surge -- 一些脚本，包含京东、淘宝展示原价，移除微博脚本，丁丁打卡等](https://github.com/yichahucha/surge/tree/master)
+
+7. [grocy -- erp 管理冰箱](https://github.com/grocy/grocy)智慧食谱。。基于这个项目，我又有一个更好的创意～～～ TODO
+
+8. [core -- JAVClub - 让你的大姐姐不再走丢](https://github.com/JAVClub/core)
