@@ -70,3 +70,7 @@ AES256加密（用于文件块，令牌等！）
 7. [grocy -- erp 管理冰箱](https://github.com/grocy/grocy)智慧食谱。。基于这个项目，我又有一个更好的创意～～～ TODO
 
 8. [core -- JAVClub - 让你的大姐姐不再走丢](https://github.com/JAVClub/core)
+
+## 文档
+
+1. [chinese-independent-blogs -- 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 大牛博客
