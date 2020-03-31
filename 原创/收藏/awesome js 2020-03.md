@@ -71,6 +71,8 @@ AES256加密（用于文件块，令牌等！）
 
 8. [core -- JAVClub - 让你的大姐姐不再走丢](https://github.com/JAVClub/core)
 
+9. [Reactive-Resume -- 独一无二的简历构建器，牢记您的隐私。完全安全，可定制，可移植，开源且永久免费。今天尝试一下](https://github.com/AmruthPillai/Reactive-Resume) TODO
+
 ## 文档
 
 1. [chinese-independent-blogs -- 中文独立博客列表](https://github.com/timqian/chinese-independent-blogs) 大牛博客
