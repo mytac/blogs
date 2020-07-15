@@ -17,7 +17,22 @@ const quickSort=(arr,low,high)=>{
     quickSort(arr,i+1,high)
 }
 
+const bubbleSort=(arr)=>{
+    for(let i=0;i<arr.length;i++){
+        let j=0
+        while(j<arr.length-i){
+            if(arr[j]>arr[j+1]){
+                const temp=arr[j+1]
+                arr[j+1]=arr[j]
+                arr[j]=temp
+            }
+            j++
+            console.log(arr)
+        }
+    }
+}
 
-const arr=[8,11,0,8,23,46]
-quickSort(arr,0,arr.length-1)
+
+const arr=[8,11,0,8,23,-1,9,8,46]
+bubbleSort(arr)
 console.log(arr)
