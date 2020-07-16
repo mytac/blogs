@@ -32,7 +32,56 @@ const bubbleSort=(arr)=>{
     }
 }
 
+const heapSort=(myArr)=>{
+    let len;
+    // 构造大顶堆
+    const buildHeap=(arr)=>{
+        len=arr.length
+        for(let i=Math.floor(len/2)-1;i>=0;i--){
+            heapify(arr,i)
+        }
+    }
 
-const arr=[8,11,0,8,23,-1,9,8,46]
-bubbleSort(arr)
-console.log(arr)
+    const heapify=(arr,i)=>{
+       let left=i*2+1,right=i*2+2,
+       largest=i
+       if(arr[left]&&arr[left]>arr[largest]){
+           largest=left
+       }
+       if(arr[right]&&arr[right]>arr[largest]){
+           largest=right
+       }
+
+       if(largest!==i){
+           swap(arr,largest,i)
+           heapify(arr,largest)
+       }
+
+    }
+
+    const swap=(arr,a,b)=>{
+       const temp=arr[a]
+       arr[a]=arr[b]
+       arr[b]=temp
+    }
+
+    const sort=(arr)=>{
+        const res=[]
+        buildHeap(arr)
+        console.log('build init',arr)
+        while(arr.length){
+            swap(arr,0,arr.length-1)
+            res.push(arr.pop())
+            heapify(arr,0)
+        }
+        return res
+    }
+
+    return sort(myArr)
+}
+
+
+const arr=[1,2,3,-99,2,1,0]
+//heapSort(arr)
+console.log(heapSort(arr))
+/* console.log(arr) */
