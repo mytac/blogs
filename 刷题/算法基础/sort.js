@@ -33,11 +33,9 @@ const bubbleSort=(arr)=>{
 }
 
 const heapSort=(myArr)=>{
-    let len;
     // 构造大顶堆
     const buildHeap=(arr)=>{
-        len=arr.length
-        for(let i=Math.floor(len/2)-1;i>=0;i--){
+        for(let i=Math.floor(arr.length/2)-1;i>=0;i-=1){
             heapify(arr,i)
         }
     }
@@ -45,14 +43,15 @@ const heapSort=(myArr)=>{
     const heapify=(arr,i)=>{
        let left=i*2+1,right=i*2+2,
        largest=i
-       if(arr[left]&&arr[left]>arr[largest]){
+       // 注意下面typeof 这行，如果某节点有零会false。。造成包含0的用例测试不过的原因
+       if(typeof arr[left]!=='undefined'&&arr[left]>arr[largest]){
            largest=left
        }
-       if(arr[right]&&arr[right]>arr[largest]){
+       if(typeof arr[right]!=='undefined'&&arr[right]>arr[largest]){
            largest=right
        }
 
-       if(largest!==i){
+       if(largest!==i){ // 改变了
            swap(arr,largest,i)
            heapify(arr,largest)
        }
@@ -68,10 +67,10 @@ const heapSort=(myArr)=>{
     const sort=(arr)=>{
         const res=[]
         buildHeap(arr)
-        console.log('build init',arr)
         while(arr.length){
             swap(arr,0,arr.length-1)
-            res.push(arr.pop())
+            const item=arr.pop()
+            res.push(item)
             heapify(arr,0)
         }
         return res
@@ -80,7 +79,7 @@ const heapSort=(myArr)=>{
     return sort(myArr)
 }
 
-
+const arr1=[1,2,3,4,5]
 const arr=[1,2,3,-99,2,1,0]
 //heapSort(arr)
 console.log(heapSort(arr))
