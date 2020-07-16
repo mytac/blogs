@@ -3,18 +3,20 @@
  * @Author: mytac
  * @Date: 2020-07-15 08:34:57
  */
-const quickSort=(arr,low,high)=>{
-    if(low>=high) return;
-    let i=low,j=high,pivot=arr[low]
-    while(i<j){
-        while(i<j&&arr[j]>pivot) j--
-        if(i<j) arr[i++]=arr[j]
-        while(i<j&&arr[i]<pivot) i++
-        if(i<j) arr[j--]=arr[i]
+const quickSort = (arr, low, high) => {
+    if (low >= high) return;
+    let i = low,
+        j = high,
+        pivot = arr[low]
+    while (i < j) {
+        while (i < j && arr[j] > pivot) j--
+        if (i < j) arr[i++] = arr[j]
+        while (i < j && arr[i] < pivot) i++
+        if (i < j) arr[j--] = arr[i]
     }
-    arr[i]=pivot
-    quickSort(arr,low,i-1)
-    quickSort(arr,i+1,high)
+    arr[i] = pivot
+    qs(arr, low, i - 1)
+    qs(arr, i + 1, high)
 }
 
 const bubbleSort=(arr)=>{
@@ -84,3 +86,68 @@ const arr=[1,2,3,-99,2,1,0]
 //heapSort(arr)
 console.log(heapSort(arr))
 /* console.log(arr) */
+
+const ss = (arr) => {
+    for (j = 0; j < arr.length; j++) {
+        let min = arr[j],
+            k = j
+        for (let i = j + 1; i < arr.length; i++) {
+            if (arr[i] < min) {
+                min = arr[i]
+                k = i
+            }
+        }
+        const temp = arr[j]
+        arr[j] = min
+        arr[k] = temp
+    }
+
+}
+
+const ms = (arr) => {
+    let final = null
+    const merge = (myArr) => {
+        if (myArr.length < 2) return myArr;
+        const midLen = Math.floor(myArr.length / 2)
+        console.log('midLen', midLen)
+        const leftArr = myArr.slice(0, midLen)
+        const rightArr = myArr.slice(midLen)
+        const left = merge([...myArr.slice(0, midLen)])
+        const right = merge([...myArr.slice(midLen)])
+        console.log('left', left)
+        console.log('leftArr', leftArr)
+        console.log('leftArr merge', merge(leftArr))
+        console.log('rightArr merge', merge(rightArr))
+        console.log('======')
+        const res = mergeSort(left, right)
+        return res
+    }
+
+    const mergeSort = (left, right) => {
+        const res = []
+        while (left.length && right.length) {
+            if (left[0] <= right[0]) {
+                res.push(left.shift())
+            } else {
+                res.push(right.shift())
+            }
+        }
+
+        while (left.length) {
+            res.push(left.shift())
+        }
+        while (right.length) {
+            res.push(right.shift())
+        }
+        return res
+    }
+    final = [...merge(arr)]
+    return final
+
+}
+
+
+const arr = [4, 3, 2, 1]
+const arr1 = [1, 2, 3, 45, 6, 999, 100000000, 3]
+
+console.log(ms(arr))
