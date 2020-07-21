@@ -81,11 +81,6 @@ const heapSort=(myArr)=>{
     return sort(myArr)
 }
 
-const arr1=[1,2,3,4,5]
-const arr=[1,2,3,-99,2,1,0]
-//heapSort(arr)
-console.log(heapSort(arr))
-/* console.log(arr) */
 
 const ss = (arr) => {
     for (j = 0; j < arr.length; j++) {
@@ -109,16 +104,8 @@ const ms = (arr) => {
     const merge = (myArr) => {
         if (myArr.length < 2) return myArr;
         const midLen = Math.floor(myArr.length / 2)
-        console.log('midLen', midLen)
-        const leftArr = myArr.slice(0, midLen)
-        const rightArr = myArr.slice(midLen)
         const left = merge([...myArr.slice(0, midLen)])
         const right = merge([...myArr.slice(midLen)])
-        console.log('left', left)
-        console.log('leftArr', leftArr)
-        console.log('leftArr merge', merge(leftArr))
-        console.log('rightArr merge', merge(rightArr))
-        console.log('======')
         const res = mergeSort(left, right)
         return res
     }
@@ -146,8 +133,44 @@ const ms = (arr) => {
 
 }
 
+const is=(arr)=>{
+    if(arr.length<2) return arr;
+   for(let i=1;i<arr.length;i++){
+       let j=i-1;
+       const current=arr[i]
+       while(j>=0&&current<arr[j]){
+           arr[j+1]=arr[j]
+           arr[j]=current
+            j--;
+       }
+   }
+   return arr
+}
+
+const swap=(arr,a,b)=>{
+    const temp=arr[a]
+    arr[a]=arr[b]
+    arr[b]=temp
+ }
+
+const hs=(arr)=>{
+    
+    const gap=Math.floor(arr.length/2)
+    for(let i=0;i<gap;i++){
+        let j=i;
+        while(){
+
+        }
+        if(arr[i]<arr[i+gap]){
+            swap(arr,i,i+gap)
+        }
+    }
+
+    
+}
 
 const arr = [4, 3, 2, 1]
 const arr1 = [1, 2, 3, 45, 6, 999, 100000000, 3]
+const arr2=[8,-1,3,0,6,8,0,-5]
 
-console.log(ms(arr))
+console.log(is(arr2))
