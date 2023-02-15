@@ -20,3 +20,9 @@
 1. [meshwalk](https://github.com/yomotsu/meshwalk) 使用 threejs 快速开发 TPS 游戏（第三人称射击游戏）
 
 [示例](https://yomotsu.github.io/xmas2014/)
+
+### texture
+
+1. [three-projected-material - Three.js 材质，可让您在 3d 模型上进行纹理投影](https://github.com/marcofugaro/three-projected-material)
+
+![demo](https://github.com/marcofugaro/three-projected-material/raw/master/examples/screenshots/3d-model.png)
