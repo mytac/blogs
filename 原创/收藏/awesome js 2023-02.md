@@ -21,6 +21,9 @@
 
     ![demo](https://github.com/lllyasviel/ControlNet/raw/main/github_page/p1.png)
 
+5. [WAAS - 基于 OPENAI 的 Whisper 服务](https://github.com/schibsted/WAAS)
+6. [llama - facebook 出的大型语言模型](https://github.com/facebookresearch/llama)
+
 ## Canvas
 
 1. [motion-canvas - 一个使用生成器对动画进行编程的 TypeScript 库、提供所述动画的实时预览的编辑器。](https://github.com/motion-canvas/motion-canvas)
@@ -35,18 +38,13 @@
 
 [在线示例](https://marcofugaro.github.io/three-projected-material/3d-model)
 
-## 好玩的东东
+## 动画库
 
-1. [wechat-bot- 一个基于 OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...](https://github.com/wangrongding/wechat-bot)
+1. [lenis - 顺滑的滚轴动画](https://github.com/studio-freight/lenis)
 
-## 学习的文档
+    可以看下[官方 demo](https://lenis.studiofreight.com/)，像动画短片一样
 
-1. [kubernetes-learning-path - kubernetes 学习 roadmap](https://github.com/techiescamp/kubernetes-learning-path)
-2. [Programmers-Overseas-Job-Interview-Handbook - 程序员海外工作/英文面试手册 ](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
-   非常全的文档集合，从找工作到辅助面试常用语都有，润学家必备！
-3. [DEVOPS-WORLD - 学习 DEVOPS 的路线图和文档合集](https://github.com/annfelix/DEVOPS-WORLD)
-
-## 组件库
+## 组件/组件库
 
 1. [vexip-ui - 一个 Vue 3 UI 库，高度可定制的属性值，完整的 TypeScript，性能非常好](https://github.com/vexip-ui/vexip-ui)
 
@@ -55,6 +53,10 @@
 ![demo](https://user-images.githubusercontent.com/40221744/218237119-fb20cd58-1c35-40bf-8be7-df764aa887e6.png)
 
 [官网](https://www.vexipui.com/zh-CN)
+
+2. [emoji-mart - 可定制的 emoji 选择器 HTML 组件](https://github.com/missive/emoji-mart)
+
+![demo](https://user-images.githubusercontent.com/436043/163686169-766ef715-89b5-4ada-88d7-672623713bc0.png)
 
 ## low code
 
@@ -69,3 +71,18 @@
 ```
 
 [desc](https://camo.githubusercontent.com/e405017c0897dbd19c039af403b85d41e474bae68d2fd014ae605bd509d6ebd3/68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69332f4f31434e303149697342637931644e424967313651464d5f2121363030303030303030333732332d322d7470732d313931362d313037302e706e67)
+
+## 学习的文档
+
+1. [kubernetes-learning-path - kubernetes 学习 roadmap](https://github.com/techiescamp/kubernetes-learning-path)
+2. [Programmers-Overseas-Job-Interview-Handbook - 程序员海外工作/英文面试手册 ](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)
+   非常全的文档集合，从找工作到辅助面试常用语都有，润学家必备！
+3. [DEVOPS-WORLD - 学习 DEVOPS 的路线图和文档合集](https://github.com/annfelix/DEVOPS-WORLD)
+4. [Prompt-Engineering-Guide - 提示工程指南](https://github.com/dair-ai/Prompt-Engineering-Guide) chatgpt 带火的工程，非常值得一看
+
+## 好玩的东东
+
+1. [wechat-bot- 一个基于 OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...](https://github.com/wangrongding/wechat-bot)
+2. [memos - 一个轻量级的自托管备忘录中心。开源且永远免费。](https://github.com/usememos/memos)
+
+    ![demo](https://usememos.com/demo.webp)
