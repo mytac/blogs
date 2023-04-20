@@ -4,9 +4,9 @@
 
 想和喜欢技术的你做个朋友~
 
-我的微信
+我的微信 kongkkukukaka
 
-![我的微信tac_coolzjz](http://chuantu.biz/t6/351/1533093799x-1404755510.png)
+[developers-conferences-agenda - 全球开发者会议日程总览](https://github.com/scraly/developers-conferences-agenda)
 
 [我的简书 -- 所有文章的收集箱，大多是读书笔记和遇到问题的记录](https://www.jianshu.com/u/5ed1bc7b3716)
 比较小的问题就记录在这个 repo 的同名文件夹下了，没有发表到社区上
