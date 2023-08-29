@@ -21,13 +21,39 @@
 
 1. [metamask-extension - 在浏览器上使用 metamask](https://github.com/MetaMask/metamask-extension)metamask 是一个在几秒钟内开始探索区块链的应用程序。受到全球超过 3000 万用户的信赖。
 
-## 部署相关
+## 建站相关
 
 1. [pipedream - Pipedream 是一个基于云的自动化和集成平台，它可以帮助开发人员和非技术人员创建和部署工作流，无需编写任何代码。Pipedream 的功能包括事件处理、数据转换、API 集成等，可以帮助用户轻松地将不同的应用程序和服务连接在一起。同时，Pipedream 还提供了丰富的工具和文档，方便用户进行开发和调试。](https://github.com/PipedreamHQ/pipedream)
 
 ![demo](https://github.com/PipedreamHQ/pipedream/raw/master/images/hero2.png)
 
 [视频说明](https://www.youtube.com/watch?v=pRHsQyyfYl0)
+
+2. [uptime-kuma - 简单易用的站点监控工具](https://github.com/louislam/uptime-kuma)
+
+![demo](https://user-images.githubusercontent.com/1336778/212262296-e6205815-ad62-488c-83ec-a5b0d0689f7c.jpg)
+
+```
+监控HTTP(s) / TCP / HTTP(s)关键字/ HTTP(s) Json查询/ Ping / DNS记录/ Push / Steam游戏服务器/ Docker容器的运行时间
+花哨、反应性、快速的UI/UX
+通过Telegram, Discord, Gotify, Slack, Pushover, Email (SMTP)和90多个通知服务进行通知，点击这里查看完整列表
+20秒的间隔
+多语言
+多个状态页
+将状态页映射到特定的域
+平图
+证书信息
+代理支持
+2 fa支持
+```
+
+## LLM 相关
+
+1. [ollama-ui - 只是一个简单的 Ollama HTML UI 现在可作为 Chrome 扩展使用](https://github.com/ollama-ui/ollama-ui)
+
+[商店地址](https://chrome.google.com/webstore/detail/ollama-ui/cmgdpmlhgjhoadnonobjeekmfcehffco)
+
+![demo](https://github.com/ollama-ui/ollama-ui/raw/main/screenshot.png?raw=true)
 
 ## 工作相关
 
@@ -49,3 +75,5 @@
 3. [academicpages.github.io - 学术人必备的学术个人主页模板](https://github.com/academicpages/academicpages.github.io)
 
 [在线示例](https://academicpages.github.io/)
+
+4. [register - 自动化注册免费的 is-a-dev 域名](https://github.com/is-a-dev/register)
